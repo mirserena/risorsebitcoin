@@ -1,6 +1,8 @@
-# risorsebitcoin
+# risorsebitcoin by Mir
+
 
 La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicuramente manca qualcosa, che ho perso o non é stata ancora creata. Enjoy. 
+
 
 
 
@@ -16,12 +18,10 @@ La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicura
   - [**3.2 - Facebook**](#3.2---Facebook)
   - [**3.3 - Forum di BitcoinTalk in italiano**](#3.3---Forum-di-BitcoinTalk-in-italiano)
   - [**3.4 - Meetup**](#3.4---Meetup)
-
 - [**4 - Wallet**](#4---Wallet)
 - [**5 - Exchange/sistemi per comprare Bitcoin**](#5---Exchange/sistemi-per-comprare-Bitcoin)
 - [**6 - Runnare un full node**](#6---Runnare-un-full-node)
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
-
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
 - [**9 - Come contribuire alla lista**](#9---Come-contribuire-alla-lista)
 
