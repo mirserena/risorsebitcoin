@@ -29,7 +29,7 @@ La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicura
 
 
 
-- ### **1 - Da dove iniziare**
+- ## **1 - Da dove iniziare**
     
     - Primi passi
         - https://bitcoin.org/it/da-sapere
@@ -46,7 +46,7 @@ La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicura
     
     
     
-- ### **2 - Approfondimenti**
+- ## **2 - Approfondimenti**
     
     - #### **2.1 - Video**
         
@@ -118,7 +118,7 @@ La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicura
     
     
     
-- ### **3 - Community** 
+- ## **3 - Community** 
     
     - #### **3.1 - Telegram**
         
@@ -150,7 +150,7 @@ La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicura
         
         
 
-- ### **4 - Wallet**
+- ## **4 - Wallet**
     
     - Guida completa al wallet Bitcoin, con Lightning Network
         - https://www.albertodeluigi.com/2020/12/13/wallet_lightning_network/
@@ -167,7 +167,7 @@ La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicura
         - https://wasabiwallet.io/#
     
     
-- ### **5 - Exchange/sistemi per comprare Bitcoin**
+- ## **5 - Exchange/sistemi per comprare Bitcoin**
     
     - Relai
         - https://play.google.com/store/apps/details?id=com.relai&hl=it&gl=IT
@@ -185,7 +185,7 @@ La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicura
         - https://exmo.com/it
     
     
-- ### **6 - Runnare un full node**
+- ## **6 - Runnare un full node**
     
     - Guida
         - https://github.com/Fillippone/NodoBitcoinforDummies
@@ -193,20 +193,20 @@ La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicura
         - https://bitcoin.org/it/scarica
     
     
-- ### **7 - Servizi Bitcoin per le imprese**
+- ## **7 - Servizi Bitcoin per le imprese**
     
     - https://tinkl.it/
     - https://bitshopbologna.it/
     
     
 
-- ### **8 - Imprese che accettano Bitcoin**
+- ## **8 - Imprese che accettano Bitcoin**
     
     - https://www.quibitcoin.it/
 
 
 
-- ### **9 - Come contribuire alla lista**
+- ## **9 - Come contribuire alla lista**
 
   Chiunque può proporre modifiche tramite pull request: don't be shy. Tanto ve le casserò quasi tutte perché (una o più delle seguenti):
 
