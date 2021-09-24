@@ -1,9 +1,15 @@
 # risorsebitcoin by Mir
 
 
-La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicuramente manca qualcosa, che ho perso o non é stata ancora creata. Enjoy. 
+La MIA lista di RISORSE su Bitcoin in italiano. 
 
+Oggi, per oggi. In continua mutazione.
 
+Sicuramente manca qualcosa, che ho perso o non é stata ancora creata. 
+
+Enjoy e SE VOLETE CONTRIBUIRE aggiungendo risorse o proponendo nuove o diverse categorie... beh sotto vi spiego meglio al punto 9.
+
+Partiamo! 
 
 
 - [**1 - Da dove iniziare**](#1---Da-dove-iniziare)
@@ -62,6 +68,7 @@ La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicura
             - https://www.youtube.com/watch?v=90ihJJp6Cqs
         - Atomic swap per principianti
             - https://www.youtube.com/watch?v=xqtulqFaiNw
+            
     - #### **2.2 - Letture online**
         
         - Una lettera a tutti coloro che non hanno bitcoin
@@ -208,10 +215,11 @@ La mia lista di risorse preferite su Bitcoin in italiano. Oggi, per oggi. Sicura
 
 - ## **9 - Come contribuire alla lista**
 
-  Chiunque può proporre modifiche tramite pull request: don't be shy. Tanto ve le casserò quasi tutte perché (una o più delle seguenti):
+  Chiunque può proporre modifiche tramite pull request: don't be shy. 
+  Ma vi avviso che tanto ne casserò parecchie perché (una o più delle seguenti):
 
-  - Siete degli shitcoiner (non vi giudico ci sono passati anche i migliori)
-  - Siete dei miei amici che vogliono farmi perdere tempo
-  - Siete delle persone che vogliono dimostrarmi cos'é la decentralizzazione perché questa repo é troppo centralizzata
-  - Siete un bot
-  - Siete il mio ghost-writer e non siete più d'accordo con la selezione
+  - siete degli shitcoiner (niente di personale, ci sono passati anche i migliori)
+  - siete dei miei amici che vogliono farmi perdere tempo
+  - siete delle persone che vogliono dimostrarmi cos'é la vera decentralizzazione perché questa repo é troppo centralizzata. Ma niente rimango la regina delle mie risorse.
+  - siete dei bot, vi apprezzo ma siete noiosi
+  - siete il mio ghost-writer e non siete più d'accordo con la selezione
