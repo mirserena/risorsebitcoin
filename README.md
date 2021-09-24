@@ -1,14 +1,17 @@
 # risorsebitcoin by Mir
 
 
-La MIA lista di RISORSE su Bitcoin in italiano. 
+La mia lista di RISORSE su Bitcoin IN ITALIANO.
+Quindi, in sostanza, l'idea è che potete anche non conoscere l'inglese (oltre a Bitcoin, wallet, hello, the cat is on the table...) per usare e imparare Bitcoin grazie a queste risorse. E potrete anche rimanere nel belpaese per alcuni servizi.
 
-Oggi, per oggi. In continua mutazione.
+Una lista di oggi, per oggi. In continua mutazione.
 
-Sicuramente manca qualcosa, che ho perso o non é stata ancora creata. 
+Sicuramente manca qualcosa, che mi sono persa o non é stata ancora creata. 
 Sicuramente qualcosa è lí per sbaglio o non funziona piú.
 
-Perció enjoy e SE avete voglia di CONTRIBUIRE aggiungendo risorse, correggendo o proponendo nuove o diverse categorie... beh sotto vi spiego meglio al punto 10.
+Perció ENJOY! (diamine un'altra parola in inglese) 
+
+Se avete voglia di CONTRIBUIRE aggiungendo risorse, correggendo o proponendo nuove/diverse categorie... vi spiego meglio al punto 10.
 
 Partiamo! 
 
@@ -167,30 +170,23 @@ Partiamo!
         - https://www.albertodeluigi.com/2020/12/13/wallet_lightning_network/
     - Hardware wallet
         - https://www.hardwarewallet.it/
-    - Samourai
-        - https://play.google.com/store/apps/details?id=com.samourai.wallet
-    - Green
-        - https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet
-    - Electrum (manca traduzione in italiano)
-        - https://play.google.com/store/apps/details?id=org.electrum.electrum
-        - https://electrum.org/#home
-    - Wasabi (manca traduzione in italiano)
-        - https://wasabiwallet.io/#
-    
+   
     
 - ## **5 - Exchange/sistemi per comprare Bitcoin**
     
     - Relai
         - https://play.google.com/store/apps/details?id=com.relai&hl=it&gl=IT
-    - The Rock Trading
-        - https://www.therocktrading.com/it/
     - LocalBitcoins
         - https://localbitcoins.com/it/buy_bitcoins
+    - The Rock Trading
+        - https://www.therocktrading.com/it/
+    - Conio
+        - https://www.conio.com/it/
     - Young Platform
         - https://exchange.youngplatform.com/it/
     - Carta Hype 
         - https://www.hype.it/cryptocurrency
-    - Atm 
+    - Atm Bitcoin
         - https://coinatmradar.com/country/105/bitcoin-atm-italy/
   
     
@@ -206,7 +202,9 @@ Partiamo!
 - ## **7 - Servizi Bitcoin per le imprese**
     
     - https://tinkl.it/
+    - https://inbitcoin.it/
     - https://bitshopbologna.it/
+    - https://www.chainside.net/en/home/
     
     
 
@@ -221,14 +219,13 @@ Partiamo!
   
 
 
-
 - ## **10 - Come contribuire alla lista**
 
-  Chiunque può proporre modifiche tramite pull request: don't be shy. 
+  Chiunque può proporre MODIFICHE tramite PULL REQUEST: non siate timidi. 
   Ma vi avviso che tanto ne casserò parecchie perché (una o più delle seguenti):
 
   - siete degli shitcoiner (niente di personale, ci sono passati anche i migliori)
   - siete dei miei amici che vogliono farmi perdere tempo
-  - siete delle persone che vogliono dimostrarmi cos'é la vera decentralizzazione perché questa repo é troppo centralizzata. Ma niente rimango la regina delle mie risorse.
-  - siete dei bot, vi apprezzo ma siete noiosi
+  - siete delle persone che vogliono dimostrarmi cos'é la vera decentralizzazione (Vi sento: "questa repo é troppo centralizzata". Ma niente rimango la regina delle mie risorse).
+  - siete dei bot, apprezzabili ma noiosi
   - siete il mio ghost-writer e non siete più d'accordo con la selezione
