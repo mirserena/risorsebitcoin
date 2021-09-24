@@ -6,8 +6,9 @@ La MIA lista di RISORSE su Bitcoin in italiano.
 Oggi, per oggi. In continua mutazione.
 
 Sicuramente manca qualcosa, che ho perso o non é stata ancora creata. 
+Sicuramente qualcosa è lí per sbaglio o non funziona piú.
 
-Enjoy e SE VOLETE CONTRIBUIRE aggiungendo risorse o proponendo nuove o diverse categorie... beh sotto vi spiego meglio al punto 9.
+Perció enjoy e SE avete voglia di CONTRIBUIRE aggiungendo risorse, correggendo o proponendo nuove o diverse categorie... beh sotto vi spiego meglio al punto 10.
 
 Partiamo! 
 
@@ -39,6 +40,7 @@ Partiamo!
     
     - Primi passi
         - https://bitcoin.org/it/da-sapere
+        - https://bitcoin-intro.com/it/
     - CRIPTOVALUTE, ce le spiega Mir Liponi
         - https://www.youtube.com/watch?v=bo_dlLqimiY
     - Le 5 cose che devi conoscere su bitcoin per iniziare
@@ -49,6 +51,8 @@ Partiamo!
         - https://www.youtube.com/watch?v=ElQyZ3v70YM
     - Debunking delle critiche principali a Bitcoin
         - https://www.albertodeluigi.com/2021/04/30/debunking-critiche-bitcoin/
+    - Una panoramica non troppo tecnica di questa cosa chiamata Bitcoin
+        - https://armantheparman.com/bitcoin-italian/
     
     
     
@@ -130,9 +134,9 @@ Partiamo!
     - #### **3.1 - Telegram**
         
         - https://web.telegram.org/#/im?p=@bitcoinita
-    - #### **3.2 - Facebook**
+    - #### **3.2 - Clubhouse** (Q&A in italiano ogni 2 settimane sotto al cafè Bitcoin)
         
-        - https://www.facebook.com/groups/www.cryptoitalia.org
+        - https://www.joinclubhouse.com/club/caf%C3%A9bitcoin
     - #### **3.3 - Forum di BitcoinTalk in italiano**
         
         - https://bitcointalk.org/index.php?board=28.0
@@ -182,14 +186,13 @@ Partiamo!
         - https://www.therocktrading.com/it/
     - LocalBitcoins
         - https://localbitcoins.com/it/buy_bitcoins
-    - Chainblock
-        - https://chainblock.it/
     - Young Platform
         - https://exchange.youngplatform.com/it/
-    - Binance
-        - https://www.binance.com/it
-    - Exmo
-        - https://exmo.com/it
+    - Carta Hype 
+        - https://www.hype.it/cryptocurrency
+    - Atm 
+        - https://coinatmradar.com/country/105/bitcoin-atm-italy/
+  
     
     
 - ## **6 - Runnare un full node**
@@ -210,10 +213,16 @@ Partiamo!
 - ## **8 - Imprese che accettano Bitcoin**
     
     - https://www.quibitcoin.it/
+    
+
+- ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
+    
+    - https://bitcoin-translate.it/
+  
 
 
 
-- ## **9 - Come contribuire alla lista**
+- ## **10 - Come contribuire alla lista**
 
   Chiunque può proporre modifiche tramite pull request: don't be shy. 
   Ma vi avviso che tanto ne casserò parecchie perché (una o più delle seguenti):
