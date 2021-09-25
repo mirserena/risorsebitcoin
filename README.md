@@ -18,18 +18,18 @@ Partiamo!
 
 - [**1 - Da dove iniziare**](#1---Da-dove-iniziare)
 - [**2 - Approfondimenti**](#2---Approfondimenti)
-- - [**2.1 - Video**](#2a---Video)
-  - [**2.2 - Letture online**](#2b---Letture-online)
-  - [**2.3 - Libri da acquistare**](#2c---Libri-da-acquistare)
-  - [**2.4 - Corsi**](#2d---Corsi)
-  - [**2.5 - Podcast**](#2e---Podcast)
+- - [**2a - Video**](#2a---Video)
+  - [**2b - Letture online**](#2b---Letture-online)
+  - [**2c - Libri da acquistare**](#2c---Libri-da-acquistare)
+  - [**2d - Corsi**](#2d---Corsi)
+  - [**2e - Podcast**](#2e---Podcast)
 - [**3 - Community**](#3---Community)
-- - [**3.1 - Telegram**](#3a---Telegram)
-  - [**3.2 - Facebook**](#3b---Facebook)
-  - [**3.3 - Forum di BitcoinTalk in italiano**](#3.c---Forum-di-BitcoinTalk-in-italiano)
-  - [**3.4 - Meetup**](#3d---Meetup)
+- - [**3a - Telegram**](#3a---Telegram)
+  - [**3b - Facebook**](#3b---Facebook)
+  - [**3c - Forum di BitcoinTalk in italiano**](#3.c---Forum-di-BitcoinTalk-in-italiano)
+  - [**3d - Meetup**](#3d---Meetup)
 - [**4 - Wallet**](#4---Wallet)
-- [**5 - Exchange/sistemi per comprare Bitcoin**](#5---Exchange-e-sistemi-per-comprare-Bitcoin)
+- [**5 - Exchange e sistemi per comprare Bitcoin**](#5---Exchange-e-sistemi-per-comprare-Bitcoin)
 - [**6 - Runnare un full node**](#6---Runnare-un-full-node)
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
@@ -143,7 +143,7 @@ Partiamo!
     
 - ## **3 - Community** 
     
-    - #### **3.1a - Telegram**
+    - #### **3a - Telegram**
         
         - https://web.telegram.org/#/im?p=@bitcoinita
     - #### **3b - Clubhouse** (Q&A in italiano ogni 2 settimane sotto al cafè Bitcoin)
