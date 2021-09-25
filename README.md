@@ -33,7 +33,8 @@ Partiamo!
 - [**6 - Runnare un full node**](#6---Runnare-un-full-node)
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
-- [**9 - Come contribuire alla lista**](#9---Come-contribuire-alla-lista)
+- [**9 - Siti contenitore**](#8---Siti-contenitore)
+- [**10 - Come contribuire alla lista**](#9---Come-contribuire-alla-lista)
 
 
 
@@ -98,6 +99,9 @@ Partiamo!
             - https://github.com/parsevalbtc/cryptoeconomics-IT-translation
         - White paper di Bitcoin in italiano
             - https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
+        - Mining for the streets in italiano 
+            - https://medium.com/@filippo91/mining-for-the-streets-italiano-f3d96bd01069
+            
     - #### **2.3 - Libri da acquistare**
         
         - Domande e risposte su Bitcoin
@@ -216,6 +220,7 @@ Partiamo!
 - ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
     
     - https://bitcoin-translate.it/
+    - https://pindol.medium.com/premessa-1e5254a52475
   
 
 
