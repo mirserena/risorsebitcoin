@@ -18,18 +18,18 @@ Partiamo!
 
 - [**1 - Da dove iniziare**](#1---Da-dove-iniziare)
 - [**2 - Approfondimenti**](#2---Approfondimenti)
-- - [**2.1 - Video**](#21---Video)
-  - [**2.2 - Letture online**](#2.2---Letture-online)
-  - [**2.3 - Libri da acquistare**](#2.3---Libri-da-acquistare)
-  - [**2.4 - Corsi**](#2.4---Corsi)
-  - [**2.5 - Podcast**](#2.5---Podcast)
+- - [**2.1 - Video**](#2a---Video)
+  - [**2.2 - Letture online**](#2b---Letture-online)
+  - [**2.3 - Libri da acquistare**](#2c---Libri-da-acquistare)
+  - [**2.4 - Corsi**](#2d---Corsi)
+  - [**2.5 - Podcast**](#2e---Podcast)
 - [**3 - Community**](#3---Community)
-- - [**3.1 - Telegram**](#3.1---Telegram)
-  - [**3.2 - Facebook**](#3.2---Facebook)
-  - [**3.3 - Forum di BitcoinTalk in italiano**](#3.3---Forum-di-BitcoinTalk-in-italiano)
-  - [**3.4 - Meetup**](#3.4---Meetup)
+- - [**3.1 - Telegram**](#3a---Telegram)
+  - [**3.2 - Facebook**](#3b---Facebook)
+  - [**3.3 - Forum di BitcoinTalk in italiano**](#3.c---Forum-di-BitcoinTalk-in-italiano)
+  - [**3.4 - Meetup**](#3d---Meetup)
 - [**4 - Wallet**](#4---Wallet)
-- [**5 - Exchange/sistemi per comprare Bitcoin**](#5---Exchangesistemi-per-comprare-Bitcoin)
+- [**5 - Exchange/sistemi per comprare Bitcoin**](#5---Exchange-e-sistemi-per-comprare-Bitcoin)
 - [**6 - Runnare un full node**](#6---Runnare-un-full-node)
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
@@ -62,7 +62,7 @@ Partiamo!
     
 - ## **2 - Approfondimenti**
     
-    - #### **21 - Video**
+    - #### **2a - Video**
         
         - 5 luoghi comuni da sfatare su Blockchain
             - https://www.youtube.com/watch?v=a-2cz-yzQns
@@ -77,7 +77,7 @@ Partiamo!
         - Atomic swap per principianti
             - https://www.youtube.com/watch?v=xqtulqFaiNw
             
-    - #### **2.2 - Letture online**
+    - #### **2b - Letture online**
         
         - Una lettera a tutti coloro che non hanno bitcoin
             - https://www.linkedin.com/pulse/cari-famigliari-amici-luca-sonzogni
@@ -107,7 +107,7 @@ Partiamo!
             - https://medium.com/@filippo91/mining-for-the-streets-italiano-f3d96bd01069
 
             
-    - #### **2.3 - Libri da acquistare**
+    - #### **2c - Libri da acquistare**
         
         - Domande e risposte su Bitcoin
             - https://www.amazon.it/Domande-risposte-Bitcoin-blockchain-definizione-ebook/dp/B07ZTYBWN6
@@ -128,13 +128,13 @@ Partiamo!
             - https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806
         - BITCOIN SOVRANITÀ MONETARIA ATTRAVERSO LA MATEMATICA
             - https://www.amazon.it/gp/product/B08LF238P7/ref=dbs_a_def_rwt_bibl_vppi_i0
-    - #### **2.4 - Corsi**
+    - #### **2d - Corsi**
         
         - Bcademy
             - https://bcademy.it/
         - Bitcoin dalla teoria alla pratica - Corso Completo
             - https://www.udemy.com/course/bitcoin-blockchain-corso-completo-teoria-pratica-esempi-tutorial/?referralCode=AAC8EB895142D8301C13
-    - #### **2.5 - Podcast**
+    - #### **2e - Podcast**
         
         - Bitcoin Italia Podcast
             - https://www.bitcoinitaliapodcast.it/
@@ -143,16 +143,16 @@ Partiamo!
     
 - ## **3 - Community** 
     
-    - #### **3.1 - Telegram**
+    - #### **3.1a - Telegram**
         
         - https://web.telegram.org/#/im?p=@bitcoinita
-    - #### **3.2 - Clubhouse** (Q&A in italiano ogni 2 settimane sotto al cafè Bitcoin)
+    - #### **3b - Clubhouse** (Q&A in italiano ogni 2 settimane sotto al cafè Bitcoin)
         
         - https://www.joinclubhouse.com/club/caf%C3%A9bitcoin
-    - #### **3.3 - Forum di BitcoinTalk in italiano**
+    - #### **3c - Forum di BitcoinTalk in italiano**
         
         - https://bitcointalk.org/index.php?board=28.0
-    - #### **3.4 - Meetup**
+    - #### **3d - Meetup**
         
         - Milano
             - Bitcoin Meetup Milano
@@ -181,7 +181,7 @@ Partiamo!
         - https://www.hardwarewallet.it/
    
     
-- ## **5 - Exchangesistemi per comprare Bitcoin**
+- ## **5 - Exchange e sistemi per comprare Bitcoin**
     
     - Relai
         - https://play.google.com/store/apps/details?id=com.relai&hl=it&gl=IT
