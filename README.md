@@ -146,9 +146,9 @@ Partiamo!
     - #### **3a - Telegram**
         
         - https://web.telegram.org/#/im?p=@bitcoinita
-    - #### **3b - Clubhouse** (Q&A in italiano ogni 2 settimane sotto al cafè Bitcoin)
+    - #### **3b - Clubhouse** 
         
-        - https://www.joinclubhouse.com/club/caf%C3%A9bitcoin
+        - https://www.joinclubhouse.com/club/caf%C3%A9bitcoin (Q&A in italiano ogni 2 settimane al cafè Bitcoin)
     - #### **3c - Forum di BitcoinTalk in italiano**
         
         - https://bitcointalk.org/index.php?board=28.0
