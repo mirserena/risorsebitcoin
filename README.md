@@ -25,7 +25,7 @@ Partiamo!
   - [**2e - Podcast**](#2e---Podcast)
 - [**3 - Community**](#3---Community)
 - - [**3a - Telegram**](#3a---Telegram)
-  - [**3b - Facebook**](#3b---Facebook)
+  - [**3b - Clubhouse**](#3b---Clubhouse)
   - [**3c - Forum di BitcoinTalk in italiano**](#3c---Forum-di-BitcoinTalk-in-italiano)
   - [**3d - Meetup**](#3d---Meetup)
 - [**4 - Wallet**](#4---Wallet)
