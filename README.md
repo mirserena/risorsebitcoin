@@ -33,7 +33,8 @@ Partiamo!
 - [**6 - Runnare un full node**](#6---Runnare-un-full-node)
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
-- [**9 - Come contribuire alla lista**](#9---Come-contribuire-alla-lista)
+- [**9 - Siti contenitore**](#8---Siti-contenitore)
+- [**10 - Come contribuire alla lista**](#9---Come-contribuire-alla-lista)
 
 
 
@@ -88,6 +89,8 @@ Partiamo!
             - https://gdassori.medium.com/i-bitcoin-consumano-tanta-energia-732f239aee96
         - Quando e perché nasce la moneta fiat
             - https://www.albertodeluigi.com/2020/01/31/fiat-money/
+        - Iniziare con Bitcoin: Guida per Principianti
+            - https://serhack.me/articles/guida-principianti-bitcoin/
         - 21 Lezioni
             - https://gabridome.github.io/21-lezioni/toc
         - NoKYC
@@ -100,6 +103,9 @@ Partiamo!
             - https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
         - Il Piccolo Principe e il Bitcoin
             - https://medium.com/@luomocontento/il-piccolo-principe-e-il-bitcoin-8185ba4cdc01
+        - Mining for the streets in italiano 
+            - https://medium.com/@filippo91/mining-for-the-streets-italiano-f3d96bd01069
+
             
     - #### **2.3 - Libri da acquistare**
         
@@ -191,6 +197,8 @@ Partiamo!
         - https://www.hype.it/cryptocurrency
     - Atm Bitcoin
         - https://coinatmradar.com/country/105/bitcoin-atm-italy/
+    - Bitcoin Voucher Bot: telegram bot per acquisto bitcoin
+        - https://t.me/BitcoinVoucherBot
   
     
     
@@ -219,6 +227,7 @@ Partiamo!
 - ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
     
     - https://bitcoin-translate.it/
+    - https://pindol.medium.com/premessa-1e5254a52475
   
 
 
