@@ -194,6 +194,8 @@ Partiamo!
         - https://www.hype.it/cryptocurrency
     - Atm Bitcoin
         - https://coinatmradar.com/country/105/bitcoin-atm-italy/
+    - Bitcoin Voucher Bot: telegram bot per acquisto bitcoin
+        - https://t.me/BitcoinVoucherBot
   
     
     
