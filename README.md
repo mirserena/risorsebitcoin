@@ -26,14 +26,14 @@ Partiamo!
 - [**3 - Community**](#3---Community)
 - - [**3a - Telegram**](#3a---Telegram)
   - [**3b - Facebook**](#3b---Facebook)
-  - [**3c - Forum di BitcoinTalk in italiano**](#3.c---Forum-di-BitcoinTalk-in-italiano)
+  - [**3c - Forum di BitcoinTalk in italiano**](#3c---Forum-di-BitcoinTalk-in-italiano)
   - [**3d - Meetup**](#3d---Meetup)
 - [**4 - Wallet**](#4---Wallet)
 - [**5 - Exchange e sistemi per comprare Bitcoin**](#5---Exchange-e-sistemi-per-comprare-Bitcoin)
 - [**6 - Runnare un full node**](#6---Runnare-un-full-node)
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
-- [**9 - Siti contenitore**](#9---Siti-contenitore)
+- [**9 - Siti contenitore**](#9---Siti-contenitori-di-risorse-in-italiano-su-Bitcoin)
 - [**10 - Come contribuire alla lista**](#10---Come-contribuire-alla-lista)
 
 
