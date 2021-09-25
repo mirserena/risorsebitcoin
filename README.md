@@ -98,6 +98,9 @@ Partiamo!
             - https://github.com/parsevalbtc/cryptoeconomics-IT-translation
         - White paper di Bitcoin in italiano
             - https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
+        - Il Piccolo Principe e il Bitcoin
+            - https://medium.com/@luomocontento/il-piccolo-principe-e-il-bitcoin-8185ba4cdc01
+            
     - #### **2.3 - Libri da acquistare**
         
         - Domande e risposte su Bitcoin
