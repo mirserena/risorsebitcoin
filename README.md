@@ -89,6 +89,8 @@ Partiamo!
             - https://gdassori.medium.com/i-bitcoin-consumano-tanta-energia-732f239aee96
         - Quando e perché nasce la moneta fiat
             - https://www.albertodeluigi.com/2020/01/31/fiat-money/
+        - Iniziare con Bitcoin: Guida per Principianti
+            - https://serhack.me/articles/guida-principianti-bitcoin/
         - 21 Lezioni
             - https://gabridome.github.io/21-lezioni/toc
         - NoKYC
