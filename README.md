@@ -18,7 +18,7 @@ Partiamo!
 
 - [**1 - Da dove iniziare**](#1---Da-dove-iniziare)
 - [**2 - Approfondimenti**](#2---Approfondimenti)
-- - [**2.1 - Video**](#2.1---Video)
+- - [**2.1 - Video**](#21---Video)
   - [**2.2 - Letture online**](#2.2---Letture-online)
   - [**2.3 - Libri da acquistare**](#2.3---Libri-da-acquistare)
   - [**2.4 - Corsi**](#2.4---Corsi)
@@ -62,7 +62,7 @@ Partiamo!
     
 - ## **2 - Approfondimenti**
     
-    - #### **2.1 - Video**
+    - #### **21 - Video**
         
         - 5 luoghi comuni da sfatare su Blockchain
             - https://www.youtube.com/watch?v=a-2cz-yzQns
