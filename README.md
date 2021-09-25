@@ -29,7 +29,7 @@ Partiamo!
   - [**3.3 - Forum di BitcoinTalk in italiano**](#3.3---Forum-di-BitcoinTalk-in-italiano)
   - [**3.4 - Meetup**](#3.4---Meetup)
 - [**4 - Wallet**](#4---Wallet)
-- [**5 - Exchange/sistemi per comprare Bitcoin**](#5---Exchange/sistemi-per-comprare-Bitcoin)
+- [**5 - Exchange/sistemi per comprare Bitcoin**](#5---Exchangesistemi-per-comprare-Bitcoin)
 - [**6 - Runnare un full node**](#6---Runnare-un-full-node)
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
@@ -181,7 +181,7 @@ Partiamo!
         - https://www.hardwarewallet.it/
    
     
-- ## **5 - Exchange/sistemi per comprare Bitcoin**
+- ## **5 - Exchangesistemi per comprare Bitcoin**
     
     - Relai
         - https://play.google.com/store/apps/details?id=com.relai&hl=it&gl=IT
