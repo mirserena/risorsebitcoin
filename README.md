@@ -33,8 +33,8 @@ Partiamo!
 - [**6 - Runnare un full node**](#6---Runnare-un-full-node)
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
-- [**9 - Siti contenitore**](#8---Siti-contenitore)
-- [**10 - Come contribuire alla lista**](#9---Come-contribuire-alla-lista)
+- [**9 - Siti contenitore**](#9---Siti-contenitore)
+- [**10 - Come contribuire alla lista**](#10---Come-contribuire-alla-lista)
 
 
 
