@@ -224,6 +224,7 @@ Partiamo!
 - ## **8 - Imprese che accettano Bitcoin**
     
     - https://www.quibitcoin.it/
+    - https://www.tritema.ch
     
 
 - ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
