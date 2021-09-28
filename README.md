@@ -105,6 +105,8 @@ Partiamo!
             - https://medium.com/@luomocontento/il-piccolo-principe-e-il-bitcoin-8185ba4cdc01
         - Mining for the streets in italiano 
             - https://medium.com/@filippo91/mining-for-the-streets-italiano-f3d96bd01069
+	- Forum pubblico su Bitcoin in ambito sicurezza, privacy, libertà, connesso al gruppo https://t.me/BitcoinSecPriv
+	    - https://bitcoinsecpriv.com/
 
             
     - #### **2c - Libri da acquistare**
