@@ -231,6 +231,7 @@ Partiamo!
     
     - https://bitcoin-translate.it/
     - https://pindol.medium.com/premessa-1e5254a52475
+    - https://bitcoin-in-action.medium.com/
   
 
 
