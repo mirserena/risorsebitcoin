@@ -177,6 +177,8 @@ Partiamo!
             - https://www.meetup.com/it-IT/Bitcoin-Bologna/
         - Verona 
             - https://www.meetup.com/it-IT/Bitcoin-Verona/
+        - Pisa 
+            - https://www.meetup.com/Pisa-Bitcoin-Meetup/
         
         
 
@@ -223,6 +225,7 @@ Partiamo!
     - https://inbitcoin.it/
     - https://bitshopbologna.it/
     - https://www.chainside.net/en/home/
+    - https://notarify.io/ 
     
     
 
