@@ -107,6 +107,10 @@ Partiamo!
             - https://medium.com/@filippo91/mining-for-the-streets-italiano-f3d96bd01069
         - Forum pubblico su Bitcoin in ambito sicurezza, privacy, libertà, connesso al gruppo telegram https://t.me/BitcoinSecPriv in cui chiunque può inserire informazioni, spunti e riflessioni 
             - https://bitcoinsecpriv.com/
+        - Blog di Bitcoin in action 
+          - https://bitcoin-in-action.medium.com/
+      - Substack (Newsletter online) Bitcoin Train 
+        - https://bitcointrain.substack.com/
 
             
     - #### **2c - Libri da acquistare**
@@ -148,6 +152,7 @@ Partiamo!
     - #### **3a - Telegram**
         
         - https://web.telegram.org/#/im?p=@bitcoinita
+        - https://t.me/BitcoinSecPriv 
     - #### **3b - Clubhouse** 
         
         - https://www.joinclubhouse.com/club/caf%C3%A9bitcoin (Q&A in italiano ogni 2 settimane al cafè Bitcoin)
@@ -231,9 +236,8 @@ Partiamo!
     
     - https://bitcoin-translate.it/
     - https://pindol.medium.com/premessa-1e5254a52475
-    - https://bitcoin-in-action.medium.com/
-  
 
+  
 
 - ## **10 - Come contribuire alla lista**
 
