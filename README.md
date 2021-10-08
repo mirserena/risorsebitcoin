@@ -70,6 +70,8 @@ Partiamo!
             - https://www.youtube.com/watch?v=kpxBSohNr5Y
         - Bitcoin & Mining: conviene minare cryptovalute? Si diventa ricchi? Come funziona?
             - https://www.youtube.com/watch?v=kVCjfVN0344
+        - Vivere con Bitcoin: Massimo Musumeci & Luca Venturini
+            - https://www.youtube.com/watch?v=Qu_E7QmmoS4
         - Meetup Roma: introduzione
             - https://www.youtube.com/watch?v=Wtyqxrhc8hI
         - Bitcoin Valley: Terraforming Bitcoin 2019
