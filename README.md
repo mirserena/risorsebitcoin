@@ -113,6 +113,9 @@ Partiamo!
           - https://bitcoin-in-action.medium.com/
       - Substack (Newsletter online) Bitcoin Train 
         - https://bitcointrain.substack.com/
+      - Blog e risorse per comprendere al meglio Bitcoin "Parlare Bitcoin"
+         - https://parlarebitcoin.com/
+
 
             
     - #### **2c - Libri da acquistare**
@@ -241,6 +244,7 @@ Partiamo!
     
     - https://bitcoin-translate.it/
     - https://pindol.medium.com/premessa-1e5254a52475
+
 
   
 
