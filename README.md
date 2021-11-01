@@ -25,7 +25,7 @@ Partiamo!
   - [**2e - Podcast**](#2e---Podcast)
 - [**3 - Community**](#3---Community)
 - - [**3a - Telegram**](#3a---Telegram)
-  - [**3b - Clubhouse**](#3b---Clubhouse)
+  - [**3b - Clubhouse & Twitter Sooace**](#3b---Clubhouse)
   - [**3c - Forum di BitcoinTalk in italiano**](#3c---Forum-di-BitcoinTalk-in-italiano)
   - [**3d - Meetup**](#3d---Meetup)
 - [**4 - Wallet**](#4---Wallet)
@@ -43,8 +43,8 @@ Partiamo!
 - ## **1 - Da dove iniziare**
     
     - Primi passi
-        - https://bitcoin.org/it/da-sapere
         - https://bitcoin-intro.com/it/
+        - - https://bitcoin.org/it/da-sapere (attenzione: pagina italiana non aggiornata all'ultima versione di Core e ultimi update)
     - CRIPTOVALUTE, ce le spiega Mir Liponi
         - https://www.youtube.com/watch?v=bo_dlLqimiY
     - Le 5 cose che devi conoscere su bitcoin per iniziare
@@ -158,9 +158,10 @@ Partiamo!
         
         - https://web.telegram.org/#/im?p=@bitcoinita
         - https://t.me/BitcoinSecPriv 
-    - #### **3b - Clubhouse** 
+    - #### **3b - Clubhouse & TwitterSpaces** 
         
-        - https://www.joinclubhouse.com/club/caf%C3%A9bitcoin (Q&A in italiano ogni 2 settimane al cafè Bitcoin)
+        - https://www.joinclubhouse.com/club/caf%C3%A9bitcoin (Su CLUBHOUSE: Focus specifici + Q&A in italiano ogni 2 settimane presso il cafè Bitcoin)
+        - https://twitter.com/btcintheclub (su TWITTERSPACES: LIVE dal lunedì al venerdì alle 14.15) 
     - #### **3c - Forum di BitcoinTalk in italiano**
         
         - https://bitcointalk.org/index.php?board=28.0
