@@ -12,6 +12,7 @@ Sicuramente qualcosa è lí per sbaglio o non funziona piú.
 Perció ENJOY! (diamine un'altra parola in inglese) 
 
 Se avete voglia di CONTRIBUIRE aggiungendo risorse, correggendo o proponendo nuove/diverse categorie... vi spiego meglio al punto 10.
+Se avete voglia di fare una piccola donazione con Lightning Network potete usare il servizio tippin.me: http://tippin.me/@mir_btc 
 
 Partiamo! 
 
@@ -25,7 +26,7 @@ Partiamo!
   - [**2e - Podcast**](#2e---Podcast)
 - [**3 - Community**](#3---Community)
 - - [**3a - Telegram**](#3a---Telegram)
-  - [**3b - Clubhouse & Twitter Sooace**](#3b---Clubhouse)
+  - [**3b - Chat vocali**](#3b---Chat---vocali)
   - [**3c - Forum di BitcoinTalk in italiano**](#3c---Forum-di-BitcoinTalk-in-italiano)
   - [**3d - Meetup**](#3d---Meetup)
 - [**4 - Wallet**](#4---Wallet)
@@ -158,10 +159,10 @@ Partiamo!
         
         - https://web.telegram.org/#/im?p=@bitcoinita
         - https://t.me/BitcoinSecPriv 
-    - #### **3b - Clubhouse & TwitterSpaces** 
+    - #### **3b - Chat vocali** 
         
-        - https://www.joinclubhouse.com/club/caf%C3%A9bitcoin (Su CLUBHOUSE: Focus specifici + Q&A in italiano ogni 2 settimane presso il cafè Bitcoin)
-        - https://twitter.com/btcintheclub (su TWITTERSPACES: LIVE dal lunedì al venerdì alle 14.15) 
+        - CLUBHOUSE: https://www.joinclubhouse.com/club/caf%C3%A9bitcoin (Focus specifici + Q&A in italiano ogni 2 settimane presso il cafè Bitcoin)
+        - TWITTER SPACES: https://twitter.com/btcintheclub (dal lunedì al venerdì alle 14.15) 
     - #### **3c - Forum di BitcoinTalk in italiano**
         
         - https://bitcointalk.org/index.php?board=28.0
