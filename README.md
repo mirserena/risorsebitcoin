@@ -26,7 +26,7 @@ Partiamo!
   - [**2e - Podcast**](#2e---Podcast)
 - [**3 - Community**](#3---Community)
 - - [**3a - Telegram**](#3a---Telegram)
-  - [**3b - Chat vocali**](#3b---Chat---vocali)
+  - [**3b - Chat Vocali**](#3b---Chat---Vocali)
   - [**3c - Forum di BitcoinTalk in italiano**](#3c---Forum-di-BitcoinTalk-in-italiano)
   - [**3d - Meetup**](#3d---Meetup)
 - [**4 - Wallet**](#4---Wallet)
@@ -46,9 +46,9 @@ Partiamo!
     - Primi passi
         - https://bitcoin-intro.com/it/
         - - https://bitcoin.org/it/da-sapere (attenzione: pagina italiana non aggiornata all'ultima versione di Core e ultimi update)
-    - CRIPTOVALUTE, ce le spiega Mir Liponi
+    - "Criptovalute", ce le spiega Mir Liponi
         - https://www.youtube.com/watch?v=bo_dlLqimiY
-    - Le 5 cose che devi conoscere su bitcoin per iniziare
+    - Le 5 cose che devi conoscere su Bitcoin per iniziare
         - https://www.youtube.com/watch?v=X20xmkh2lp0
     - Understanding Bitcoin (serie in italiano)
         - https://www.youtube.com/watch?v=x-QKzDfPLv4&list=PL40oTe99517XEIdKoAJk5o_Hr5cTIqPiB
@@ -159,7 +159,7 @@ Partiamo!
         
         - https://web.telegram.org/#/im?p=@bitcoinita
         - https://t.me/BitcoinSecPriv 
-    - #### **3b - Chat vocali** 
+    - #### **3b - Chat Vocali**
         
         - CLUBHOUSE: https://www.joinclubhouse.com/club/caf%C3%A9bitcoin (Focus specifici + Q&A in italiano ogni 2 settimane presso il cafè Bitcoin)
         - TWITTER SPACES: https://twitter.com/btcintheclub (dal lunedì al venerdì alle 14.15) 
