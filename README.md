@@ -215,8 +215,8 @@ Partiamo!
         - https://coinatmradar.com/country/105/bitcoin-atm-italy/
     - Bitcoin Voucher Bot: telegram bot per acquisto bitcoin
         - https://t.me/BitcoinVoucherBot
-    - Bitcoin People: Bitmoon (Exchange non-custodial)
-        - https://bitmoon.bitcoinpeople.it/  
+    - Bitmoon Bitcoin People: Exchange non-custodial
+        - https://bitmoon.bitcoinpeople.it/
   
     
 - ## **6 - Runnare un full node**
