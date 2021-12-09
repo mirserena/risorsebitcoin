@@ -85,6 +85,15 @@ Partiamo!
             - https://www.youtube.com/playlist?list=PLJV6rfaH_FrxwQ_z8Yk7mi2_9iM9avInf
         - Bitcoin inconfiscabile riserva di valore
           - https://www.youtube.com/watch?v=4BL2pusoX0o 
+        - Bitcoin: valuta o asset digitale? Potenzialità, limiti e sviluppi futuri
+          - https://www.youtube.com/watch?v=2rw8Xd9OiDA
+        - Into the Bitcoin Protocol: come funziona?
+          - https://www.youtube.com/watch?v=KF3uQzBpMnw
+        - Introduzione a Bitcoin: politecnico di Torino
+           - https://www.youtube.com/watch?v=rnhmBpznlHM  
+       - Tra Bitcoin Maximalism e centro America
+          - https://www.youtube.com/watch?v=-UUeNcTTCI8
+        
         
             
     - #### **2b - Letture online**
@@ -181,12 +190,12 @@ Partiamo!
             - Bitcoin Meetup Milano
                 - https://www.meetup.com/bitcoinmilano/
                 - Canale Youtube: https://www.youtube.com/watch?v=Pws1pnJQlpc
-            - Satoshi Spritz
-                - https://t.me/satoshispritzmilano
+            - Satoshi Spritz milanese: https://t.me/satoshispritzmilano
         - Reggio Emilia
             - https://www.meetup.com/it-IT/BitcoinReggioEmilia
         - Torino
             - https://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/
+            - Satoshi Spritz torinese: https://t.me/satoshispritztorino
         - Venezia
             - https://www.meetup.com/it-IT/Bitcoin-Venezia/
         - Bologna
