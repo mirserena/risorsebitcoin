@@ -58,6 +58,8 @@ Partiamo!
         - https://www.albertodeluigi.com/2021/04/30/debunking-critiche-bitcoin/
     - Una panoramica non troppo tecnica di questa cosa chiamata Bitcoin
         - https://armantheparman.com/bitcoin-italian/
+    - Bitcoin tutto in una pagina
+      - https://bitcoin-translate.it/one-pager.php
     
     
     
@@ -79,6 +81,8 @@ Partiamo!
             - https://www.youtube.com/watch?v=90ihJJp6Cqs
         - Atomic swap per principianti
             - https://www.youtube.com/watch?v=xqtulqFaiNw
+        - Bitcoin e Privacy: video della privacy week
+            - https://www.youtube.com/playlist?list=PLJV6rfaH_FrxwQ_z8Yk7mi2_9iM9avInf
             
     - #### **2b - Letture online**
         
@@ -146,6 +150,8 @@ Partiamo!
             - https://bcademy.it/
         - Bitcoin dalla teoria alla pratica - Corso Completo
             - https://www.udemy.com/course/bitcoin-blockchain-corso-completo-teoria-pratica-esempi-tutorial/?referralCode=AAC8EB895142D8301C13
+        - Corso online "A scuola di Bitcoin" 
+            - https://ascuoladibitcoin.com/
     - #### **2e - Podcast**
         
         - Bitcoin Italia Podcast
@@ -217,6 +223,9 @@ Partiamo!
         - https://t.me/BitcoinVoucherBot
     - Bitmoon Bitcoin People: Exchange non-custodial
         - https://bitmoon.bitcoinpeople.it/
+    - Bikipi: acquisti bitcoin con ordini singoli o ricorrenti (no KYC)
+        - https://bitkipi.com/it
+    
   
     
 - ## **6 - Runnare un full node**
