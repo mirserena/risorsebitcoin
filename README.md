@@ -84,8 +84,7 @@ Partiamo!
         - Bitcoin e Privacy: video della privacy week
             - https://www.youtube.com/playlist?list=PLJV6rfaH_FrxwQ_z8Yk7mi2_9iM9avInf
         - Bitcoin inconfiscabile riserva di valore
-        
-              - https://www.youtube.com/watch?v=4BL2pusoX0o 
+          - https://www.youtube.com/watch?v=4BL2pusoX0o 
         
             
     - #### **2b - Letture online**
