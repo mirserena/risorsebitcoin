@@ -213,6 +213,8 @@ Partiamo!
         - https://www.albertodeluigi.com/2020/12/13/wallet_lightning_network/
     - Hardware wallet
         - https://www.hardwarewallet.it/
+    - Generazione mnemonic bip39 da entropia microfonica
+        - https://github.com/massmux/Papergen
    
     
 - ## **5 - Exchange e sistemi per comprare Bitcoin**
@@ -231,7 +233,7 @@ Partiamo!
         - https://www.hype.it/cryptocurrency
     - Atm Bitcoin
         - https://coinatmradar.com/country/105/bitcoin-atm-italy/
-    - Bitcoin Voucher Bot: telegram bot per acquisto bitcoin
+    - Bitcoin Voucher Bot: Telegram Bot per acquisto bitcoin (no KYC, non custodial) supporta Onchain, Lightning, Liquid
         - https://t.me/BitcoinVoucherBot
     - Bitmoon Bitcoin People: Exchange non-custodial
         - https://bitmoon.bitcoinpeople.it/
@@ -263,6 +265,7 @@ Partiamo!
     
     - https://www.quibitcoin.it/
     - https://www.tritema.ch
+    - https://www.denali.it
     
 
 - ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
