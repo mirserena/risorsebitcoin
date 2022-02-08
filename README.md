@@ -266,6 +266,7 @@ Partiamo!
     - https://www.quibitcoin.it/
     - https://www.tritema.ch
     - https://www.denali.it
+    - https://www.bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin/
     
 
 - ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
