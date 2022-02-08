@@ -93,6 +93,10 @@ Partiamo!
            - https://www.youtube.com/watch?v=rnhmBpznlHM  
        - Tra Bitcoin Maximalism e centro America
           - https://www.youtube.com/watch?v=-UUeNcTTCI8
+        - Bitcoin: l'evoluzione della moneta (tavola rotonda a Internet Festival 2021)
+          - https://www.youtube.com/embed/lZHrR3FCRgo
+        - Mining (discussione e live da Mining Farm in Russia)
+           -  https://www.youtube.com/watch?v=hoUAfkE9de0
         
         
             
@@ -132,6 +136,12 @@ Partiamo!
         - https://bitcointrain.substack.com/
       - Blog e risorse per comprendere al meglio Bitcoin "Parlare Bitcoin"
          - https://parlarebitcoin.com/
+       - La responsabilità nell'adottare Bitcoin 
+          - https://medium.com/@Bitcoin_ator/la-responsabilit%C3%A0-nelladottare-bitcoin-ae15dc5e7aaa
+      - La libertà del valore 
+         - https://medium.com/@Bitcoin_ator/la-libert%C3%A0-del-valore-313025197cd1
+       - Perchè Bitcoin è un organismo vivente
+         - https://medium.com/@Bitcoin_ator/prova-di-vita-8ee4319ea161
 
 
             
@@ -267,6 +277,7 @@ Partiamo!
     - https://www.tritema.ch
     - https://www.denali.it
     - https://www.bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin/
+    - https://www.grisomeat.com/
     
 
 - ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
