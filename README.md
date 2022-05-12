@@ -132,16 +132,19 @@ Partiamo!
             - https://bitcoinsecpriv.com/
         - Blog di Bitcoin in action 
           - https://bitcoin-in-action.medium.com/
-      - Substack (Newsletter online) Bitcoin Train 
-        - https://bitcointrain.substack.com/
-      - Blog e risorse per comprendere al meglio Bitcoin "Parlare Bitcoin"
-         - https://parlarebitcoin.com/
-       - La responsabilità nell'adottare Bitcoin 
-          - https://medium.com/@Bitcoin_ator/la-responsabilit%C3%A0-nelladottare-bitcoin-ae15dc5e7aaa
-      - La libertà del valore 
-         - https://medium.com/@Bitcoin_ator/la-libert%C3%A0-del-valore-313025197cd1
-       - Perchè Bitcoin è un organismo vivente
-         - https://medium.com/@Bitcoin_ator/prova-di-vita-8ee4319ea161
+        - Substack (Newsletter online) Bitcoin Train 
+            - https://bitcointrain.substack.com/
+        - Blog e risorse per comprendere al meglio Bitcoin "Parlare Bitcoin"
+            - https://parlarebitcoin.com/
+        - La responsabilità nell'adottare Bitcoin 
+            - https://medium.com/@Bitcoin_ator/la-responsabilit%C3%A0-nelladottare-bitcoin-ae15dc5e7aaa
+        - La libertà del valore 
+            - https://medium.com/@Bitcoin_ator/la-libert%C3%A0-del-valore-313025197cd1
+        - Perchè Bitcoin è un organismo vivente
+            - https://medium.com/@Bitcoin_ator/prova-di-vita-8ee4319ea161
+        - Guida per la privacy nell'utilizzo di bitcoin
+            - https://turtlecute33.github.io/privacy.github.io/bitcoin.html- 
+         
 
 
             
