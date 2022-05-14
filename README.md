@@ -97,6 +97,8 @@ Partiamo!
           - https://www.youtube.com/embed/lZHrR3FCRgo
         - Mining (discussione e live da Mining Farm in Russia)
            -  https://www.youtube.com/watch?v=hoUAfkE9de0
+        - CTV, consenso, sviluppatori e miner
+           - https://bitcointrain.substack.com/p/fermata-30-ctv-e-il-consenso-in-bitcoin?r=mtvgo&s=w&utm_campaign=post&utm_medium=web
         
         
             
@@ -143,7 +145,7 @@ Partiamo!
         - Perchè Bitcoin è un organismo vivente
             - https://medium.com/@Bitcoin_ator/prova-di-vita-8ee4319ea161
         - Guida per la privacy nell'utilizzo di bitcoin
-            - https://turtlecute33.github.io/privacy.github.io/bitcoin.html- 
+            - https://turtlecute33.github.io/privacy.github.io/bitcoin.html
          
 
 
@@ -190,6 +192,7 @@ Partiamo!
         
         - https://web.telegram.org/#/im?p=@bitcoinita
         - https://t.me/BitcoinSecPriv 
+        - https://t.me/BitcoinSicurezzaPrivacy
     - #### **3b - Chat Vocali**
         
         - CLUBHOUSE: https://www.joinclubhouse.com/club/caf%C3%A9bitcoin (Focus specifici + Q&A in italiano ogni 2 settimane presso il cafè Bitcoin)
