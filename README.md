@@ -146,7 +146,8 @@ Partiamo!
             - https://medium.com/@Bitcoin_ator/prova-di-vita-8ee4319ea161
         - Guida per la privacy nell'utilizzo di bitcoin
             - https://turtlecute33.github.io/privacy.github.io/bitcoin.html
-         
+        - SakamotoNews: raccoglitore di news e fake news su Bitcoin
+            - https://sakamotonews.it      
 
 
             
@@ -155,6 +156,8 @@ Partiamo!
         - Domande e risposte su Bitcoin
             - https://www.amazon.it/Domande-risposte-Bitcoin-blockchain-definizione-ebook/dp/B07ZTYBWN6
             - https://qabitcoin.davidcoen.it/product/domande-e-risposte-su-bitcoin-pay-with-btc/
+        - Protocollo Bitcoin: Fondamenti per capire la tecnologia delle criptovalute e le sue applicazioni
+            - https://www.amazon.it/Protocollo-Bitcoin-Fondamenti-criptovalute-applicazioni/dp/B09MYVXR6Q
         - Bitcoin 199 domande
             - https://www.amazon.it/gp/product/B07TXZP8GS/ref=dbs_a_def_rwt_bibl_vppi_i1
         - La moneta Bitcoin
@@ -231,6 +234,8 @@ Partiamo!
         - https://www.hardwarewallet.it/
     - Generazione mnemonic bip39 da entropia microfonica
         - https://github.com/massmux/Papergen
+    - Fork del web wallet Coinbin con l'aggiunta della rete Testnet
+        - https://www.inblockchain.it
    
     
 - ## **5 - Exchange e sistemi per comprare Bitcoin**
@@ -280,6 +285,7 @@ Partiamo!
 - ## **8 - Imprese che accettano Bitcoin**
     
     - https://www.quibitcoin.it/
+    - https://www.coinmap.it
     - https://www.tritema.ch
     - https://www.denali.it
     - https://www.bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin/
