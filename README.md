@@ -275,6 +275,7 @@ Partiamo!
     - https://www.chainside.net/en/home/
     - https://notarify.io/ 
     - https://www.bitcoinpeople.it/bpay
+    - https://www.villaggiobitcoin.it
     
     
 
@@ -285,6 +286,7 @@ Partiamo!
     - https://www.denali.it
     - https://www.bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin/
     - https://www.grisomeat.com/
+    - https://www.villaggiobitcoin.it/chi-accetta-bitcoin
     
 
 - ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
