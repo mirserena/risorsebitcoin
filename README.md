@@ -103,7 +103,6 @@ Partiamo!
         
             
     - #### **2b - Letture online**
-        
         - Una lettera a tutti coloro che non hanno bitcoin
             - https://www.linkedin.com/pulse/cari-famigliari-amici-luca-sonzogni
         - Perchè abbiamo bisogno della moneta privata
@@ -146,6 +145,8 @@ Partiamo!
             - https://medium.com/@Bitcoin_ator/prova-di-vita-8ee4319ea161
         - Guida per la privacy nell'utilizzo di bitcoin
             - https://turtlecute33.github.io/privacy.github.io/bitcoin.html
+        - Checkpoint Bitcoin - Blog italiano focalizzato su Bitcoin
+            - https://checkpointbitcoin.it/
          
 
 
