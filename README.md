@@ -275,6 +275,7 @@ Partiamo!
     - https://www.chainside.net/en/home/
     - https://notarify.io/ 
     - https://www.bitcoinpeople.it/bpay
+    - https://www.villaggiobitcoin.it
     
     
 
@@ -285,6 +286,7 @@ Partiamo!
     - https://www.denali.it
     - https://www.bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin/
     - https://www.grisomeat.com/
+    - https://www.villaggiobitcoin.it/chi-accetta-bitcoin
     
 
 - ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
@@ -292,10 +294,14 @@ Partiamo!
     - https://bitcoin-translate.it/
     - https://pindol.medium.com/premessa-1e5254a52475
 
+- ## **10 - Physical Store**
 
+  Punti fisici sul territorio dove si fa formazione, educazione e consulenza alle persone che si vogliono avvicinare al mondo Bitcoin:
+  - Villaggio Bitcoin - [Via Roma, 37, 25047 Darfo Boario Terme BS](https://goo.gl/maps/zf54DQ9maRWjTJB28)
+  - Inbitcoin - [Via Rialto, 16, 38068 Rovereto TN](https://goo.gl/maps/pMcLhoFRYYpsTpaG8)
   
 
-- ## **10 - Come contribuire alla lista**
+- ## **11 - Come contribuire alla lista**
 
   Chiunque può proporre MODIFICHE tramite PULL REQUEST: non siate timidi. 
   Ma vi avviso che tanto ne casserò parecchie perché (una o più delle seguenti):
