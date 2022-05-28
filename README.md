@@ -215,12 +215,15 @@ Partiamo!
             - Satoshi Spritz torinese: https://t.me/satoshispritztorino
         - Venezia
             - https://www.meetup.com/it-IT/Bitcoin-Venezia/
+            - Satoshi Spritz veneto: https://t.me/satoshispritzveneto
         - Bologna
             - https://www.meetup.com/it-IT/Bitcoin-Bologna/
         - Verona 
             - https://www.meetup.com/it-IT/Bitcoin-Verona/
         - Pisa 
             - https://www.meetup.com/Pisa-Bitcoin-Meetup/
+        - Roma
+            - Satoshi Spritz romano: https://t.me/satoshispritzroma
         
         
 
