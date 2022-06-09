@@ -45,7 +45,7 @@ Partiamo!
     
     - Primi passi
         - https://bitcoin-intro.com/it/
-        - - https://bitcoin.org/it/da-sapere
+        - https://bitcoin.org/it/da-sapere
     - "Criptovalute", ce le spiega Mir Liponi
         - https://www.youtube.com/watch?v=bo_dlLqimiY
     - Le 5 cose che devi conoscere su Bitcoin per iniziare
@@ -59,7 +59,7 @@ Partiamo!
     - Una panoramica non troppo tecnica di questa cosa chiamata Bitcoin
         - https://armantheparman.com/bitcoin-italian/
     - Bitcoin tutto in una pagina
-      - https://bitcoin-translate.it/one-pager.php
+        - https://bitcoin-translate.it/one-pager.php
     
     
     
@@ -68,21 +68,21 @@ Partiamo!
     - #### **2a - Video**
         
         - 5 luoghi comuni da sfatare su Blockchain
-            - https://www.youtube.com/watch?v=a-2cz-yzQns
+          - https://www.youtube.com/watch?v=a-2cz-yzQns
         - Come funzionano i Bitcoin
-            - https://www.youtube.com/watch?v=kpxBSohNr5Y
+          - https://www.youtube.com/watch?v=kpxBSohNr5Y
         - Bitcoin & Mining: conviene minare cryptovalute? Si diventa ricchi? Come funziona?
-            - https://www.youtube.com/watch?v=kVCjfVN0344
+          - https://www.youtube.com/watch?v=kVCjfVN0344
         - Vivere con Bitcoin: Massimo Musumeci & Luca Venturini
-            - https://www.youtube.com/watch?v=Qu_E7QmmoS4
+          - https://www.youtube.com/watch?v=Qu_E7QmmoS4
         - Meetup Roma: introduzione
-            - https://www.youtube.com/watch?v=Wtyqxrhc8hI
+          - https://www.youtube.com/watch?v=Wtyqxrhc8hI
         - Bitcoin Valley: Terraforming Bitcoin 2019
-            - https://www.youtube.com/watch?v=90ihJJp6Cqs
+          - https://www.youtube.com/watch?v=90ihJJp6Cqs
         - Atomic swap per principianti
-            - https://www.youtube.com/watch?v=xqtulqFaiNw
+          - https://www.youtube.com/watch?v=xqtulqFaiNw
         - Bitcoin e Privacy: video della privacy week
-            - https://www.youtube.com/playlist?list=PLJV6rfaH_FrxwQ_z8Yk7mi2_9iM9avInf
+          - https://www.youtube.com/playlist?list=PLJV6rfaH_FrxwQ_z8Yk7mi2_9iM9avInf
         - Bitcoin inconfiscabile riserva di valore
           - https://www.youtube.com/watch?v=4BL2pusoX0o 
         - Bitcoin: valuta o asset digitale? Potenzialità, limiti e sviluppi futuri
@@ -90,15 +90,31 @@ Partiamo!
         - Into the Bitcoin Protocol: come funziona?
           - https://www.youtube.com/watch?v=KF3uQzBpMnw
         - Introduzione a Bitcoin: politecnico di Torino
-           - https://www.youtube.com/watch?v=rnhmBpznlHM  
-       - Tra Bitcoin Maximalism e centro America
+          - https://www.youtube.com/watch?v=rnhmBpznlHM  
+        - Tra Bitcoin Maximalism e centro America
           - https://www.youtube.com/watch?v=-UUeNcTTCI8
         - Bitcoin: l'evoluzione della moneta (tavola rotonda a Internet Festival 2021)
           - https://www.youtube.com/embed/lZHrR3FCRgo
         - Mining (discussione e live da Mining Farm in Russia)
-           -  https://www.youtube.com/watch?v=hoUAfkE9de0
+          - https://www.youtube.com/watch?v=hoUAfkE9de0
         - CTV, consenso, sviluppatori e miner
-           - https://bitcointrain.substack.com/p/fermata-30-ctv-e-il-consenso-in-bitcoin?r=mtvgo&s=w&utm_campaign=post&utm_medium=web
+          - https://bitcointrain.substack.com/p/fermata-30-ctv-e-il-consenso-in-bitcoin?r=mtvgo&s=w&utm_campaign=post&utm_medium=web
+        - Le culture nel mondo Bitcoin
+          - https://www.youtube.com/watch?v=TPjq4skAv9k
+        - "Tutto quello che vi hanno detto sul denaro è sbagliato" con Giacomo Zucco
+          - https://www.youtube.com/watch?v=fg764zWQmh8
+        - Il Bitcoin spiegato a tua nonna Giacomo Zucco
+          - https://www.youtube.com/watch?v=iww3arc89BA
+        - Giacomo Zucco e Riccardo Masutti | Wasabi, Joinmarket, Coordinatori CoinJoin e Blockchain Analysis
+          - https://www.youtube.com/watch?v=MKRqt4yzlI0
+        - Utilizzo di bitcoin da dispositivi mobile
+          - https://www.youtube.com/watch?v=UlyPArGmQ4w
+        - Hardware Wallets: comparazione, analisi, approfondimento, dibattito
+          - https://www.youtube.com/watch?v=fR3linC_deg
+        - Transazioni Bitcoin onchain, avvertenze, privacy, discussione
+          - https://www.youtube.com/watch?v=oQuy7GkbMaA
+        - Bitcoin transazioni e privacy su Lightning / tips & tricks
+          - https://www.youtube.com/watch?v=CoS_m3Vg2S8
         
         
             
@@ -190,7 +206,7 @@ Partiamo!
     
     - #### **3a - Telegram**
         
-        - https://web.telegram.org/#/im?p=@bitcoinita
+        - https://t.me/bitcoinita
         - https://t.me/BitcoinSecPriv 
         - https://t.me/BitcoinSicurezzaPrivacy
     - #### **3b - Chat Vocali**
@@ -207,6 +223,8 @@ Partiamo!
                 - https://www.meetup.com/bitcoinmilano/
                 - Canale Youtube: https://www.youtube.com/watch?v=Pws1pnJQlpc
             - Satoshi Spritz milanese: https://t.me/satoshispritzmilano
+        - Padova
+            - https://t.me/satoshispritzveneto (tutti i venerdì verso ora di cena)
         - Reggio Emilia
             - https://www.meetup.com/it-IT/BitcoinReggioEmilia
         - Torino
@@ -231,6 +249,7 @@ Partiamo!
         - https://www.hardwarewallet.it/
     - Generazione mnemonic bip39 da entropia microfonica
         - https://github.com/massmux/Papergen
+        - 
    
     
 - ## **5 - Exchange e sistemi per comprare Bitcoin**
