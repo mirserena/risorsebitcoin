@@ -188,6 +188,8 @@ Partiamo!
             - https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806
         - BITCOIN SOVRANITÀ MONETARIA ATTRAVERSO LA MATEMATICA
             - https://www.amazon.it/gp/product/B08LF238P7/ref=dbs_a_def_rwt_bibl_vppi_i0
+        - Villaggio Bitcoin: L'alba di una nuova società basata su una moneta sana e onesta
+            - https://www.villaggiobitcoin.it/libro-villaggio-bitcoin/
     - #### **2d - Corsi**
         
         - Bcademy
