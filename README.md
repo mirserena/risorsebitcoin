@@ -160,9 +160,11 @@ Partiamo!
         - Perchè Bitcoin è un organismo vivente
             - https://medium.com/@Bitcoin_ator/prova-di-vita-8ee4319ea161
         - Guida per la privacy nell'utilizzo di bitcoin
-            - https://turtlecute33.github.io/privacy.github.io/bitcoin.html
+            - turtlecute.org/bitcoin.html
         - Checkpoint Bitcoin - Blog italiano focalizzato su Bitcoin
             - https://checkpointbitcoin.it/
+        - Privacy folder - Canale telegram con consigli e suggerimenti riguardanti Bitcoin e privacy.
+            -  https://t.me/privacyfolder
          
 
 
