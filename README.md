@@ -192,6 +192,8 @@ Partiamo!
             - https://www.amazon.it/gp/product/B08LF238P7/ref=dbs_a_def_rwt_bibl_vppi_i0
         - Villaggio Bitcoin: L'alba di una nuova società basata su una moneta sana e onesta
             - https://www.villaggiobitcoin.it/libro-villaggio-bitcoin/
+        - 21 Lezioni: Cosa ho imparato nel cadere dentro la tana del Bianconiglio
+            - https://www.amazon.it/21-Lezioni-imparato-cadere-Bianconiglio/dp/B09W43BXD3
     - #### **2d - Corsi**
         
         - Bcademy
@@ -214,6 +216,7 @@ Partiamo!
         - https://t.me/bitcoinita
         - https://t.me/BitcoinSecPriv 
         - https://t.me/BitcoinSicurezzaPrivacy
+        - https://t.me/bitcoinmediachannel
     - #### **3b - Chat Vocali**
         
         - CLUBHOUSE: https://www.joinclubhouse.com/club/caf%C3%A9bitcoin (Focus specifici + Q&A in italiano ogni 2 settimane presso il cafè Bitcoin)
