@@ -36,7 +36,8 @@ Partiamo!
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
 - [**9 - Siti contenitore**](#9---Siti-contenitori-di-risorse-in-italiano-su-Bitcoin)
-- [**10 - Come contribuire alla lista**](#10---Come-contribuire-alla-lista)
+- [**10 - Physical Store**](#10---Physical-Store)
+- [**11 - Come contribuire alla lista**](#11---Come-contribuire-alla-lista)
 
 
 - ## **1 - Da dove iniziare**
