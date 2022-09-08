@@ -11,7 +11,7 @@ Sicuramente qualcosa è lí per sbaglio o non funziona piú.
 
 Perció ENJOY! (diamine un'altra parola in inglese) 
 
-Se avete voglia di CONTRIBUIRE aggiungendo risorse, correggendo o proponendo nuove/diverse categorie... vi spiego meglio al punto 10.
+Se avete voglia di CONTRIBUIRE aggiungendo risorse, correggendo o proponendo nuove/diverse categorie... vi spiego meglio al punto 11.
 Se avete voglia di fare una piccola donazione con Lightning Network potete usare il servizio tippin.me: http://tippin.me/@mir_btc 
 
 Partiamo! 
@@ -19,13 +19,14 @@ Partiamo!
 
 - [**1 - Da dove iniziare**](#1---Da-dove-iniziare)
 - [**2 - Approfondimenti**](#2---Approfondimenti)
-- - [**2a - Video**](#2a---Video)
-  - [**2b - Letture online**](#2b---Letture-online)
-  - [**2c - Libri da acquistare**](#2c---Libri-da-acquistare)
-  - [**2d - Corsi**](#2d---Corsi)
-  - [**2e - Podcast**](#2e---Podcast)
+  - [**2a - Video**](#2a---Video)
+  - [**2b - Video Trascrizioni**](#2b---Video-Trascrizioni)
+  - [**2c - Letture online**](#2c---Letture-online)
+  - [**2d - Libri da acquistare**](#2d---Libri-da-acquistare)
+  - [**2e - Corsi**](#2e---Corsi)
+  - [**2f - Podcast**](#2f---Podcast)
 - [**3 - Community**](#3---Community)
-- - [**3a - Telegram**](#3a---Telegram)
+  - [**3a - Telegram**](#3a---Telegram)
   - [**3b - Chat Vocali**](#3b---Chat---Vocali)
   - [**3c - Forum di BitcoinTalk in italiano**](#3c---Forum-di-BitcoinTalk-in-italiano)
   - [**3d - Meetup**](#3d---Meetup)
@@ -36,9 +37,6 @@ Partiamo!
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
 - [**9 - Siti contenitore**](#9---Siti-contenitori-di-risorse-in-italiano-su-Bitcoin)
 - [**10 - Come contribuire alla lista**](#10---Come-contribuire-alla-lista)
-
-
-
 
 
 - ## **1 - Da dove iniziare**
@@ -115,10 +113,16 @@ Partiamo!
           - https://www.youtube.com/watch?v=oQuy7GkbMaA
         - Bitcoin transazioni e privacy su Lightning / tips & tricks
           - https://www.youtube.com/watch?v=CoS_m3Vg2S8
+
         
-        
+    - #### **2b - Video Trascrizioni**
+
+        - Fiat Delenda Est - intervento di Jimmy Song alla conferenza Baltic Honey Badger 2022
+          - https://medium.com/@BitcoinBellyB/fiat-delenda-est-c5bce836342f
+
             
-    - #### **2b - Letture online**
+    - #### **2c - Letture online**
+
         - Una lettera a tutti coloro che non hanno bitcoin
             - https://www.linkedin.com/pulse/cari-famigliari-amici-luca-sonzogni
         - Perchè abbiamo bisogno della moneta privata
@@ -166,10 +170,8 @@ Partiamo!
         - Privacy folder - Canale telegram con consigli e suggerimenti riguardanti Bitcoin e privacy.
             -  https://t.me/privacyfolder
          
-
-
             
-    - #### **2c - Libri da acquistare**
+    - #### **2d - Libri da acquistare**
         
         - Domande e risposte su Bitcoin
             - https://www.amazon.it/Domande-risposte-Bitcoin-blockchain-definizione-ebook/dp/B07ZTYBWN6
@@ -192,7 +194,9 @@ Partiamo!
             - https://www.amazon.it/gp/product/B08LF238P7/ref=dbs_a_def_rwt_bibl_vppi_i0
         - Villaggio Bitcoin: L'alba di una nuova società basata su una moneta sana e onesta
             - https://www.villaggiobitcoin.it/libro-villaggio-bitcoin/
-    - #### **2d - Corsi**
+
+
+    - #### **2e - Corsi**
         
         - Bcademy
             - https://bcademy.it/
@@ -200,7 +204,9 @@ Partiamo!
             - https://www.udemy.com/course/bitcoin-blockchain-corso-completo-teoria-pratica-esempi-tutorial/?referralCode=AAC8EB895142D8301C13
         - Corso online "A scuola di Bitcoin" 
             - https://ascuoladibitcoin.com/
-    - #### **2e - Podcast**
+
+
+    - #### **2f - Podcast**
         
         - Bitcoin Italia Podcast
             - https://www.bitcoinitaliapodcast.it/
