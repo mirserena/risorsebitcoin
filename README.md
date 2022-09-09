@@ -120,6 +120,8 @@ Partiamo!
 
         - Fiat Delenda Est - intervento di Jimmy Song alla conferenza Baltic Honey Badger 2022
           - https://medium.com/@BitcoinBellyB/fiat-delenda-est-c5bce836342f
+        - Buon Giorno, il riciclaggio di denaro e' bellissimo - intervento di Giacomo Zucco alla conferenza Baltic Honey Badger 2022
+          - https://medium.com/@BitcoinBellyB/buon-giorno-il-riciclaggio-di-denaro-e-bellissimo-37cd75ff1ab3
 
             
     - #### **2c - Letture online**
