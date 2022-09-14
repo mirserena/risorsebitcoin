@@ -126,6 +126,8 @@ Partiamo!
             
     - #### **2c - Letture online**
 
+        - Trovare il segnale in un mondo rumoroso - di Jeff Booth
+            - https://medium.com/@BitcoinBellyB/trovare-il-segnale-in-un-mondo-rumoroso-2e5067eff0db
         - Una lettera a tutti coloro che non hanno bitcoin
             - https://www.linkedin.com/pulse/cari-famigliari-amici-luca-sonzogni
         - Perchè abbiamo bisogno della moneta privata
