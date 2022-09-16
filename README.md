@@ -125,7 +125,9 @@ Partiamo!
 
             
     - #### **2c - Letture online**
-
+    
+        - Bitcoin Mining e l'ambiente - di Michael Saylor
+            - https://medium.com/@BitcoinBellyB/bitcoin-mining-e-lambiente-39a170dfd60f
         - Trovare il segnale in un mondo rumoroso - di Jeff Booth
             - https://medium.com/@BitcoinBellyB/trovare-il-segnale-in-un-mondo-rumoroso-2e5067eff0db
         - Una lettera a tutti coloro che non hanno bitcoin
