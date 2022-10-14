@@ -194,7 +194,7 @@ Partiamo!
             - https://www.amazon.it/gp/product/B08LF238P7/ref=dbs_a_def_rwt_bibl_vppi_i0
         - Villaggio Bitcoin: L'alba di una nuova società basata su una moneta sana e onesta
             - https://www.villaggiobitcoin.it/libro-villaggio-bitcoin/
-        -  Criptoeconomia - Principi Fondamentali di Bitcoin (Eric Voskuil)
+        -  Criptoeconomia: Principi Fondamentali di Bitcoin (Eric Voskuil)
             - https://www.amazon.it/Criptoeconomia-Principi-Fondamentali-Eric-Voskuil/dp/1735060887
 
 
