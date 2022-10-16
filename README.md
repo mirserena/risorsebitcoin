@@ -194,6 +194,8 @@ Partiamo!
             - https://www.amazon.it/gp/product/B08LF238P7/ref=dbs_a_def_rwt_bibl_vppi_i0
         - Villaggio Bitcoin: L'alba di una nuova società basata su una moneta sana e onesta
             - https://www.villaggiobitcoin.it/libro-villaggio-bitcoin/
+        -  Criptoeconomia - Principi Fondamentali  (Eric Voskuil)
+            - https://www.amazon.it/Criptoeconomia-Principi-Fondamentali-Eric-Voskuil/dp/1735060887
         - 21 Lezioni: Cosa ho imparato nel cadere dentro la tana del Bianconiglio
             - https://www.amazon.it/21-Lezioni-imparato-cadere-Bianconiglio/dp/B09W43BXD3
 
@@ -212,6 +214,8 @@ Partiamo!
         
         - Bitcoin Italia Podcast
             - https://www.bitcoinitaliapodcast.it/
+        - Il Priorato Del Bitcoin
+            - https://anchor.fm/turtle-cute5 
     
     
     
