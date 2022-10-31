@@ -265,6 +265,8 @@ Partiamo!
             - https://www.meetup.com/Pisa-Bitcoin-Meetup/
         - Roma
             - Satoshi Spritz romano: https://t.me/satoshispritzroma
+        - Friuli
+            - Satoshi Spritz friulano: https://t.me/SatoshiSpritzFriuli
         
         
 
