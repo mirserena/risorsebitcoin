@@ -141,7 +141,7 @@ Partiamo!
             - https://bitcoiner.guide/nokyconly/it/
         - Il concetto di scarsità nella determinazione del valore di Bitcoin
             - https://medium.com/@carloclerici/il-concetto-di-scarsita-nella-determinazione-del-valore-di-bitcoin-c716c0ad3fff
-        - Cryptoeconomics
+        - Criptoeconomia - Traduzione Italiana di Cryptoeconomics di Eric Voskuil
             - https://github.com/parsevalbtc/cryptoeconomics-IT-translation
         - White paper di Bitcoin in italiano
             - https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
@@ -194,7 +194,7 @@ Partiamo!
             - https://www.amazon.it/gp/product/B08LF238P7/ref=dbs_a_def_rwt_bibl_vppi_i0
         - Villaggio Bitcoin: L'alba di una nuova società basata su una moneta sana e onesta
             - https://www.villaggiobitcoin.it/libro-villaggio-bitcoin/
-        -  Criptoeconomia - Principi Fondamentali  (Eric Voskuil)
+        -  Criptoeconomia: Principi Fondamentali di Bitcoin (Eric Voskuil)
             - https://www.amazon.it/Criptoeconomia-Principi-Fondamentali-Eric-Voskuil/dp/1735060887
 
 
