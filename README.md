@@ -203,6 +203,8 @@ Partiamo!
             - https://www.villaggiobitcoin.it/libro-villaggio-bitcoin/
         -  Criptoeconomia: Principi Fondamentali di Bitcoin (Eric Voskuil)
             - https://www.amazon.it/Criptoeconomia-Principi-Fondamentali-Eric-Voskuil/dp/1735060887
+        - 21 Lezioni: Cosa ho imparato nel cadere dentro la tana del Bianconiglio
+            - https://www.amazon.it/21-Lezioni-imparato-cadere-Bianconiglio/dp/B09W43BXD3
 
 
     - #### **2e - Corsi**
@@ -336,6 +338,7 @@ Partiamo!
     
     - https://bitcoin-translate.it/
     - https://pindol.medium.com/premessa-1e5254a52475
+    - https://t.me/bitcoinmediachannel
 
 - ## **10 - Physical Store**
 
