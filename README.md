@@ -74,6 +74,8 @@ Partiamo!
           - https://www.youtube.com/watch?v=kVCjfVN0344
         - Vivere con Bitcoin: Massimo Musumeci & Luca Venturini
           - https://www.youtube.com/watch?v=Qu_E7QmmoS4
+        - Bitcoin Rabbit Hole (playlist): Massimo Musumeci & Giacomo Zucco
+          - https://www.youtube.com/playlist?list=PLXAdTtNcWrMFx4eUCIzUAShy-bTCw9dCk
         - Meetup Roma: introduzione
           - https://www.youtube.com/watch?v=Wtyqxrhc8hI
         - Bitcoin Valley: Terraforming Bitcoin 2019
