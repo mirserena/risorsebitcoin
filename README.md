@@ -314,6 +314,8 @@ Partiamo!
         - https://github.com/Fillippone/NodoBitcoinforDummies
     - Bitcoin Core
         - https://bitcoin.org/it/scarica (attenzione: pagina italiana non aggiornata all'ultima versione di Core https://bitcoincore.org/en/download/ e ultimi update)
+    - Guida in italiano alla realizzazione di un full node Bitcoin
+        - https://bitcoin-translate.it/docs/NodeBox-HOW-TO.pdf
     
     
 - ## **7 - Servizi Bitcoin per le imprese**
