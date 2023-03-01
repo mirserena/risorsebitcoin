@@ -2,7 +2,7 @@
 
 
 La mia lista di RISORSE su Bitcoin IN ITALIANO.
-Quindi, in sostanza, l'idea è che potete anche non conoscere l'inglese (oltre a Bitcoin, wallet, hello, the cat is on the table...) per usare e imparare Bitcoin grazie a queste risorse. E potrete anche rimanere nel belpaese per alcuni servizi.
+Quindi, in sostanza, l'idea è che potete anche non conoscere l'inglese (oltre a Bitcoin, wallet, hello, the sat is on the table...) per usare e imparare Bitcoin grazie a queste risorse. E potrete anche rimanere nel belpaese per alcuni servizi.
 
 Una lista di oggi, per oggi. In continua mutazione.
 
@@ -59,7 +59,9 @@ Partiamo!
         - https://armantheparman.com/bitcoin-italian/
     - Bitcoin tutto in una pagina
         - https://bitcoin-translate.it/one-pager.php
-    
+    - Basi di Bitcoin in 10 video - miei video in collaborazione con Bitpanda
+     - https://www.youtube.com/channel/UCySLLNcWVSz5S2OjtesE7eA
+
     
     
 - ## **2 - Approfondimenti**
@@ -176,8 +178,11 @@ Partiamo!
             - turtlecute.org/bitcoin.html
         - Checkpoint Bitcoin - Blog italiano focalizzato su Bitcoin
             - https://checkpointbitcoin.it/
-        - Privacy folder - Canale telegram con consigli e suggerimenti riguardanti Bitcoin e privacy.
-            -  https://t.me/privacyfolder
+        - SakamotoNews: raccoglitore di news e fake news su Bitcoin
+            - https://sakamotonews.it 
+        - Checkpoint Bitcoin - Blog italiano focalizzato su Bitcoin
+            - https://checkpointbitcoin.it/
+    
          
             
     - #### **2d - Libri da acquistare**
@@ -199,7 +204,7 @@ Partiamo!
             - https://www.amazon.it/Bitcoin-Action-SegWit-Script-Contracts/dp/B08NL5ZV6X/
         - Dal sesterzio al Bitcoin
             - https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806
-        - BITCOIN SOVRANITÀ MONETARIA ATTRAVERSO LA MATEMATICA
+        - Bitcoin sovranità monetaria attraverso la matematica
             - https://www.amazon.it/gp/product/B08LF238P7/ref=dbs_a_def_rwt_bibl_vppi_i0
         - Villaggio Bitcoin: L'alba di una nuova società basata su una moneta sana e onesta
             - https://www.villaggiobitcoin.it/libro-villaggio-bitcoin/
@@ -207,12 +212,14 @@ Partiamo!
             - https://www.amazon.it/Criptoeconomia-Principi-Fondamentali-Eric-Voskuil/dp/1735060887
         - 21 Lezioni: Cosa ho imparato nel cadere dentro la tana del Bianconiglio
             - https://www.amazon.it/21-Lezioni-imparato-cadere-Bianconiglio/dp/B09W43BXD3
+        - Protocollo Bitcoin: Fondamenti per capire la tecnologia delle criptovalute e le sue applicazioni
+            - https://www.amazon.it/Protocollo-Bitcoin-Fondamenti-criptovalute-applicazioni/dp/B09MYVXR6Q
+        - Mastering Lightning Network: Protocollo di Secondo Livello per Pagamenti Bitcoin Istantanei 
+          - https://www.amazon.it/Mastering-Lightning-Network-Protocollo-Istantanei/dp/B0BW2SDCRD/ref=sr_1_1?__mk_it_IT=ÅMÅŽÕÑ&crid=GSHIJHXYNDR3&keywords=Mastering+Lightning+Network%3A+Protocollo&qid=1677666312&s=books&sprefix=mastering+lightning+network+protocollo%2Cstripbooks%2C161&sr=1-1
 
 
     - #### **2e - Corsi**
         
-        - Bcademy
-            - https://bcademy.it/
         - Bitcoin dalla teoria alla pratica - Corso Completo
             - https://www.udemy.com/course/bitcoin-blockchain-corso-completo-teoria-pratica-esempi-tutorial/?referralCode=AAC8EB895142D8301C13
         - Corso online "A scuola di Bitcoin" 
@@ -235,10 +242,10 @@ Partiamo!
         - https://t.me/bitcoinita
         - https://t.me/BitcoinSecPriv 
         - https://t.me/BitcoinSicurezzaPrivacy
+        -  https://t.me/privacyfolder
     - #### **3b - Chat Vocali**
         
-        - CLUBHOUSE: https://www.joinclubhouse.com/club/caf%C3%A9bitcoin (Focus specifici + Q&A in italiano ogni 2 settimane presso il cafè Bitcoin)
-        - TWITTER SPACES: https://twitter.com/btcintheclub (dal lunedì al venerdì alle 14.15) 
+        - TWITTER SPACES: https://twitter.com/btcintheclub
     - #### **3c - Forum di BitcoinTalk in italiano**
         
         - https://bitcointalk.org/index.php?board=28.0
@@ -280,7 +287,8 @@ Partiamo!
         - https://www.hardwarewallet.it/
     - Generazione mnemonic bip39 da entropia microfonica
         - https://github.com/massmux/Papergen
-        - 
+    - Fork del web wallet Coinbin con l'aggiunta della rete Testnet
+        - https://www.inblockchain.it
    
     
 - ## **5 - Exchange e sistemi per comprare Bitcoin**
