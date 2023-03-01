@@ -240,7 +240,7 @@ Partiamo!
         - https://t.me/bitcoinita
         - https://t.me/BitcoinSecPriv 
         - https://t.me/BitcoinSicurezzaPrivacy
-        -  https://t.me/privacyfolder
+        - https://t.me/privacyfolder
 
     - #### **3b - Chat Vocali**
         
@@ -277,6 +277,9 @@ Partiamo!
             - Satoshi Spritz friulano: https://t.me/SatoshiSpritzFriuli
         - Rimini
             - Satoshi Spritz romagnolo: https://t.me/SatoshiSpritzRimini
+    - #### **3e - Aggregatori e raccolte di risorse**
+        - VentunoBTC: community open-source di risorse in italiano
+            - https://ventuno.space/
         
         
 
