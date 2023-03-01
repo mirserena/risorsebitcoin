@@ -275,6 +275,8 @@ Partiamo!
             - Satoshi Spritz romano: https://t.me/satoshispritzroma
         - Friuli
             - Satoshi Spritz friulano: https://t.me/SatoshiSpritzFriuli
+        - Rimini
+            - Satoshi Spritz romagnolo: https://t.me/SatoshiSpritzRimini
         
         
 
