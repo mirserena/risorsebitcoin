@@ -291,30 +291,26 @@ Partiamo!
    
     
 - ## **5 - Exchange e sistemi per comprare Bitcoin**
-    
+
+    - Bikipi: acquisti bitcoin con ordini singoli o ricorrenti (no KYC)
+        - https://bitkipi.com/it
     - Relai
         - https://play.google.com/store/apps/details?id=com.relai&hl=it&gl=IT
-    - LocalBitcoins
-        - https://localbitcoins.com/it/buy_bitcoins
-    - The Rock Trading
-        - https://www.therocktrading.com/it/
-    - Conio
-        - https://www.conio.com/it/
-    - Young Platform
-        - https://exchange.youngplatform.com/it/
-    - Carta Hype 
-        - https://www.hype.it/cryptocurrency
     - Atm Bitcoin
         - https://coinatmradar.com/country/105/bitcoin-atm-italy/
     - Bitcoin Voucher Bot: Telegram Bot per acquisto bitcoin (no KYC, non custodial) supporta Onchain, Lightning, Liquid
         - https://t.me/BitcoinVoucherBot
     - Bitmoon Bitcoin People: Exchange non-custodial
         - https://bitmoon.bitcoinpeople.it/
-    - Bikipi: acquisti bitcoin con ordini singoli o ricorrenti (no KYC)
-        - https://bitkipi.com/it
+    - Conio
+        - https://www.conio.com/it/
+    - Young Platform
+        - https://exchange.youngplatform.com/it/
+    - Carta Hype 
+        - https://www.hype.it/cryptocurrency
+
     
   
-    
 - ## **6 - Runnare un full node**
     
     - Guida
