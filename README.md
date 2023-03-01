@@ -60,7 +60,7 @@ Partiamo!
     - Bitcoin tutto in una pagina
         - https://bitcoin-translate.it/one-pager.php
     - Basi di Bitcoin in 10 video - miei video in collaborazione con Bitpanda
-     - https://www.youtube.com/channel/UCySLLNcWVSz5S2OjtesE7eA
+      - https://www.youtube.com/channel/UCySLLNcWVSz5S2OjtesE7eA
 
     
     
@@ -160,8 +160,6 @@ Partiamo!
             - https://medium.com/@luomocontento/il-piccolo-principe-e-il-bitcoin-8185ba4cdc01
         - Mining for the streets in italiano 
             - https://medium.com/@filippo91/mining-for-the-streets-italiano-f3d96bd01069
-        - Forum pubblico su Bitcoin in ambito sicurezza, privacy, libertà, connesso al gruppo telegram https://t.me/BitcoinSecPriv in cui chiunque può inserire informazioni, spunti e riflessioni 
-            - https://bitcoinsecpriv.com/
         - Blog di Bitcoin in action 
           - https://bitcoin-in-action.medium.com/
         - Substack (Newsletter online) Bitcoin Train 
@@ -243,6 +241,7 @@ Partiamo!
         - https://t.me/BitcoinSecPriv 
         - https://t.me/BitcoinSicurezzaPrivacy
         -  https://t.me/privacyfolder
+
     - #### **3b - Chat Vocali**
         
         - TWITTER SPACES: https://twitter.com/btcintheclub
