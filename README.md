@@ -154,6 +154,7 @@ Partiamo!
             - https://medium.com/@carloclerici/il-concetto-di-scarsita-nella-determinazione-del-valore-di-bitcoin-c716c0ad3fff
         - Criptoeconomia - Traduzione Italiana di Cryptoeconomics di Eric Voskuil
             - https://github.com/parsevalbtc/cryptoeconomics-IT-translation
+            - https://voskuil.org/cryptoeconomics/it/criptoeconomia.pdf
         - White paper di Bitcoin in italiano
             - https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
         - Il Piccolo Principe e il Bitcoin
