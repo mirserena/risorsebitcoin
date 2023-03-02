@@ -32,7 +32,7 @@ Partiamo!
   - [**3d - Meetup**](#3d---Meetup)
 - [**4 - Wallet**](#4---Wallet)
 - [**5 - Exchange e sistemi per comprare Bitcoin**](#5---Exchange-e-sistemi-per-comprare-Bitcoin)
-- [**6 - Runnare un full node**](#6---Runnare-un-full-node)
+- [**6 - Far girare un full node**](#6---Far-girare-un-full-node)
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
 - [**9 - Siti contenitore**](#9---Siti-contenitori-di-risorse-in-italiano-su-Bitcoin)
@@ -181,8 +181,15 @@ Partiamo!
             - https://sakamotonews.it 
         - Checkpoint Bitcoin - Blog italiano focalizzato su Bitcoin
             - https://checkpointbitcoin.it/
-    
-         
+        - Bitcoin IOP - Istruzioni Operative substack 
+           - https://bitcoiniop.substack.com/ 
+        - Bitcoin in italiano substack 
+           - https://btcita.substack.com/
+         - Gli Algoritmi di Consenso nella blockchain
+           - https://danilogiudice.medium.com/gli-algoritmi-di-consenso-nella-blockchain-9a204de4424d
+           
+            
+             
             
     - #### **2d - Libri da acquistare**
         
@@ -215,6 +222,8 @@ Partiamo!
             - https://www.amazon.it/Protocollo-Bitcoin-Fondamenti-criptovalute-applicazioni/dp/B09MYVXR6Q
         - Mastering Lightning Network: Protocollo di Secondo Livello per Pagamenti Bitcoin Istantanei 
           - https://www.amazon.it/Mastering-Lightning-Network-Protocollo-Istantanei/dp/B0BW2SDCRD/ref=sr_1_1?__mk_it_IT=ÅMÅŽÕÑ&crid=GSHIJHXYNDR3&keywords=Mastering+Lightning+Network%3A+Protocollo&qid=1677666312&s=books&sprefix=mastering+lightning+network+protocollo%2Cstripbooks%2C161&sr=1-1
+        - Il denaro: Dalle Origini ai Nostri Giorni, in 5 Minuti di Lettura, dai 5 Anni in Su
+         - https://www.amazon.it/DENARO-Origini-Nostri-Giorni-Lettura/dp/B0BCDF3CJ2/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ALETT4CS6L5S&keywords=il+denaro&qid=1663252463&sprefix=il+denaro%2Caps%2C104&sr=8-1#detailBullets_feature_div
 
 
     - #### **2e - Corsi**
@@ -317,7 +326,7 @@ Partiamo!
 
     
   
-- ## **6 - Runnare un full node**
+- ## **6 - Far girare un full node**
     
     - Guida
         - https://github.com/Fillippone/NodoBitcoinforDummies
