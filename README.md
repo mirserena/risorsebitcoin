@@ -223,7 +223,7 @@ Partiamo!
         - Mastering Lightning Network: Protocollo di Secondo Livello per Pagamenti Bitcoin Istantanei 
           - https://www.amazon.it/Mastering-Lightning-Network-Protocollo-Istantanei/dp/B0BW2SDCRD/ref=sr_1_1?__mk_it_IT=ÅMÅŽÕÑ&crid=GSHIJHXYNDR3&keywords=Mastering+Lightning+Network%3A+Protocollo&qid=1677666312&s=books&sprefix=mastering+lightning+network+protocollo%2Cstripbooks%2C161&sr=1-1
         - Il denaro: Dalle Origini ai Nostri Giorni, in 5 Minuti di Lettura, dai 5 Anni in Su
-         - https://www.amazon.it/DENARO-Origini-Nostri-Giorni-Lettura/dp/B0BCDF3CJ2/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ALETT4CS6L5S&keywords=il+denaro&qid=1663252463&sprefix=il+denaro%2Caps%2C104&sr=8-1#detailBullets_feature_div
+          - https://www.amazon.it/Protocollo-Bitcoin-Fondamenti-criptovalute-applicazioni/dp/B09MYVXR6Q
 
 
     - #### **2e - Corsi**
@@ -287,11 +287,8 @@ Partiamo!
             - Satoshi Spritz friulano: https://t.me/SatoshiSpritzFriuli
         - Rimini
             - Satoshi Spritz romagnolo: https://t.me/SatoshiSpritzRimini
-    - #### **3e - Aggregatori e raccolte di risorse**
-        - VentunoBTC: community open-source di risorse in italiano
-            - https://ventuno.space/
         
-        
+       
 
 - ## **4 - Wallet**
     
@@ -363,6 +360,7 @@ Partiamo!
     - https://bitcoin-translate.it/
     - https://pindol.medium.com/premessa-1e5254a52475
     - https://t.me/bitcoinmediachannel
+    - https://ventuno.space/
 
 - ## **10 - Physical Store**
 
