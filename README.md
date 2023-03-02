@@ -179,11 +179,9 @@ Partiamo!
             - https://checkpointbitcoin.it/
         - SakamotoNews: raccoglitore di news e fake news su Bitcoin
             - https://sakamotonews.it 
-        - Checkpoint Bitcoin - Blog italiano focalizzato su Bitcoin
-            - https://checkpointbitcoin.it/
         - Bitcoin IOP - Istruzioni Operative substack 
            - https://bitcoiniop.substack.com/ 
-        - Bitcoin in italiano substack 
+        - Bitcoin in Italiano substack 
            - https://btcita.substack.com/
          - Gli Algoritmi di Consenso nella blockchain
            - https://danilogiudice.medium.com/gli-algoritmi-di-consenso-nella-blockchain-9a204de4424d
@@ -223,7 +221,7 @@ Partiamo!
         - Mastering Lightning Network: Protocollo di Secondo Livello per Pagamenti Bitcoin Istantanei 
           - https://www.amazon.it/Mastering-Lightning-Network-Protocollo-Istantanei/dp/B0BW2SDCRD/ref=sr_1_1?__mk_it_IT=ÅMÅŽÕÑ&crid=GSHIJHXYNDR3&keywords=Mastering+Lightning+Network%3A+Protocollo&qid=1677666312&s=books&sprefix=mastering+lightning+network+protocollo%2Cstripbooks%2C161&sr=1-1
         - Il denaro: Dalle Origini ai Nostri Giorni, in 5 Minuti di Lettura, dai 5 Anni in Su
-          - https://www.amazon.it/Protocollo-Bitcoin-Fondamenti-criptovalute-applicazioni/dp/B09MYVXR6Q
+          - [[[https://www.amazon.it/Protocollo-Bitcoin-Fondamenti-criptovalute-applicazioni/dp/B09MYVXR6Q](https://amzn.eu/d/b9qBChS)](https://amzn.eu/d/b9qBChS)](https://www.amazon.it/DENARO-Origini-Nostri-Giorni-Lettura/dp/B0BCDF3CJ2/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3OFQ3GWFQZZCD&keywords=il+denaro+dalle+origini&qid=1677748818&sprefix=il+denaro+dalle+origini%2Caps%2C99&sr=8-1)
 
 
     - #### **2e - Corsi**
