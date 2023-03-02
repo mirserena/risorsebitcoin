@@ -229,7 +229,7 @@ Partiamo!
         - Bitcoin Italia Podcast
             - https://www.bitcoinitaliapodcast.it/
         - Il Priorato Del Bitcoin
-            - https://anchor.fm/turtle-cute5 
+            - https://priorato.org 
     
     
     
