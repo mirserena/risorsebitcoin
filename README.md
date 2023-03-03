@@ -318,6 +318,10 @@ Partiamo!
         - https://exchange.youngplatform.com/it/
     - Carta Hype 
         - https://www.hype.it/cryptocurrency
+    - Hodl Hodl: P2P, no KYC, non custodial
+        - https://hodlhodl.com
+    - Peach Bitcoin: P2P, no KYC
+        - https://peachbitcoin.com/
 
     
   
