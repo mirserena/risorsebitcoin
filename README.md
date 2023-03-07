@@ -183,8 +183,11 @@ Partiamo!
            - https://bitcoiniop.substack.com/ 
         - Bitcoin in Italiano substack 
            - https://btcita.substack.com/
-         - Gli Algoritmi di Consenso nella blockchain
+        - Gli Algoritmi di Consenso nella blockchain
            - https://danilogiudice.medium.com/gli-algoritmi-di-consenso-nella-blockchain-9a204de4424d
+        - Bitcoin scioglie gli Iceberg, forse… Debunking all’energivorità della Proof of Work
+           - https://danilogiudice.medium.com/bitcoin-scioglie-gli-iceberg-forse-cf1e27dfe2dd
+        
            
             
              
@@ -355,10 +358,11 @@ Partiamo!
 
 - ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
     
-    - https://bitcoin-translate.it/
+    - https://bitcoin-translate.it
     - https://pindol.medium.com/premessa-1e5254a52475
     - https://t.me/bitcoinmediachannel
-    - https://ventuno.space/
+    - https://ventuno.space
+    - https://coindipity.com
 
 - ## **10 - Physical Store**
 
