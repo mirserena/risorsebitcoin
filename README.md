@@ -118,13 +118,18 @@ Partiamo!
           - https://www.youtube.com/watch?v=oQuy7GkbMaA
         - Bitcoin transazioni e privacy su Lightning / tips & tricks
           - https://www.youtube.com/watch?v=CoS_m3Vg2S8
+        - Bitcoin tra luoghi comuni e falsi miti, conversazione con Montemagno
+          - https://www.youtube.com/watch?v=jhlu5DlJBmk
+        - Bitcoin Economia e Società, lezione al politecnico di Torino (iniziativa di BitGeneration)
+          - https://www.youtube.com/watch?v=eZmjlNSgB5w
+       
 
         
     - #### **2b - Video Trascrizioni**
 
         - Fiat Delenda Est - intervento di Jimmy Song alla conferenza Baltic Honey Badger 2022
           - https://medium.com/@BitcoinBellyB/fiat-delenda-est-c5bce836342f
-        - Buon Giorno, il riciclaggio di denaro e' bellissimo - intervento di Giacomo Zucco alla conferenza Baltic Honey Badger 2022
+        - Buon Giorno, il riciclaggio è bellissimo - intervento di Giacomo Zucco alla conferenza Baltic Honey Badger 2022
           - https://medium.com/@BitcoinBellyB/buon-giorno-il-riciclaggio-di-denaro-e-bellissimo-37cd75ff1ab3
 
             
