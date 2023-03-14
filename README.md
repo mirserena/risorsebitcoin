@@ -337,6 +337,8 @@ Partiamo!
         - https://bitcoin.org/it/scarica (attenzione: pagina italiana non aggiornata all'ultima versione di Core https://bitcoincore.org/en/download/ e ultimi update)
     - Guida in italiano alla realizzazione di un full node Bitcoin
         - https://bitcoin-translate.it/docs/NodeBox-HOW-TO.pdf
+    - Repository creata per contenere tutti i file di configurazione e relativi servizi per implementare un nodo Bitcoin e Lightning
+        - https://github.com/LucaBertoni29/BitcoinCore
     
     
 - ## **7 - Servizi Bitcoin per le imprese**
