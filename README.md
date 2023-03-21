@@ -319,7 +319,7 @@ Partiamo!
     - Atm Bitcoin
         - https://coinatmradar.com/country/105/bitcoin-atm-italy/
     - Bitcoin Voucher Bot: Bot per acquisto Voucher Bitcoin e servizi (no KYC, non custodial) On-chain, Lightning, Liquid. Disponibile su Telegram e Nostr.
-        - https://t.me/BitcoinVoucherBot
+        - https://t.me/BitcoinVoucherBot  |  npub1fwcucd29vzleqlu8zjrs7dxpmurujgrk3yu2vtq6usx4wfspxjeqyw5089
     - Bitmoon Bitcoin People: Exchange non-custodial
         - https://bitmoon.bitcoinpeople.it/
     - Conio
