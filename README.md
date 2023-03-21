@@ -258,6 +258,7 @@ Partiamo!
         - https://t.me/BitcoinSecPriv 
         - https://t.me/BitcoinSicurezzaPrivacy
         - https://t.me/privacyfolder
+	- https://t.me/LightningNodes
 
     - #### **3b - Chat Vocali**
         
@@ -317,8 +318,8 @@ Partiamo!
         - https://play.google.com/store/apps/details?id=com.relai&hl=it&gl=IT
     - Atm Bitcoin
         - https://coinatmradar.com/country/105/bitcoin-atm-italy/
-    - Bitcoin Voucher Bot: Telegram Bot per acquisto bitcoin (no KYC, non custodial) supporta Onchain, Lightning, Liquid
-        - https://t.me/BitcoinVoucherBot
+    - Bitcoin Voucher Bot: Bot per acquisto Voucher Bitcoin e servizi (no KYC, non custodial) On-chain, Lightning, Liquid. Disponibile su Telegram e Nostr.
+        - https://t.me/BitcoinVoucherBot  |  npub1fwcucd29vzleqlu8zjrs7dxpmurujgrk3yu2vtq6usx4wfspxjeqyw5089
     - Bitmoon Bitcoin People: Exchange non-custodial
         - https://bitmoon.bitcoinpeople.it/
     - Conio
@@ -358,7 +359,7 @@ Partiamo!
     
     - https://www.quibitcoin.it/
     - https://www.tritema.ch
-    - https://www.denali.it
+    - https://www.denali.eu
     - https://www.bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin/
     - https://www.grisomeat.com/
     - https://www.villaggiobitcoin.it/chi-accetta-bitcoin
@@ -377,6 +378,7 @@ Partiamo!
   Punti fisici sul territorio dove si fa formazione, educazione e consulenza alle persone che si vogliono avvicinare al mondo Bitcoin:
   - Villaggio Bitcoin - [Via Roma, 37, 25047 Darfo Boario Terme BS](https://goo.gl/maps/zf54DQ9maRWjTJB28)
   - Inbitcoin - [Via Rialto, 16, 38068 Rovereto TN](https://goo.gl/maps/pMcLhoFRYYpsTpaG8)
+  - Acquisto Vouchers Bitcoin, [vicino confine, Roveredo](https://goo.gl/maps/sQciUfxdAs385QGu7)
   
 
 - ## **11 - Come contribuire alla lista**
