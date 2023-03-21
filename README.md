@@ -352,6 +352,7 @@ Partiamo!
     - https://notarify.io/ 
     - https://www.bitcoinpeople.it/bpay
     - https://www.villaggiobitcoin.it
+    - https://www.bitcoinservice.it/
     
     
 
