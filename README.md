@@ -252,7 +252,8 @@ Partiamo!
         - Il Priorato Del Bitcoin
             - https://priorato.org 
         - Episodio di Radio24 sugli NFT con Giacomo Zucco da Pagliarini 
-	   - https://www.radio24.ilsole24ore.com/programmi/2024/puntata/nft-data-center-e-backup-rimborso-windows-social-audio-220521-ADACIqPB
+     	- https://www.radio24.ilsole24ore.com/programmi/2024/puntata/nft-data-center-e-backup-rimborso-windows-social-audio-220521-ADACIqPB
+       			
     
     
     
