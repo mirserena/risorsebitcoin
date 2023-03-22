@@ -20,7 +20,7 @@ Partiamo!
 - [**1 - Da dove iniziare**](#1---Da-dove-iniziare)
 - [**2 - Approfondimenti**](#2---Approfondimenti)
   - [**2a - Video**](#2a---Video)
-  - [**2b - Video Trascrizioni**](#2b---Video-Trascrizioni)
+  - [**2b - Trascrizioni**](#2b---Trascrizioni)
   - [**2c - Letture online**](#2c---Letture-online)
   - [**2d - Libri da acquistare**](#2d---Libri-da-acquistare)
   - [**2e - Corsi**](#2e---Corsi)
@@ -129,12 +129,18 @@ Partiamo!
        
 
         
-    - #### **2b - Video Trascrizioni**
+    - #### **2b - Trascrizioni**
 
         - Fiat Delenda Est - intervento di Jimmy Song alla conferenza Baltic Honey Badger 2022
           - https://medium.com/@BitcoinBellyB/fiat-delenda-est-c5bce836342f
         - Buon Giorno, il riciclaggio è bellissimo - intervento di Giacomo Zucco alla conferenza Baltic Honey Badger 2022
           - https://medium.com/@BitcoinBellyB/buon-giorno-il-riciclaggio-di-denaro-e-bellissimo-37cd75ff1ab3
+        - Il fallimento dell'economia moderna 
+          - https://www.musclesatz.com/it/articles/bitcoin/il-fallimento-dell-economia-moderna/ 
+         - Bitcoin passato presente e futuro 
+            - https://www.musclesatz.com/it/articles/bitcoin/bitcoin-passato-presente-futuro
+
+ 
 
             
     - #### **2c - Letture online**
