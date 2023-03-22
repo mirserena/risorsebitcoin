@@ -32,7 +32,7 @@ Partiamo!
   - [**3d - Meetup**](#3d---Meetup)
 - [**4 - Wallet**](#4---Wallet)
 - [**5 - Exchange e sistemi per comprare Bitcoin**](#5---Exchange-e-sistemi-per-comprare-Bitcoin)
-- [**6 - Far girare un full node**](#6---Far-girare-un-full-node)
+- [**6 - Far girare un full node o un LN node**](#6---Far-girare-un-full-node-o-un-LN-node)
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
 - [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
 - [**9 - Siti contenitore**](#9---Siti-contenitori-di-risorse-in-italiano-su-Bitcoin)
@@ -61,6 +61,10 @@ Partiamo!
         - https://bitcoin-translate.it/one-pager.php
     - Basi di Bitcoin in 10 video - miei video in collaborazione con Bitpanda
       - https://www.youtube.com/channel/UCySLLNcWVSz5S2OjtesE7eA
+    - Bitcoin 101 
+      - https://www.youtube.com/watch?v=N_9LarNCtzE
+    - Understanding Bitcoin 
+    	- https://www.youtube.com/watch?v=_QB4Jif_-8Q
 
     
     
@@ -247,10 +251,16 @@ Partiamo!
             - https://www.bitcoinitaliapodcast.it/
         - Il Priorato Del Bitcoin
             - https://priorato.org 
+        - Episodio di Radio24 sugli NFT con Giacomo Zucco da Pagliarini 
+	   - https://www.radio24.ilsole24ore.com/programmi/2024/puntata/nft-data-center-e-backup-rimborso-windows-social-audio-220521-ADACIqPB
     
     
     
 - ## **3 - Community** 
+ 	
+	- Btc pay Server Italia
+		- https://www.btcpayserver.it/community/
+	
     
     - #### **3a - Telegram**
         
@@ -267,6 +277,10 @@ Partiamo!
         
         - https://bitcointalk.org/index.php?board=28.0
     - #### **3d - Meetup**
+    
+   	- Lista dei Satoshi Spritz attivi sul territorio: 
+		- http://satoshispritz.it/
+	
         
         - Milano
             - Bitcoin Meetup Milano
@@ -295,6 +309,7 @@ Partiamo!
             - Satoshi Spritz friulano: https://t.me/SatoshiSpritzFriuli
         - Rimini
             - Satoshi Spritz romagnolo: https://t.me/SatoshiSpritzRimini
+    
         
        
 
@@ -331,7 +346,7 @@ Partiamo!
 
     
   
-- ## **6 - Far girare un full node**
+- ## **6 - Far girare un full node o un LN node**
     
     - Guida
         - https://github.com/Fillippone/NodoBitcoinforDummies
@@ -341,6 +356,9 @@ Partiamo!
         - https://bitcoin-translate.it/docs/NodeBox-HOW-TO.pdf
     - Repository creata per contenere tutti i file di configurazione e relativi servizi per implementare un nodo Bitcoin e Lightning
         - https://github.com/LucaBertoni29/BitcoinCore
+     - Installare un nodo Lightning Network con LND
+        - https://medium.com/@smartmouse/installare-un-nodo-lightning-network-con-lnd-b6a2538b2b7d
+	
     
     
 - ## **7 - Servizi Bitcoin per le imprese**
@@ -364,6 +382,7 @@ Partiamo!
     - https://www.bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin/
     - https://www.grisomeat.com/
     - https://www.villaggiobitcoin.it/chi-accetta-bitcoin
+    - https://pharmalite.com/ (online e nel negozio fisico)
     
 
 - ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
@@ -379,7 +398,8 @@ Partiamo!
   Punti fisici sul territorio dove si fa formazione, educazione e consulenza alle persone che si vogliono avvicinare al mondo Bitcoin:
   - Villaggio Bitcoin - [Via Roma, 37, 25047 Darfo Boario Terme BS](https://goo.gl/maps/zf54DQ9maRWjTJB28)
   - Inbitcoin - [Via Rialto, 16, 38068 Rovereto TN](https://goo.gl/maps/pMcLhoFRYYpsTpaG8)
-  - Acquisto Vouchers Bitcoin, [vicino confine, Roveredo](https://goo.gl/maps/sQciUfxdAs385QGu7)
+  - Acquisto Vouchers Bitcoin [vicino confine, Roveredo](https://goo.gl/maps/sQciUfxdAs385QGu7)
+  - 
   
 
 - ## **11 - Come contribuire alla lista**
