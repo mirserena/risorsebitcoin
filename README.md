@@ -259,8 +259,8 @@ Partiamo!
     
     
 - ## **3 - Community** 
- 	
-	- BtcPayServer Italia
+
+	- BtcPayServer Italia 
 		- https://www.btcpayserver.it/community/
 	
     
@@ -282,7 +282,7 @@ Partiamo!
     - #### **3d - Meetup**
 
         - Lista dei Satoshi Spritz attivi sul territorio:
-		- http://satoshispritz.it/
+     		- http://satoshispritz.it/
 	
         - Milano
             - Bitcoin Meetup Milano
