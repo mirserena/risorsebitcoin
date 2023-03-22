@@ -251,8 +251,9 @@ Partiamo!
             - https://www.bitcoinitaliapodcast.it/
         - Il Priorato Del Bitcoin
             - https://priorato.org 
-        - Episodio di Radio24 sugli NFT con Giacomo Zucco da Pagliarini 
-		- https://www.radio24.ilsole24ore.com/programmi/2024/puntata/nft-data-center-e-backup-rimborso-windows-social-audio-220521-ADACIqPB
+        - Episodio di Radio24 sugli NFT con Giacomo Zucco da Pagliarini
+            - https://www.radio24.ilsole24ore.com/programmi/2024/puntata/nft-data-center-e-backup-rimborso-windows-social-audio-220521-ADACIqPB
+      
        			
     
     
@@ -401,7 +402,6 @@ Partiamo!
   - Inbitcoin - [Via Rialto, 16, 38068 Rovereto TN](https://goo.gl/maps/pMcLhoFRYYpsTpaG8)
   - Acquisto Vouchers Bitcoin [vicino confine, Roveredo](https://goo.gl/maps/sQciUfxdAs385QGu7)
  
-  
 
 - ## **11 - Come contribuire alla lista**
 
