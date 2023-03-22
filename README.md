@@ -252,14 +252,14 @@ Partiamo!
         - Il Priorato Del Bitcoin
             - https://priorato.org 
         - Episodio di Radio24 sugli NFT con Giacomo Zucco da Pagliarini 
-     	- https://www.radio24.ilsole24ore.com/programmi/2024/puntata/nft-data-center-e-backup-rimborso-windows-social-audio-220521-ADACIqPB
+		- https://www.radio24.ilsole24ore.com/programmi/2024/puntata/nft-data-center-e-backup-rimborso-windows-social-audio-220521-ADACIqPB
        			
     
     
     
 - ## **3 - Community** 
  	
-	- Btc pay Server Italia
+	- BtcPayServer Italia
 		- https://www.btcpayserver.it/community/
 	
     
@@ -269,7 +269,8 @@ Partiamo!
         - https://t.me/BitcoinSecPriv 
         - https://t.me/BitcoinSicurezzaPrivacy
         - https://t.me/privacyfolder
-	- https://t.me/LightningNodes
+        - https://t.me/LightningNodes
+
 
     - #### **3b - Chat Vocali**
         
@@ -278,11 +279,10 @@ Partiamo!
         
         - https://bitcointalk.org/index.php?board=28.0
     - #### **3d - Meetup**
-    
-   	- Lista dei Satoshi Spritz attivi sul territorio: 
+
+        - Lista dei Satoshi Spritz attivi sul territorio:
 		- http://satoshispritz.it/
 	
-        
         - Milano
             - Bitcoin Meetup Milano
                 - https://www.meetup.com/bitcoinmilano/
@@ -400,7 +400,7 @@ Partiamo!
   - Villaggio Bitcoin - [Via Roma, 37, 25047 Darfo Boario Terme BS](https://goo.gl/maps/zf54DQ9maRWjTJB28)
   - Inbitcoin - [Via Rialto, 16, 38068 Rovereto TN](https://goo.gl/maps/pMcLhoFRYYpsTpaG8)
   - Acquisto Vouchers Bitcoin [vicino confine, Roveredo](https://goo.gl/maps/sQciUfxdAs385QGu7)
-  - 
+ 
   
 
 - ## **11 - Come contribuire alla lista**
