@@ -289,7 +289,15 @@ Partiamo!
 
         - Lista dei Satoshi Spritz attivi sul territorio:
      		- http://satoshispritz.it/
-	
+
+        - Arezzo
+            - Satoshi Spritz aretino: [@SatoshiSpritzArezzo](https://t.me/SatoshiSpritzArezzo)
+        - Bologna
+            - https://www.meetup.com/it-IT/Bitcoin-Bologna/
+        - Firenze
+            - Satoshi Spritz fiorentino: [@SatoshiSpritzFirenze](https://t.me/SatoshiSpritzFirenze)
+        - Friuli
+            - Satoshi Spritz friulano: https://t.me/SatoshiSpritzFriuli
         - Milano
             - Bitcoin Meetup Milano
                 - https://www.meetup.com/bitcoinmilano/
@@ -297,29 +305,23 @@ Partiamo!
             - Satoshi Spritz milanese: https://t.me/satoshispritzmilano
         - Padova
             - https://t.me/satoshispritzveneto (tutti i venerdì verso ora di cena)
+        - Pisa 
+            - https://www.meetup.com/Pisa-Bitcoin-Meetup/
         - Reggio Emilia
             - https://www.meetup.com/it-IT/BitcoinReggioEmilia
+        - Rimini
+            - Satoshi Spritz romagnolo: https://t.me/SatoshiSpritzRimini
+        - Roma
+            - Satoshi Spritz romano: https://t.me/satoshispritzroma
         - Torino
             - https://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/
             - Satoshi Spritz torinese: https://t.me/satoshispritztorino
         - Venezia
             - https://www.meetup.com/it-IT/Bitcoin-Venezia/
             - Satoshi Spritz veneto: https://t.me/satoshispritzveneto
-        - Bologna
-            - https://www.meetup.com/it-IT/Bitcoin-Bologna/
         - Verona 
             - https://www.meetup.com/it-IT/Bitcoin-Verona/
-        - Pisa 
-            - https://www.meetup.com/Pisa-Bitcoin-Meetup/
-        - Roma
-            - Satoshi Spritz romano: https://t.me/satoshispritzroma
-        - Friuli
-            - Satoshi Spritz friulano: https://t.me/SatoshiSpritzFriuli
-        - Rimini
-            - Satoshi Spritz romagnolo: https://t.me/SatoshiSpritzRimini
-    
-        
-       
+
 
 - ## **4 - Wallet**
     
