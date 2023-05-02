@@ -317,6 +317,8 @@ Partiamo!
         - Torino
             - https://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/
             - Satoshi Spritz torinese: https://t.me/satoshispritztorino
+	- Varese
+            - Satoshi Spritz varesino: https://t.me/satoshispritzVarese
         - Venezia
             - https://www.meetup.com/it-IT/Bitcoin-Venezia/
             - Satoshi Spritz veneto: https://t.me/satoshispritzveneto
