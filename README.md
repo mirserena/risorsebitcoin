@@ -314,9 +314,11 @@ Partiamo!
             - Satoshi Spritz romagnolo: https://t.me/SatoshiSpritzRimini
         - Roma
             - Satoshi Spritz romano: https://t.me/satoshispritzroma
-        - Torino
+        - Torino       
             - https://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/
-            - Satoshi Spritz torinese: https://t.me/satoshispritztorino
+            - Satoshi Spritz torinese: https://t.me/satoshispritztorino             
+        - Varese
+            - Satoshi Spritz varesino: https://t.me/satoshispritzVarese
         - Venezia
             - https://www.meetup.com/it-IT/Bitcoin-Venezia/
             - Satoshi Spritz veneto: https://t.me/satoshispritzveneto
