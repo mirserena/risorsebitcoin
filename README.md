@@ -12,7 +12,7 @@ Sicuramente qualcosa è lí per sbaglio o non funziona piú.
 Perció ENJOY! (diamine un'altra parola in inglese) 
 
 Se avete voglia di CONTRIBUIRE aggiungendo risorse, correggendo o proponendo nuove/diverse categorie... vi spiego meglio al punto 11.
-Se avete voglia di fare una piccola donazione con Lightning Network potete usare il servizio tippin.me: http://tippin.me/@mir_btc 
+Se avete voglia di fare una piccola donazione con Lightning Network potete usare il mio indirizzo con Alby: [mirbtc@getalby.com](https://getalby.com/p/mirbtc) o LNURL1DP68GURN8GHJ7EM9W3SKCCNE9E3K7MF0D3H82UNVWQHK66TJVF6XXFJU339
 
 Partiamo! 
 
