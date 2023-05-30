@@ -204,7 +204,7 @@ Partiamo!
            - https://danilogiudice.medium.com/bitcoin-scioglie-gli-iceberg-forse-cf1e27dfe2dd
         - Mastering Lightning Network - Protocollo di Secondo Livello per Pagamenti Bitcoin Istantanei, pdf della traduzione italiana 
            - https://riccardomasutti.com/Mastering%20Lightning%20Network%20-%20Protocollo%20di%20Secondo%20Livello%20per%20Pagamenti%20Bitcoin%20Istantanei.pdf
-        - 21 Milioni Blog - traduzioni in italiano di articoli sulle origini di Bitcoin e del movimento Cypherpunk.
+        - 21 Milioni Blog - articoli in italiano sulle origini di Bitcoin e movimento Cypherpunk.
            - https://21milioni.medium.com
            
             
