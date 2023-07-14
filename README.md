@@ -207,7 +207,7 @@ Partiamo!
       	- Blog Bitcoin for Freedom
            - https://bitcoinforfreedom.it/
      	- LNP/BP: una dolce introduzione
-  	   - https://bitcoinforfreedom.it/bitcoin/lnp-bp-una-dolce-introduzione/	
+  	    - https://bitcoinforfreedom.it/bitcoin/lnp-bp-una-dolce-introduzione/	
            
             
              
