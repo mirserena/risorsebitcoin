@@ -206,9 +206,10 @@ Partiamo!
            - https://riccardomasutti.com/Mastering%20Lightning%20Network%20-%20Protocollo%20di%20Secondo%20Livello%20per%20Pagamenti%20Bitcoin%20Istantanei.pdf
         - 21 Milioni Blog - articoli in italiano sulle origini di Bitcoin e movimento Cypherpunk.
            - https://21milioni.medium.com
-           
-            
-             
+      	- Blog Bitcoin for Freedom
+           - https://bitcoinforfreedom.it/
+      	 - LNP/BP: una dolce introduzione
+           - https://bitcoinforfreedom.it/bitcoin/lnp-bp-una-dolce-introduzione/             
             
     - #### **2d - Libri da acquistare**
         
