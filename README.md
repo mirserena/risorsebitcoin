@@ -204,12 +204,12 @@ Partiamo!
            - https://danilogiudice.medium.com/bitcoin-scioglie-gli-iceberg-forse-cf1e27dfe2dd
         - Mastering Lightning Network - Protocollo di Secondo Livello per Pagamenti Bitcoin Istantanei, pdf della traduzione italiana 
            - https://riccardomasutti.com/Mastering%20Lightning%20Network%20-%20Protocollo%20di%20Secondo%20Livello%20per%20Pagamenti%20Bitcoin%20Istantanei.pdf
+        - 21 Milioni Blog - articoli in italiano sulle origini di Bitcoin e movimento Cypherpunk.
+           - https://21milioni.medium.com
       	- Blog Bitcoin for Freedom
            - https://bitcoinforfreedom.it/
       	 - LNP/BP: una dolce introduzione
-           - https://bitcoinforfreedom.it/bitcoin/lnp-bp-una-dolce-introduzione/
-            
-             
+           - https://bitcoinforfreedom.it/bitcoin/lnp-bp-una-dolce-introduzione/             
             
     - #### **2d - Libri da acquistare**
         
@@ -379,7 +379,6 @@ Partiamo!
     
 - ## **7 - Servizi Bitcoin per le imprese**
     
-    - https://tinkl.it/
     - https://inbitcoin.it/
     - https://bitshopbologna.it/
     - https://www.chainside.net/en/home/
