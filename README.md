@@ -206,7 +206,7 @@ Partiamo!
            - https://riccardomasutti.com/Mastering%20Lightning%20Network%20-%20Protocollo%20di%20Secondo%20Livello%20per%20Pagamenti%20Bitcoin%20Istantanei.pdf
       	- Blog Bitcoin for Freedom
            - https://bitcoinforfreedom.it/
-     	- LNP/BP: una dolce introduzione
+      	 - LNP/BP: una dolce introduzione
            - https://bitcoinforfreedom.it/bitcoin/lnp-bp-una-dolce-introduzione/
             
              
