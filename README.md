@@ -317,6 +317,8 @@ Partiamo!
             - Satoshi Spritz romagnolo: https://t.me/SatoshiSpritzRimini
         - Roma
             - Satoshi Spritz romano: https://t.me/satoshispritzroma
+     	- Rovereto e Trento
+            - Satoshi Spritz trentino: https://t.me/satoshispritzrovereto
         - Torino       
             - https://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/
             - Satoshi Spritz torinese: https://t.me/satoshispritztorino             
@@ -353,6 +355,8 @@ Partiamo!
         - https://t.me/BitcoinVoucherBot  |  npub1fwcucd29vzleqlu8zjrs7dxpmurujgrk3yu2vtq6usx4wfspxjeqyw5089
     - Bitmoon Bitcoin People: Exchange non-custodial
         - https://bitmoon.bitcoinpeople.it/
+    - Comproeuro®
+      	- https://comproeuro.it
     - Conio
         - https://www.conio.com/it/
     - Young Platform
@@ -381,6 +385,7 @@ Partiamo!
     
     - https://inbitcoin.it/
     - https://bitshopbologna.it/
+    - https://bmanity.it
     - https://www.chainside.net/en/home/
     - https://notarify.io/ 
     - https://www.bitcoinpeople.it/bpay
@@ -398,6 +403,7 @@ Partiamo!
     - https://www.grisomeat.com/
     - https://www.villaggiobitcoin.it/chi-accetta-bitcoin
     - https://pharmalite.com/ (online e nel negozio fisico)
+    - https://bitcoinpos.it/map.html
     
 
 - ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
@@ -412,7 +418,7 @@ Partiamo!
 
   Punti fisici sul territorio dove si fa formazione, educazione e consulenza alle persone che si vogliono avvicinare al mondo Bitcoin:
   - Villaggio Bitcoin - [Via Roma, 37, 25047 Darfo Boario Terme BS](https://goo.gl/maps/zf54DQ9maRWjTJB28)
-  - Inbitcoin - [Via Rialto, 16, 38068 Rovereto TN](https://goo.gl/maps/pMcLhoFRYYpsTpaG8)
+  - Comproeuro® - [Via Rialto, 16, 38068 Rovereto TN](https://goo.gl/maps/pMcLhoFRYYpsTpaG8)
   - Acquisto Vouchers Bitcoin [vicino confine, Roveredo](https://goo.gl/maps/sQciUfxdAs385QGu7)
  
 
