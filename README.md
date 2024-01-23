@@ -296,8 +296,10 @@ Partiamo!
 
         - Arezzo
             - Satoshi Spritz aretino: [@SatoshiSpritzArezzo](https://t.me/SatoshiSpritzArezzo)
+        - Bergamo
+            - https://t.me/satoshispritzbergamo
         - Bologna
-            - https://www.meetup.com/it-IT/Bitcoin-Bologna/
+            - https://t.me/satoshispritzbologna
         - Firenze
             - Satoshi Spritz fiorentino: [@SatoshiSpritzFirenze](https://t.me/SatoshiSpritzFirenze)
         - Friuli
