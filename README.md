@@ -129,12 +129,9 @@ Partiamo!
           - https://www.youtube.com/watch?v=jhlu5DlJBmk
         - Bitcoin Economia e Società, lezione al politecnico di Torino (iniziativa di BitGeneration)
           - https://www.youtube.com/watch?v=eZmjlNSgB5w
- 	 - Canale Youtube di Alessandro Ottaviani 
-          - https://www.youtube.com/@alessandroottavianibitcoin4381
-	- Canale Youtube Cultura Bitcoin 
-          - https://www.youtube.com/@cryptoconsulting1984
-      - Canale Youtube Final Step Bitcoin 
-          - https://www.youtube.com/watch?v=jdNcEERUmps
+ 	 - Canale Youtube di Alessandro Ottaviani: https://www.youtube.com/@alessandroottavianibitcoin4381
+	- Canale Youtube Cultura Bitcoin: https://www.youtube.com/@cryptoconsulting1984
+	- Canale Youtube Final Step Bitcoin: https://www.youtube.com/watch?v=jdNcEERUmps
     
        
 
@@ -149,7 +146,7 @@ Partiamo!
           - https://www.musclesatz.com/it/articles/bitcoin/il-fallimento-dell-economia-moderna/ 
          - Bitcoin passato presente e futuro 
             - https://www.musclesatz.com/it/articles/bitcoin/bitcoin-passato-presente-futuro
-    - Trascrizione di documenti della Libreria del Satoshi Nakamoto Institute
+ 	   - Trascrizione di documenti della Libreria del Satoshi Nakamoto Institute
             - https://github.com/21MillionClub/Libreria-Satoshi-Nakamoto-Institute-ITA
 
  
@@ -222,7 +219,14 @@ Partiamo!
            - https://bitcoinforfreedom.it/
       	 - LNP/BP: una dolce introduzione
            - https://bitcoinforfreedom.it/bitcoin/lnp-bp-una-dolce-introduzione/
-
+		- ATLAS21: news, editoriali, formazione
+			- https://atlas21.com/it/
+		- BITCOIN 24ore: news, editoriali, risorse
+			- https://t.co/hprYVEtXiv
+		- EUROPEAN BITCOIN: selezione degli articoli in Italiano
+			- https://europeanbitcoiners.com/tag/it/
+		- Capire Bitcoin nel 2023
+			- https://medium.com/@alessandro.ottaviani84/capire-bitcoin-nel-2023-4b4633ba8696
       	                  
             
     - #### **2d - Libri da acquistare**
@@ -277,6 +281,8 @@ Partiamo!
             - https://priorato.org 
         - Episodio di Radio24 sugli NFT con Giacomo Zucco da Pagliarini
             - https://www.radio24.ilsole24ore.com/programmi/2024/puntata/nft-data-center-e-backup-rimborso-windows-social-audio-220521-ADACIqPB
+  		- 10 consigli per interagire con Bitcoin in modo privato
+            - https://btcita.substack.com/p/10-consigli-per-interagire-con-bitcoin	
       
        			
     
