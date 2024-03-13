@@ -28,7 +28,7 @@ Partiamo!
 - [**3 - Community**](#3---Community)
   - [**3a - Online**](#3a---Online)
   - [**3b - Telegram**](#3b---Telegram)
-  - [**3c - Spaces**](#3c---Spaces)
+  - [**3c - Social**](#3c---Social)
   - [**3d - Meetup e Eventi**](#3d---Meetup-e-Eventi)
   - [**3e - Btc in Università**](#3e---Btc-in-Università)
 - [**4 - Tutorial**](#4---Tutorial)
@@ -129,9 +129,9 @@ Partiamo!
           - https://www.youtube.com/watch?v=jhlu5DlJBmk
         - Bitcoin Economia e Società, lezione al politecnico di Torino (iniziativa di BitGeneration)
           - https://www.youtube.com/watch?v=eZmjlNSgB5w
-  	- Canale Youtube di Alessandro Ottaviani 
+ 	 - Canale Youtube di Alessandro Ottaviani 
           - https://www.youtube.com/@alessandroottavianibitcoin4381
-  	- Canale Youtube Cultura Bitcoin
+	- Canale Youtube Cultura Bitcoin 
           - https://www.youtube.com/@cryptoconsulting1984
       - Canale Youtube Final Step Bitcoin 
           - https://www.youtube.com/watch?v=jdNcEERUmps
@@ -149,6 +149,8 @@ Partiamo!
           - https://www.musclesatz.com/it/articles/bitcoin/il-fallimento-dell-economia-moderna/ 
          - Bitcoin passato presente e futuro 
             - https://www.musclesatz.com/it/articles/bitcoin/bitcoin-passato-presente-futuro
+    - Trascrizione di documenti della Libreria del Satoshi Nakamoto Institute
+            - https://github.com/21MillionClub/Libreria-Satoshi-Nakamoto-Institute-ITA
 
  
 
@@ -219,7 +221,9 @@ Partiamo!
       	- Blog Bitcoin for Freedom
            - https://bitcoinforfreedom.it/
       	 - LNP/BP: una dolce introduzione
-           - https://bitcoinforfreedom.it/bitcoin/lnp-bp-una-dolce-introduzione/             
+           - https://bitcoinforfreedom.it/bitcoin/lnp-bp-una-dolce-introduzione/
+
+      	                  
             
     - #### **2d - Libri da acquistare**
         
@@ -279,26 +283,29 @@ Partiamo!
     
     
 - ## **3 - Community** 
-
-	- BtcPayServer Italia 
-		- https://www.btcpayserver.it/community/
 	
     
     - #### **3a - Online**
+ 	- BtcPayServer Italia 
+		- https://www.btcpayserver.it/community/
+    	- https://bitcointalk.org/index.php?board=28.0
+      
         
-        - https://t.me/bitcoinita
+        
+
+
+    - #### **3b - Telegram**
+ 	- https://t.me/bitcoinita
         - https://t.me/BitcoinSecPriv 
         - https://t.me/BitcoinSicurezzaPrivacy
         - https://t.me/privacyfolder
         - https://t.me/LightningNodes
-
-
-    - #### **3b - Telegram**
+   
         
-        - TWITTER SPACES: https://twitter.com/btcintheclub
-    - #### **3c - Spaces**
+    - #### **3c - Social**
+ 	- https://twitter.com/btcintheclub
         
-        - https://bitcointalk.org/index.php?board=28.0
+        
     - #### **3d - Meetup e Eventi**
 
         - Lista dei Satoshi Spritz attivi sul territorio:
@@ -338,12 +345,18 @@ Partiamo!
         - https://github.com/massmux/Papergen
     - Fork del web wallet Coinbin con l'aggiunta della rete Testnet
         - https://www.inblockchain.it
-   
+   - Bitcoin Core
+        - https://bitcoin.org/it/scarica (attenzione: pagina italiana non aggiornata all'ultima versione di Core https://bitcoincore.org/en/download/ e ultimi update)
+    - Guida in italiano alla realizzazione di un full node Bitcoin
+        - https://bitcoin-translate.it/docs/NodeBox-HOW-TO.pdf
+    - Repository creata per contenere tutti i file di configurazione e relativi servizi per implementare un nodo Bitcoin e Lightning
+        - https://github.com/LucaBertoni29/BitcoinCore
+     - Installare un nodo Lightning Network con LND
+        - https://medium.com/@smartmouse/installare-un-nodo-lightning-network-con-lnd-b6a2538b2b7d
+	
     
 - ## **5 - Acquisire BTC off-Exchange**
 
-    - Bikipi: acquisti bitcoin con ordini singoli o ricorrenti (no KYC)
-        - https://bitkipi.com/it
     - Relai
         - https://play.google.com/store/apps/details?id=com.relai&hl=it&gl=IT
     - Atm Bitcoin
@@ -354,28 +367,21 @@ Partiamo!
         - https://bitmoon.bitcoinpeople.it/
     - Comproeuro®
       	- https://comproeuro.it
+
+
+  
+- ## **6 - Acquisire BTC on Exchange**
+
     - Conio
         - https://www.conio.com/it/
     - Young Platform
         - https://exchange.youngplatform.com/it/
     - Carta Hype 
         - https://www.hype.it/cryptocurrency
-
-    
-  
-- ## **6 - Acquisire BTC on Exchange**
     
     - Guida
         - https://github.com/Fillippone/NodoBitcoinforDummies
-    - Bitcoin Core
-        - https://bitcoin.org/it/scarica (attenzione: pagina italiana non aggiornata all'ultima versione di Core https://bitcoincore.org/en/download/ e ultimi update)
-    - Guida in italiano alla realizzazione di un full node Bitcoin
-        - https://bitcoin-translate.it/docs/NodeBox-HOW-TO.pdf
-    - Repository creata per contenere tutti i file di configurazione e relativi servizi per implementare un nodo Bitcoin e Lightning
-        - https://github.com/LucaBertoni29/BitcoinCore
-     - Installare un nodo Lightning Network con LND
-        - https://medium.com/@smartmouse/installare-un-nodo-lightning-network-con-lnd-b6a2538b2b7d
-	
+    
     
     
 - ## **7 - Servizi Bitcoin per le imprese**
@@ -401,7 +407,10 @@ Partiamo!
     - https://www.villaggiobitcoin.it/chi-accetta-bitcoin
     - https://pharmalite.com/ (online e nel negozio fisico)
     - https://bitcoinpos.it/map.html
-    
+  Punti fisici sul territorio dove si fa formazione, educazione e consulenza alle persone che si vogliono avvicinare al mondo Bitcoin:
+  - Villaggio Bitcoin - [Via Roma, 37, 25047 Darfo Boario Terme BS](https://goo.gl/maps/zf54DQ9maRWjTJB28)
+  - Comproeuro® - [Via Rialto, 16, 38068 Rovereto TN](https://goo.gl/maps/pMcLhoFRYYpsTpaG8)
+  - Acquisto Vouchers Bitcoin [vicino confine, Roveredo](https://goo.gl/maps/sQciUfxdAs385QGu7)
 
 - ## **9 - Siti aggregatori di risorse in italiano su Bitcoin**
     
@@ -413,10 +422,6 @@ Partiamo!
 
 - ## **10 - Bimbi e BTC**
 
-  Punti fisici sul territorio dove si fa formazione, educazione e consulenza alle persone che si vogliono avvicinare al mondo Bitcoin:
-  - Villaggio Bitcoin - [Via Roma, 37, 25047 Darfo Boario Terme BS](https://goo.gl/maps/zf54DQ9maRWjTJB28)
-  - Comproeuro® - [Via Rialto, 16, 38068 Rovereto TN](https://goo.gl/maps/pMcLhoFRYYpsTpaG8)
-  - Acquisto Vouchers Bitcoin [vicino confine, Roveredo](https://goo.gl/maps/sQciUfxdAs385QGu7)
  
 
 - ## **11 - Come contribuire alla lista**
