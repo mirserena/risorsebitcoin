@@ -236,8 +236,7 @@ Partiamo!
             - https://qabitcoin.davidcoen.it/product/domande-e-risposte-su-bitcoin-pay-with-btc/
         - Bitcoin 199 domande
             - https://www.amazon.it/gp/product/B07TXZP8GS/ref=dbs_a_def_rwt_bibl_vppi_i1
-        - La moneta Bitcoin
-            - https://thebitcoinrabbi.com/product/la-moneta-bitcoin-italian-translation/
+  
         - Mastering Bitcoin
             - https://www.amazon.it/gp/product/B07WHDK5K9/ref=dbs_a_def_rwt_bibl_vppi_i0
         - Il Bitcoin Standard
@@ -259,11 +258,20 @@ Partiamo!
         - Protocollo Bitcoin: Fondamenti per capire la tecnologia delle criptovalute e le sue applicazioni
             - https://www.amazon.it/Protocollo-Bitcoin-Fondamenti-criptovalute-applicazioni/dp/B09MYVXR6Q
         - Mastering Lightning Network: Protocollo di Secondo Livello per Pagamenti Bitcoin Istantanei 
-          - https://www.amazon.it/Mastering-Lightning-Network-Protocollo-Istantanei/dp/B0BW2SDCRD/ref=sr_1_1?__mk_it_IT=ÅMÅŽÕÑ&crid=GSHIJHXYNDR3&keywords=Mastering+Lightning+Network%3A+Protocollo&qid=1677666312&s=books&sprefix=mastering+lightning+network+protocollo%2Cstripbooks%2C161&sr=1-1
-        - Il denaro: Dalle Origini ai Nostri Giorni, in 5 Minuti di Lettura, dai 5 Anni in Su
-          - [[[https://www.amazon.it/Protocollo-Bitcoin-Fondamenti-criptovalute-applicazioni/dp/B09MYVXR6Q](https://amzn.eu/d/b9qBChS)](https://amzn.eu/d/b9qBChS)](https://www.amazon.it/DENARO-Origini-Nostri-Giorni-Lettura/dp/B0BCDF3CJ2/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3OFQ3GWFQZZCD&keywords=il+denaro+dalle+origini&qid=1677748818&sprefix=il+denaro+dalle+origini%2Caps%2C99&sr=8-1)
-        - Starting Bitcoin - Il libro per iniziare questo viaggio col piede giusto (ita)
-            - https://www.startingbitcoin.it
+          - https://amzn.eu/d/1HQKj4P
+		- Starting Bitcoin, il libro per iniziare questo viaggio col piede giusto
+  			- https://www.startingbitcoin.it
+		- La tassazione delle attività digitali
+			- https://amzn.eu/d/fKfGHG4 
+ 		- 21 pensieri dal villaggio Bitcoin
+   			 - https://amzn.eu/d/2LR1aAE 
+		- Mamma, ho comprato Bitcoin!: Un manuale semplice e completo per tutte le mamme (e papà, zii, fratelli) che aci guardano stupiti quando parliamo di Btc
+      		- https://amzn.eu/d/d0GcWAb
+		- Il Vademecum Bitcoin: Concetti Fondamentali di Economia, Tecnologia e Psicologia
+   			 - https://amzn.eu/d/adatsp9
+		- Cos'è il denaro, cos'è il Bitcoin: un viaggio tra storia e futuro
+  			- https://amzn.eu/d/aakV3YA
+        
 
     - #### **2e - Corsi**
         
