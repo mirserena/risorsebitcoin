@@ -279,6 +279,8 @@ Partiamo!
             - https://www.udemy.com/course/bitcoin-blockchain-corso-completo-teoria-pratica-esempi-tutorial/?referralCode=AAC8EB895142D8301C13
         - Corso online "A scuola di Bitcoin" 
             - https://ascuoladibitcoin.com/
+    	- L'evoluzione della moneta
+     		- https://anilsaidso.gumroad.com/l/money 	 
 
 
     - #### **2f - Podcast e Ascolti**
@@ -286,30 +288,29 @@ Partiamo!
         - Bitcoin Italia Podcast
             - https://www.bitcoinitaliapodcast.it/
         - Il Priorato Del Bitcoin
-            - https://priorato.org 
+            - https://priorato.org
+    	- Arancione Podcast
+     		- https://open.spotify.com/show/5qq9eKOLlpZirubGEoHkUG?si=3401dace57f34570
+		- Bitcoin da Asporto
+ 			- https://open.spotify.com/show/3vrqaOakr5TMmHg3oOfw1q?si=8d29df2da0194fe8   	
         - Episodio di Radio24 sugli NFT con Giacomo Zucco da Pagliarini
             - https://www.radio24.ilsole24ore.com/programmi/2024/puntata/nft-data-center-e-backup-rimborso-windows-social-audio-220521-ADACIqPB
-  		- 10 consigli per interagire con Bitcoin in modo privato
+  		- 10 consigli per interagire con Bitcoin in modo privato (articolo e audio)
             - https://btcita.substack.com/p/10-consigli-per-interagire-con-bitcoin	
       
        			
-    
-    
-    
 - ## **3 - Community** 
 	
     
     - #### **3a - Online**
- 	- BtcPayServer Italia 
-		- https://www.btcpayserver.it/community/
-    	- https://bitcointalk.org/index.php?board=28.0
+		- Ventuno https://ventuno.space/ 	
+ 		- BtcPayServer Italia https://www.btcpayserver.it/community/
+		- Bitcointalk (forum) https://bitcointalk.org/index.php?board=28.0
       
-        
-        
-
 
     - #### **3b - Telegram**
- 	- https://t.me/bitcoinita
+    	- https://t.me/thebitcoinbitches
+    	- https://t.me/bitcoinita
         - https://t.me/BitcoinSecPriv 
         - https://t.me/BitcoinSicurezzaPrivacy
         - https://t.me/privacyfolder
@@ -317,36 +318,26 @@ Partiamo!
    
         
     - #### **3c - Social**
- 	- https://twitter.com/btcintheclub
-        
+    	- Lista: chi seguire su X.com https://twitter.com/i/lists/1632780446525161473
+		- SPACE su X: https://twitter.com/21MdiC_BTC?s=20 
+ 		- SPACE su X: https://twitter.com/btcintheclub
         
     - #### **3d - Meetup e Eventi**
-
-        - Lista dei Satoshi Spritz attivi sul territorio:
-     		- http://satoshispritz.it/
-        - Milano
-            - Bitcoin Meetup Milano
-                - https://www.meetup.com/bitcoinmilano/
-                - Canale Youtube: https://www.youtube.com/watch?v=Pws1pnJQlpc
-            - Satoshi Spritz milanese: https://t.me/satoshispritzmilano
-
-        - Pisa 
-            - https://www.meetup.com/Pisa-Bitcoin-Meetup/
-        - Reggio Emilia
-            - https://www.meetup.com/it-IT/BitcoinReggioEmilia
-        
-        - Torino       
-            - https://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/
-            
-        - Venezia
-            - https://www.meetup.com/it-IT/Bitcoin-Venezia/
-
-        - Verona 
-            - https://www.meetup.com/it-IT/Bitcoin-Verona/
-    - 
+	- Bitcare Forum Brescia (11 maggio 2024): https://bitcareforum.it/
+	- Plan B Forum a Lugano (25-26 ottobre 2024) : https://planb.lugano.ch/planb-forum/
+	- Lista dei Satoshi Spritz attivi in Italia: http://satoshispritz.it
+	- Satoshi Spritz a Lugano: https://x.com/SatoshiLugano?s=20
+	- Meetup
+		- Milano - https://www.meetup.com/bitcoinmilano/ (Canale Youtube: https://www.youtube.com/watch?v=Pws1pnJQlpc)
+   		- Pisa https://www.meetup.com/Pisa-Bitcoin-Meetup/
+  		- Reggio Emilia https://www.meetup.com/it-IT/BitcoinReggioEmilia
+  		- Torino https://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/
+   		- Venezia https://www.meetup.com/it-IT/Bitcoin-Venezia/
+  		- Verona - https://www.meetup.com/it-IT/Bitcoin-Verona/
+      
     - #### **3e - Btc in Università**
-        
-        - 
+        - Torino https://www.bitpolito.it/
+        - Milano https://www.youtube.com/@bitpolimi 
 
 
 - ## **4 - Tutorial**
@@ -367,6 +358,7 @@ Partiamo!
         - https://github.com/LucaBertoni29/BitcoinCore
      - Installare un nodo Lightning Network con LND
         - https://medium.com/@smartmouse/installare-un-nodo-lightning-network-con-lnd-b6a2538b2b7d
+        - - Guida https://github.com/Fillippone/NodoBitcoinforDummies
 	
     
 - ## **5 - Acquisire BTC off-Exchange**
@@ -393,8 +385,6 @@ Partiamo!
     - Carta Hype 
         - https://www.hype.it/cryptocurrency
     
-    - Guida
-        - https://github.com/Fillippone/NodoBitcoinforDummies
     
     
     
