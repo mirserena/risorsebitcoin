@@ -315,6 +315,7 @@ Partiamo!
         - https://t.me/BitcoinSicurezzaPrivacy
         - https://t.me/privacyfolder
         - https://t.me/LightningNodes
+        - https://t.me/bitaxe_italia
    
         
     - #### **3c - Social**
