@@ -66,6 +66,8 @@ Partiamo!
       - https://www.youtube.com/watch?v=N_9LarNCtzE
     - Understanding Bitcoin 
     	- https://www.youtube.com/watch?v=_QB4Jif_-8Q
+     - Breve cartone su Bitcoin
+       - https://www.instagram.com/reel/CsCO8WoALI7/?igshid=NTc4MTIwNjQ2YQ%3D%3D
 
     
     
@@ -127,6 +129,13 @@ Partiamo!
           - https://www.youtube.com/watch?v=jhlu5DlJBmk
         - Bitcoin Economia e Società, lezione al politecnico di Torino (iniziativa di BitGeneration)
           - https://www.youtube.com/watch?v=eZmjlNSgB5w
+  	- Canale Youtube di Alessandro Ottaviani 
+          - https://www.youtube.com/@alessandroottavianibitcoin4381
+  	- Canale Youtube Cultura Bitcoin
+          - https://www.youtube.com/@cryptoconsulting1984
+      - Canale Youtube Final Step Bitcoin 
+          - https://www.youtube.com/watch?v=jdNcEERUmps
+    
        
 
         
