@@ -340,6 +340,7 @@ Partiamo!
         - BITPOLIMI, Università di Milano https://www.youtube.com/@bitpolimi
         - BEN ITALIA https://www.blockchainedu.net/
         - PLANB NETWORK https://planb.network/it/
+        - VILLAGGIO BITCOIN https://www.villaggiobitcoin.it/
 
 
 - ## **4 - Tutorial**
@@ -371,12 +372,10 @@ Partiamo!
 - Comproeuro® a Rovereto https://comproeuro.it
 
 
-  
 - ## **6 - Acquisire BTC on Exchange**
-
-    - Conio https://www.conio.com/it/
-    - Young Platform https://exchange.youngplatform.com/it/
-    - Carta Hype https://www.hype.it/cryptocurrency
+- Conio https://www.conio.com/it/
+- Young Platform https://exchange.youngplatform.com/it/
+- Carta Hype https://www.hype.it/cryptocurrency
     
     
 - ## **7 - Servizi Bitcoin per le imprese**
@@ -389,33 +388,42 @@ Partiamo!
     - https://www.bitcoinpeople.it/bpay
     - https://www.villaggiobitcoin.it
     - https://www.bitcoinservice.it/
+    - https://blog.bitwage.com/crypto-payroll-italy-bitcoin/
     
     
-
 - ## **8 - Dove pagare in BTC**
-    
+
+    - Acquisto di voucher in BTC: https://www.bitrefill.com/it/it/
+    - Coworking, hackerspace & Bitcoin shop in Brescia: https://hack.bs.it/
+    - Gioco da Tavola a tema BTC: https://hodlemoon.com/it/#home
+    - https://www.bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin/
     - https://www.quibitcoin.it/
     - https://www.tritema.ch
     - https://www.denali.eu
-    - https://www.bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin/
     - https://www.grisomeat.com/
     - https://www.villaggiobitcoin.it/chi-accetta-bitcoin
     - https://pharmalite.com/ (online e nel negozio fisico)
     - https://bitcoinpos.it/map.html
-  Punti fisici sul territorio dove si fa formazione, educazione e consulenza alle persone che si vogliono avvicinare al mondo Bitcoin:
-  - Villaggio Bitcoin - [Via Roma, 37, 25047 Darfo Boario Terme BS](https://goo.gl/maps/zf54DQ9maRWjTJB28)
-  - Comproeuro® - [Via Rialto, 16, 38068 Rovereto TN](https://goo.gl/maps/pMcLhoFRYYpsTpaG8)
-  - Acquisto Vouchers Bitcoin [vicino confine, Roveredo](https://goo.gl/maps/sQciUfxdAs385QGu7)
+    - https://linktr.ee/intermediazionepostalebtc
+    - https://www.instagram.com/dagiggino/
+  
+
 
 - ## **9 - Siti aggregatori di risorse in italiano su Bitcoin**
     
     - https://bitcoin-translate.it
     - https://pindol.medium.com/premessa-1e5254a52475
     - https://t.me/bitcoinmediachannel
-    - https://ventuno.space
     - https://coindipity.com
+    - https://bitcoin-translate.it/risorse-esterne-siti.php
+    - https://btcita.substack.com/
 
 - ## **10 - Bimbi e BTC**
+  - Libro: "La moneta Bitcoin": https://amzn.eu/d/42P9Pde
+  - Libro: "Dalle Origini ai Nostri Giorni, in 5 Minuti di Lettura, dai 5 Anni in Su" https://amzn.eu/d/0uTz1If
+  - Thread: Bitcoin per Bambini https://twitter.com/VentunoBtc/status/1613107865140531201?t=HQjeDGX8Xz-7mp3Pvmr0Zg&s=19
+  - Articolo: "Dialogo dal futuro" https://www.villaggiobitcoin.it/2023/06/03/dialogo-dal-futuro/
+  - Articolo: "Lettera a mio figlio" https://btcita.substack.com/p/lettera-a-mio-figlio 
 
  
 
