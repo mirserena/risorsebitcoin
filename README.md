@@ -30,7 +30,7 @@ Partiamo!
   - [**3b - Telegram**](#3b---Telegram)
   - [**3c - Social**](#3c---Social)
   - [**3d - Meetup e Eventi**](#3d---Meetup-e-Eventi)
-  - [**3e - Btc in Università**](#3e---Btc-in-Università)
+  - [**3e - Educazione su Bitcoin**](#3e---Educazione-su-Bitcoin)
 - [**4 - Tutorial**](#4---Tutorial)
 - [**5 - Acquisire BTC off-Exchange**](#5---Acquisire-BTC-off-Exchange)
 - [**6 - Acquisire BTC on-Exchange**](#6---Acquisire-BTC-on-Exchange)
@@ -335,30 +335,27 @@ Partiamo!
    		- Venezia https://www.meetup.com/it-IT/Bitcoin-Venezia/
   		- Verona - https://www.meetup.com/it-IT/Bitcoin-Verona/
       
-    - #### **3e - Btc in Università**
-        - Torino https://www.bitpolito.it/
-        - Milano https://www.youtube.com/@bitpolimi 
+    - #### **3e - Educazione su Bitcoin**
+        - BITPOLITO, Università di Torino https://www.bitpolito.it/
+        - BITPOLIMI, Università di Milano https://www.youtube.com/@bitpolimi
+        - BEN ITALIA https://www.blockchainedu.net/
+        - PLANB NETWORK https://planb.network/it/
 
 
 - ## **4 - Tutorial**
-    
-    - Guida completa al wallet Bitcoin, con Lightning Network
-        - https://www.albertodeluigi.com/2020/12/13/wallet_lightning_network/
-    - Hardware wallet
-        - https://www.hardwarewallet.it/
-    - Generazione mnemonic bip39 da entropia microfonica
-        - https://github.com/massmux/Papergen
-    - Fork del web wallet Coinbin con l'aggiunta della rete Testnet
-        - https://www.inblockchain.it
-   - Bitcoin Core
-        - https://bitcoin.org/it/scarica (attenzione: pagina italiana non aggiornata all'ultima versione di Core https://bitcoincore.org/en/download/ e ultimi update)
-    - Guida in italiano alla realizzazione di un full node Bitcoin
-        - https://bitcoin-translate.it/docs/NodeBox-HOW-TO.pdf
-    - Repository creata per contenere tutti i file di configurazione e relativi servizi per implementare un nodo Bitcoin e Lightning
-        - https://github.com/LucaBertoni29/BitcoinCore
-     - Installare un nodo Lightning Network con LND
-        - https://medium.com/@smartmouse/installare-un-nodo-lightning-network-con-lnd-b6a2538b2b7d
-        - - Guida https://github.com/Fillippone/NodoBitcoinforDummies
+- Bitcoin Core https://bitcoin.org/it/scarica (attenzione: pagina italiana non aggiornata all'ultima versione di Core https://bitcoincore.org/en/download/ e ultimi update)
+-  Guida installazione nodo per principianti https://github.com/Fillippone/NodoBitcoinforDummies
+-  Guida alla realizzazione di un full node Bitcoin https://bitcoin-translate.it/docs/NodeBox-HOW-TO.pdf
+- Guida completa al wallet Bitcoin, con Lightning Network https://www.albertodeluigi.com/2020/12/13/wallet_lightning_network/
+- Guide di Bitcoin24ore https://bitcoin24ore.com/category/guide/
+- Canale Youtube Bitcoinrocket di tutorial BTC https://www.youtube.com/@BitcoinRocket
+-  Installare un nodo Lightning Network con LND https://medium.com/@smartmouse/installare-un-nodo-lightning-network-con-lnd-b6a2538b2b7d
+- Generazione mnemonic bip39 da entropia microfonica https://github.com/massmux/Papergen
+- Fork del web wallet Coinbin con l'aggiunta della rete Testnet https://www.inblockchain.it
+- Repository creata per contenere tutti i file di configurazione e relativi servizi per implementare un nodo Bitcoin e Lightning https://github.com/LucaBertoni29/BitcoinCore
+- Guida all'installazione di thunderhub https://medium.blockchainedu.net/guida-allinstallazione-di-thunderhub-d69d32194c5
+-  BTC pay server italia LN tutorial https://www.youtube.com/watch?v=ySZBaBIzLgQ
+
 	
     
 - ## **5 - Acquisire BTC off-Exchange**
