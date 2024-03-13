@@ -350,6 +350,7 @@ Partiamo!
 - Guide di Bitcoin24ore https://bitcoin24ore.com/category/guide/
 - Canale Youtube Bitcoinrocket di tutorial BTC https://www.youtube.com/@BitcoinRocket
 -  Installare un nodo Lightning Network con LND https://medium.com/@smartmouse/installare-un-nodo-lightning-network-con-lnd-b6a2538b2b7d
+- Installare un full node Bitcoin su uno smartphone Android https://medium.com/ben-italia/come-installare-un-full-node-bitcoin-su-uno-smartphone-android-42e8cf73021d
 - Generazione mnemonic bip39 da entropia microfonica https://github.com/massmux/Papergen
 - Fork del web wallet Coinbin con l'aggiunta della rete Testnet https://www.inblockchain.it
 - Repository creata per contenere tutti i file di configurazione e relativi servizi per implementare un nodo Bitcoin e Lightning https://github.com/LucaBertoni29/BitcoinCore
@@ -357,32 +358,25 @@ Partiamo!
 -  BTC pay server italia LN tutorial https://www.youtube.com/watch?v=ySZBaBIzLgQ
 
 	
-    
 - ## **5 - Acquisire BTC off-Exchange**
 
-    - Relai
-        - https://play.google.com/store/apps/details?id=com.relai&hl=it&gl=IT
-    - Atm Bitcoin
-        - https://coinatmradar.com/country/105/bitcoin-atm-italy/
-    - Bitcoin Voucher Bot: Bot per acquisto Voucher Bitcoin e servizi (no KYC, non custodial) On-chain, Lightning, Liquid. Disponibile su Telegram e Nostr.
-        - https://t.me/BitcoinVoucherBot  |  npub1fwcucd29vzleqlu8zjrs7dxpmurujgrk3yu2vtq6usx4wfspxjeqyw5089
-    - Bitmoon Bitcoin People: Exchange non-custodial
-        - https://bitmoon.bitcoinpeople.it/
-    - Comproeuro®
-      	- https://comproeuro.it
+- Hodlhodl https://hodlhodl.com/offers?search=1&side=buy&country=IT
+- Local Bitcoins https://localbitcoins.com/it/buy_bitcoins
+- Bitcoin Voucher Bot: Telegram Bot per acquisto bitcoin (no KYC, non custodial) supporta Onchain, Lightning, Liquid (Disponibile su Telegram e Nostr) https://t.me/BitcoinVoucherBot
+- ATM Bitcoin https://coinatmradar.com/country/105/bitcoin-atm-italy
+- Peach https://peachbitcoin.com/it/
+- Relai (Non-Custodial, LIGHT KYC oltre determinate soglie) https://play.google.com/store/apps/details?id=com.relai&hl=it&gl=IT
+- Pocket (Non-Custodial, LIGHT KYC oltre determinate soglie) https://pocketbitcoin.com/it
+- Bitmoon Bitcoin People: Exchange non-custodial https://bitmoon.bitcoinpeople.it/
+- Comproeuro® a Rovereto https://comproeuro.it
 
 
   
 - ## **6 - Acquisire BTC on Exchange**
 
-    - Conio
-        - https://www.conio.com/it/
-    - Young Platform
-        - https://exchange.youngplatform.com/it/
-    - Carta Hype 
-        - https://www.hype.it/cryptocurrency
-    
-    
+    - Conio https://www.conio.com/it/
+    - Young Platform https://exchange.youngplatform.com/it/
+    - Carta Hype https://www.hype.it/cryptocurrency
     
     
 - ## **7 - Servizi Bitcoin per le imprese**
