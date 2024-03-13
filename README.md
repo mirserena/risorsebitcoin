@@ -362,7 +362,6 @@ Partiamo!
 - ## **5 - Acquisire BTC off-Exchange**
 
 - Hodlhodl https://hodlhodl.com/offers?search=1&side=buy&country=IT
-- Local Bitcoins https://localbitcoins.com/it/buy_bitcoins
 - Bitcoin Voucher Bot: Telegram Bot per acquisto bitcoin (no KYC, non custodial) supporta Onchain, Lightning, Liquid (Disponibile su Telegram e Nostr) https://t.me/BitcoinVoucherBot
 - ATM Bitcoin https://coinatmradar.com/country/105/bitcoin-atm-italy
 - Peach https://peachbitcoin.com/it/
