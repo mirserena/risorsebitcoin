@@ -24,19 +24,20 @@ Partiamo!
   - [**2c - Letture online**](#2c---Letture-online)
   - [**2d - Libri da acquistare**](#2d---Libri-da-acquistare)
   - [**2e - Corsi**](#2e---Corsi)
-  - [**2f - Podcast**](#2f---Podcast)
+  - [**2f - Podcast e Ascolti**](#2f---Podcast-e-Ascolti)
 - [**3 - Community**](#3---Community)
-  - [**3a - Telegram**](#3a---Telegram)
-  - [**3b - Chat Vocali**](#3b---Chat---Vocali)
-  - [**3c - Forum di BitcoinTalk in italiano**](#3c---Forum-di-BitcoinTalk-in-italiano)
-  - [**3d - Meetup**](#3d---Meetup)
-- [**4 - Wallet**](#4---Wallet)
-- [**5 - Exchange e sistemi per comprare Bitcoin**](#5---Exchange-e-sistemi-per-comprare-Bitcoin)
-- [**6 - Far girare un full node o un LN node**](#6---Far-girare-un-full-node-o-un-LN-node)
+  - [**3a - Online**](#3a---Online)
+  - [**3b - Telegram**](#3b---Telegram)
+  - [**3c - Spaces**](#3c---Spaces)
+  - [**3d - Meetup e Eventi**](#3d---Meetup-e-Eventi)
+  - [**3e - Btc in Università**](#3e---Btc-in-Università)
+- [**4 - Tutorial**](#4---Tutorial)
+- [**5 - Acquisire BTC off-Exchange**](#5---Acquisire-BTC-off-Exchange)
+- [**6 - Acquisire BTC on-Exchange**](#6---Acquisire-BTC-on-Exchange)
 - [**7 - Servizi Bitcoin per le imprese**](#7---Servizi-Bitcoin-per-le-imprese)
-- [**8 - Imprese che accettano Bitcoin**](#8---Imprese-che-accettano-Bitcoin)
-- [**9 - Siti contenitore**](#9---Siti-contenitori-di-risorse-in-italiano-su-Bitcoin)
-- [**10 - Physical Store**](#10---Physical-Store)
+- [**8 - Dove Pagare in BTC**](#8---Dove-pagare-in-Btc)
+- [**9 - Siti aggregatori**](#9---Siti-aggregatori-di-risorse-in-italiano-su-Bitcoin)
+- [**10 - Bimbi e BTC**](#10---Bimbi-e-BTC)
 - [**11 - Come contribuire alla lista**](#11---Come-contribuire-alla-lista)
 
 
@@ -255,7 +256,7 @@ Partiamo!
             - https://ascuoladibitcoin.com/
 
 
-    - #### **2f - Podcast**
+    - #### **2f - Podcast e Ascolti**
         
         - Bitcoin Italia Podcast
             - https://www.bitcoinitaliapodcast.it/
@@ -274,7 +275,7 @@ Partiamo!
 		- https://www.btcpayserver.it/community/
 	
     
-    - #### **3a - Telegram**
+    - #### **3a - Online**
         
         - https://t.me/bitcoinita
         - https://t.me/BitcoinSecPriv 
@@ -283,57 +284,42 @@ Partiamo!
         - https://t.me/LightningNodes
 
 
-    - #### **3b - Chat Vocali**
+    - #### **3b - Telegram**
         
         - TWITTER SPACES: https://twitter.com/btcintheclub
-    - #### **3c - Forum di BitcoinTalk in italiano**
+    - #### **3c - Spaces**
         
         - https://bitcointalk.org/index.php?board=28.0
-    - #### **3d - Meetup**
+    - #### **3d - Meetup e Eventi**
 
         - Lista dei Satoshi Spritz attivi sul territorio:
      		- http://satoshispritz.it/
-
-        - Arezzo
-            - Satoshi Spritz aretino: [@SatoshiSpritzArezzo](https://t.me/SatoshiSpritzArezzo)
-        - Bergamo
-            - https://t.me/satoshispritzbergamo
-        - Bologna
-            - https://t.me/satoshispritzbologna
-        - Firenze
-            - Satoshi Spritz fiorentino: [@SatoshiSpritzFirenze](https://t.me/SatoshiSpritzFirenze)
-        - Friuli
-            - Satoshi Spritz friulano: https://t.me/SatoshiSpritzFriuli
         - Milano
             - Bitcoin Meetup Milano
                 - https://www.meetup.com/bitcoinmilano/
                 - Canale Youtube: https://www.youtube.com/watch?v=Pws1pnJQlpc
             - Satoshi Spritz milanese: https://t.me/satoshispritzmilano
-        - Padova
-            - https://t.me/satoshispritzveneto (tutti i venerdì verso ora di cena)
+
         - Pisa 
             - https://www.meetup.com/Pisa-Bitcoin-Meetup/
         - Reggio Emilia
             - https://www.meetup.com/it-IT/BitcoinReggioEmilia
-        - Rimini
-            - Satoshi Spritz romagnolo: https://t.me/SatoshiSpritzRimini
-        - Roma
-            - Satoshi Spritz romano: https://t.me/satoshispritzroma
-     	- Rovereto e Trento
-            - Satoshi Spritz trentino: https://t.me/satoshispritzrovereto
+        
         - Torino       
             - https://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/
-            - Satoshi Spritz torinese: https://t.me/satoshispritztorino             
-        - Varese
-            - Satoshi Spritz varesino: https://t.me/satoshispritzVarese
+            
         - Venezia
             - https://www.meetup.com/it-IT/Bitcoin-Venezia/
-            - Satoshi Spritz veneto: https://t.me/satoshispritzveneto
+
         - Verona 
             - https://www.meetup.com/it-IT/Bitcoin-Verona/
+    - 
+    - #### **3e - Btc in Università**
+        
+        - 
 
 
-- ## **4 - Wallet**
+- ## **4 - Tutorial**
     
     - Guida completa al wallet Bitcoin, con Lightning Network
         - https://www.albertodeluigi.com/2020/12/13/wallet_lightning_network/
@@ -345,7 +331,7 @@ Partiamo!
         - https://www.inblockchain.it
    
     
-- ## **5 - Exchange e sistemi per comprare Bitcoin**
+- ## **5 - Acquisire BTC off-Exchange**
 
     - Bikipi: acquisti bitcoin con ordini singoli o ricorrenti (no KYC)
         - https://bitkipi.com/it
@@ -368,7 +354,7 @@ Partiamo!
 
     
   
-- ## **6 - Far girare un full node o un LN node**
+- ## **6 - Acquisire BTC on Exchange**
     
     - Guida
         - https://github.com/Fillippone/NodoBitcoinforDummies
@@ -396,7 +382,7 @@ Partiamo!
     
     
 
-- ## **8 - Imprese che accettano Bitcoin**
+- ## **8 - Dove pagare in BTC**
     
     - https://www.quibitcoin.it/
     - https://www.tritema.ch
@@ -408,7 +394,7 @@ Partiamo!
     - https://bitcoinpos.it/map.html
     
 
-- ## **9 - Siti contenitori di risorse in italiano su Bitcoin**
+- ## **9 - Siti aggregatori di risorse in italiano su Bitcoin**
     
     - https://bitcoin-translate.it
     - https://pindol.medium.com/premessa-1e5254a52475
@@ -416,7 +402,7 @@ Partiamo!
     - https://ventuno.space
     - https://coindipity.com
 
-- ## **10 - Physical Store**
+- ## **10 - Bimbi e BTC**
 
   Punti fisici sul territorio dove si fa formazione, educazione e consulenza alle persone che si vogliono avvicinare al mondo Bitcoin:
   - Villaggio Bitcoin - [Via Roma, 37, 25047 Darfo Boario Terme BS](https://goo.gl/maps/zf54DQ9maRWjTJB28)
