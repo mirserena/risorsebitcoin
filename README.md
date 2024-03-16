@@ -43,7 +43,7 @@ Partiamo!
 
 - ## **1 - Da dove iniziare**
     
-    - Primi passi (alcuni servizi riportati non funzionano in Italia, guardare alle altre sezioni qui nella lista) 
+    - Primi passi (alcuni servizi riportati non funzionano in Italia, guardare per acquisire Btc alla sezione 5 di questa lista) 
         - https://bitcoin-intro.com/it/
         - https://bitcoin.org/it/da-sapere
        	- https://bitcoin-explorama.com/?lang=it
