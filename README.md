@@ -387,6 +387,7 @@ Partiamo!
 
 
 - ## **6 - Acquisire BTC on Exchange**
+  
 - Conio https://www.conio.com/it/
 - Young Platform https://exchange.youngplatform.com/it/
 - Carta Hype https://www.hype.it/cryptocurrency
@@ -405,21 +406,34 @@ Partiamo!
     - https://blog.bitwage.com/crypto-payroll-italy-bitcoin/
     
     
-- ## **8 - Dove pagare in BTC**
+- ## **8 - Dove pagare in BTC** (se non vedete BTC, contattate e vi sarà dato)
 
-    - Acquisto di voucher in BTC: https://www.bitrefill.com/it/it/
-    - Coworking, hackerspace & Bitcoin shop in Brescia: https://hack.bs.it/
-    - Gioco da Tavola a tema BTC: https://hodlemoon.com/it/#home
-    - https://www.bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin/
-    - https://www.quibitcoin.it/
-    - https://www.tritema.ch
-    - https://www.denali.eu
-    - https://www.grisomeat.com/
-    - https://www.villaggiobitcoin.it/chi-accetta-bitcoin
-    - https://pharmalite.com/ (online e nel negozio fisico)
-    - https://bitcoinpos.it/map.html
-    - https://linktr.ee/intermediazionepostalebtc
-    - https://www.instagram.com/dagiggino/
+- Acquisto di voucher in BTC:
+  - https://www.bitrefill.com/it/it/
+  - https://www.coinsbee.com/it/
+- Mappe
+  - LUGANO: https://planb.lugano.ch/crypto-pagamenti/?lang=it
+  - ROVERETO: https://bitcoinpos.it/map.html
+  - BOLOGNA: http://orangeconomy.atwebpages.com/index.html
+  - https://www.quibitcoin.it/
+  - https://bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin
+  - https://www.villaggiobitcoin.it/chi-accetta-bitcoin
+- Singole attività
+    - https://hack.bs.it/ (Coworking, hackerspace & Bitcoin shop)
+    - https://hodlemoon.com/it/#home (Gioco da Tavola a tema BTC)
+    - https://www.tritema.ch (VPS hosting & VOIP)
+    - https://www.denali.eu (web, cloud, VPN, hosting)
+    - https://pharmalite.com/ (farmacia online e negozio fisico)
+    - https://linktr.ee/intermediazionepostalebtc (spedizioni)
+    - https://www.grisomeats.com/ (carne)
+    - https://www.instagram.com/dagiggino/ (cannoli)
+    - https://osteriagiapponese.wixsite.com/ajiosteriagiapponese (osteria giapponese)
+    - www.artigianatogiapponese.it (artigianato giapponese)
+    - https://re-boutique.ch (vestiti)
+    - https://www.facebook.com/CaffeTerraP.taRomana/ (caffè)
+    - https://thebitcoindiaries.com/product-category/italia/ (t-shirt a tema bitcoin in italiano)
+    - http://www.borducan.com/ (hotel & ristorante)
+      
   
 
 
@@ -433,13 +447,14 @@ Partiamo!
     - https://btcita.substack.com/
 
 - ## **10 - Bimbi e BTC**
+  
+  - Lettera per mia figlia Amanda: https://github.com/mirserena/Lettera-per-mia-figlia
   - Libro: "La moneta Bitcoin": https://amzn.eu/d/42P9Pde
   - Libro: "Dalle Origini ai Nostri Giorni, in 5 Minuti di Lettura, dai 5 Anni in Su" https://amzn.eu/d/0uTz1If
   - Thread: Bitcoin per Bambini https://twitter.com/VentunoBtc/status/1613107865140531201?t=HQjeDGX8Xz-7mp3Pvmr0Zg&s=19
   - Articolo: "Dialogo dal futuro" https://www.villaggiobitcoin.it/2023/06/03/dialogo-dal-futuro/
-  - Articolo: "Lettera a mio figlio" https://btcita.substack.com/p/lettera-a-mio-figlio 
+  - Articolo: "Lettera a mio figlio" https://btcita.substack.com/p/lettera-a-mio-figlio
 
- 
 
 - ## **11 - Come contribuire alla lista**
 
