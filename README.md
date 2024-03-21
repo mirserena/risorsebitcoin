@@ -7,12 +7,13 @@ Quindi, in sostanza, l'idea è che potete anche non conoscere l'inglese (oltre a
 Una lista di oggi, per oggi. In continua mutazione.
 
 Sicuramente manca qualcosa, che mi sono persa o non é stata ancora creata. 
-Sicuramente qualcosa è lí per sbaglio o non funziona piú.
-
-Perció ENJOY! (diamine un'altra parola in inglese) 
+Sicuramente qualcosa è lí per sbaglio o non funziona piú, contiene errori o orrori. 
+Perciò ENJOY but DON'T TRUST, VERIFY alla fin fine! (diamine altri termini in inglese!) 
 
 Se avete voglia di CONTRIBUIRE aggiungendo risorse, correggendo o proponendo nuove/diverse categorie... vi spiego meglio al punto 11.
 Se avete voglia di fare una piccola donazione con Lightning Network potete usare il mio indirizzo con Alby: [mirbtc@getalby.com](https://getalby.com/p/mirbtc) o LNURL1DP68GURN8GHJ7EM9W3SKCCNE9E3K7MF0D3H82UNVWQHK66TJVF6XXFJU339
+
+Ah, ultima cosa se siete interessati anche a NOSTR in Italiano, qui trovate un mini-thread di risorse raggruppate da me: https://x.com/mir_btc/status/1659562088270839808?s=20
 
 Partiamo! 
 
@@ -69,6 +70,10 @@ Partiamo!
     	- https://www.youtube.com/watch?v=_QB4Jif_-8Q
      - Breve cartone su Bitcoin
        - https://www.instagram.com/reel/CsCO8WoALI7/?igshid=NTc4MTIwNjQ2YQ%3D%3D
+   - Dove comprare Bitcoin, la guida
+   		- https://bitcoinbitches.substack.com/p/dove-comprare-bitcoin-la-guida-definitiva?utm_campaign=post
+	- La mia storia con Bitcoin
+ 		- https://www.villaggiobitcoin.it/2024/03/16/la-mia-storia-con-bitcoin/ 
 
     
     
@@ -133,6 +138,7 @@ Partiamo!
  	 - Canale Youtube di Alessandro Ottaviani: https://www.youtube.com/@alessandroottavianibitcoin4381
 	- Canale Youtube Cultura Bitcoin: https://www.youtube.com/@cryptoconsulting1984
 	- Canale Youtube Final Step Bitcoin: https://www.youtube.com/watch?v=jdNcEERUmps
+ 	- Canale Youtube Economia Austriaca: https://www.youtube.com/@libertarianclaudio
     
        
 
@@ -149,7 +155,8 @@ Partiamo!
             - https://www.musclesatz.com/it/articles/bitcoin/bitcoin-passato-presente-futuro
  	   - Trascrizione di documenti della Libreria del Satoshi Nakamoto Institute
             - https://github.com/21MillionClub/Libreria-Satoshi-Nakamoto-Institute-ITA
-
+    	- Un'analisi delle diverse fee rates
+    		- https://btcita.substack.com/p/alla-polvere-ritornerai)	
  
 
             
@@ -220,6 +227,8 @@ Partiamo!
            - https://bitcoinforfreedom.it/
       	 - LNP/BP: una dolce introduzione
            - https://bitcoinforfreedom.it/bitcoin/lnp-bp-una-dolce-introduzione/
+    	- Bitcoin Mining come carico ultra-flessibile
+    		- https://medium.com/@pireddaj87/bitcoin-mining-come-carico-ultra-flessibile-per-il-bilanciamento-della-rete-elettrica-nazionale-e-0d37cbb69919 
 		- ATLAS21: news, editoriali, formazione
 			- https://atlas21.com/it/
 		- BITCOIN 24ore: news, editoriali, risorse
@@ -358,8 +367,11 @@ Partiamo!
 - Fork del web wallet Coinbin con l'aggiunta della rete Testnet https://www.inblockchain.it
 - Repository creata per contenere tutti i file di configurazione e relativi servizi per implementare un nodo Bitcoin e Lightning https://github.com/LucaBertoni29/BitcoinCore
 - Guida all'installazione di thunderhub https://medium.blockchainedu.net/guida-allinstallazione-di-thunderhub-d69d32194c5
--  BTC pay server italia LN tutorial https://www.youtube.com/watch?v=ySZBaBIzLgQ
-
+- BTC pay server italia LN tutorial https://www.youtube.com/watch?v=ySZBaBIzLgQ
+- Full node su Android https://medium.blockchainedu.net/come-installare-un-full-node-bitcoin-su-uno-smartphone-android-42e8cf73021d
+- Phoenix wallet https://m.youtube.com/watch?feature=shared&fbclid=PAAaYfHamM2BbmEW0RC-114CZZR4X1CtvadN8hqhHtwUHs_1AX7qpg7NKhs5Y&v=zlfuiO5Iyc0
+- Installare un full node https://github.com/BitcoBomb/Bitcoin-FullNode-easy/blob/main/Full%20Node
+- Installare Electrum server https://github.com/BitcoBomb/Server-Electrum/blob/main/Electrum%20Server%20%2B%20Electrum%20Wallet
 	
 - ## **5 - Acquisire BTC off-Exchange**
 
@@ -432,10 +444,10 @@ Partiamo!
 - ## **11 - Come contribuire alla lista**
 
   Chiunque può proporre MODIFICHE tramite PULL REQUEST: non siate timidi. 
-  Ma vi avviso che tanto ne casserò parecchie perché (una o più delle seguenti):
+  Ma vi avviso che potrei cassavervene qualcuna  (una o più delle seguenti):
 
   - siete degli shitcoiner (niente di personale, ci sono passati anche i migliori)
   - siete dei miei amici che vogliono farmi perdere tempo
   - siete delle persone che vogliono dimostrarmi cos'é la vera decentralizzazione (Vi sento: "questa repo é troppo centralizzata". Ma niente rimango la regina delle mie risorse).
   - siete dei bot, apprezzabili ma noiosi
-  - siete il mio ghost-writer e non siete più d'accordo con la selezione
+  - siete dei casinisti peggiori di me con markdown :) 
