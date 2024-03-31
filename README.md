@@ -281,6 +281,8 @@ Partiamo!
    			 - https://amzn.eu/d/adatsp9
 		- Cos'è il denaro, cos'è il Bitcoin: un viaggio tra storia e futuro
   			- https://amzn.eu/d/aakV3YA
+    - Manuale per l'autocustodia e privacy di Bitcoin
+        - https://checkpointbitcoin.it/manuale-autocustodia-privacy-bitcoin/
         
 
     - #### **2e - Corsi**
