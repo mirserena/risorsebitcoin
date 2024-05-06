@@ -476,6 +476,9 @@ Partiamo!
   - **Halving**: Evento che riduce di metà la ricompensa dei nuovi bitcoin ai miner, avviene circa ogni 4 anni.
   - **Altcoin o Shitcoin**: Qualsiasi criptovaluta diversa da Bitcoin.
   - **Double Spending**: Il rischio che una stessa unità di criptovaluta possa essere spesa più di una volta.
+  - **P2P**: (Peer to Peer) Un sistema di rete in cui due o più computer si collegano e condividono risorse senza passare per un server o una entita' centrale.
+  - **PoW**: (Proof of Work) Un meccanismo di consenso di Bitcoin che richiede ai partecipanti di eseguire calcoli dimostrabili per validare le transazioni.
+  - **BIP**: (Bitcoin Improvement Proposal) Un documento formale che propone miglioramenti al protocollo Bitcoin, identificato da un numero.
 
 
 - ## **12 - Come contribuire alla lista**
