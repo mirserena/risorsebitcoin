@@ -467,7 +467,7 @@ Partiamo!
   - **Cold Wallet**: Portafoglio non collegato a Internet, usato per detenere in sicurezza Bitcoin a lungo termine.
   - **Exchange**: Piattaforma online dove si possono scambiare criptovalute con altre valute Fiat, puo essere di due tipi CEX o DEX.
   - **CEX**: (Centralized EXchange) una piattaforma di scambio di criptovalute gestita da una entità centralizzata.
-  - **DEX**: (Decentralized EXchange) una piattaforma di scambio di criptovalute gestita da una entità centralizzata.
+  - **DEX**: (Decentralized EXchange) una piattaforma di scambio di criptovalute gestita da una rete o protocollo distribuito senza nessuna entità centralizzata che ne controlla il comportamento.
   - **LN**: (Lightning Network) Un sistema di pagamento di seconda mano per Bitcoin che permette transazioni più veloci e meno costose.
   - **Sats**: La più piccola unità di Bitcoin, pari a un centomilionesimo di 1 Bitcoin.
   - **Fork**: Una modifica delle regole e del codice di Bitcoin.
