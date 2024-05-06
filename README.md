@@ -10,7 +10,7 @@ Sicuramente manca qualcosa, che mi sono persa o non é stata ancora creata.
 Sicuramente qualcosa è lí per sbaglio o non funziona piú, contiene errori o orrori. 
 Perciò ENJOY but DON'T TRUST, VERIFY alla fin fine! (diamine altri termini in inglese!) 
 
-Se avete voglia di CONTRIBUIRE aggiungendo risorse, correggendo o proponendo nuove/diverse categorie... vi spiego meglio al punto 11.
+Se avete voglia di CONTRIBUIRE aggiungendo risorse, correggendo o proponendo nuove/diverse categorie... vi spiego meglio al punto 12.
 Se avete voglia di fare una piccola donazione con Lightning Network potete usare il mio indirizzo con Alby: [mirbtc@getalby.com](https://getalby.com/p/mirbtc) o LNURL1DP68GURN8GHJ7EM9W3SKCCNE9E3K7MF0D3H82UNVWQHK66TJVF6XXFJU339
 
 Ah, ultima cosa se siete interessati anche a NOSTR in Italiano, qui trovate un mini-thread di risorse raggruppate da me: https://x.com/mir_btc/status/1659562088270839808?s=20
@@ -39,7 +39,8 @@ Partiamo!
 - [**8 - Dove Pagare in BTC**](#8---Dove-pagare-in-Btc)
 - [**9 - Siti aggregatori**](#9---Siti-aggregatori-di-risorse-in-italiano-su-Bitcoin)
 - [**10 - Bimbi e BTC**](#10---Bimbi-e-BTC)
-- [**11 - Come contribuire alla lista**](#11---Come-contribuire-alla-lista)
+- [**11 - Glossario**](#11---Glossario)
+- [**12 - Come contribuire alla lista**](#12---Come-contribuire-alla-lista)
 
 
 - ## **1 - Da dove iniziare**
@@ -457,8 +458,27 @@ Partiamo!
   - Articolo: "Dialogo dal futuro" https://www.villaggiobitcoin.it/2023/06/03/dialogo-dal-futuro/
   - Articolo: "Lettera a mio figlio" https://btcita.substack.com/p/lettera-a-mio-figlio
 
+- ## **11 - Glossario**
 
-- ## **11 - Come contribuire alla lista**
+  Piccolo glossario per neofiti dei termini tecnici ed acronimi piu utilizzati.
+
+  - KYC: (Know Your Customer) è un processo di verificare dell'identità degli utenti, solitamente tramite invio di documenti di riconoscimento.
+  - Valuta FIAT: è una moneta che non ha valore intrinseco ma è considerata di valore legale dal governo che la emette e gestisce.
+  - Cold Wallet: Portafoglio non collegato a Internet, usato per detenere in sicurezza Bitcoin a lungo termine.
+  - Exchange: Piattaforma online dove si possono scambiare criptovalute con altre valute Fiat, puo essere di due tipi CEX o DEX.
+  - CEX: (Centralized EXchange) una piattaforma di scambio di criptovalute gestita da una entità centralizzata.
+  - DEX: (Decentralized EXchange) una piattaforma di scambio di criptovalute gestita da una entità centralizzata.
+  - LN: (Lightning Network) Un sistema di pagamento di seconda mano per Bitcoin che permette transazioni più veloci e meno costose.
+  - Sats: La più piccola unità di Bitcoin, pari a un centomilionesimo di 1 Bitcoin.
+  - Fork: Una modifica delle regole e del codice di Bitcoin.
+  - Mining: Il processo di verifica delle transazioni e aggiunta di nuovi blocchi alla blockchain.
+  - Full Node: Un dispositivo connesso alla rete che ne supporta il funzionamento tramite la verifica, trasmissione di transazioni e mantiene una copia completa della Blockchain
+  - Halving: Evento che riduce di metà la ricompensa dei nuovi bitcoin ai miner, avviene circa ogni 4 anni.
+  - Altcoin o Shitcoin: Qualsiasi criptovaluta diversa da Bitcoin.
+  - Double Spending: Il rischio che una stessa unità di criptovaluta possa essere spesa più di una volta.
+
+
+- ## **12 - Come contribuire alla lista**
 
   Chiunque può proporre MODIFICHE tramite PULL REQUEST: non siate timidi. 
   Ma vi avviso che potrei cassavervene qualcuna  (una o più delle seguenti):
