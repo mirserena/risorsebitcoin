@@ -460,22 +460,22 @@ Partiamo!
 
 - ## **11 - Glossario**
 
-  Piccolo glossario per neofiti dei termini tecnici ed acronimi piu utilizzati.
+  Piccolo glossario per neofiti dei termini tecnici ed acronimi piu utilizzati
 
-  - KYC: (Know Your Customer) è un processo di verificare dell'identità degli utenti, solitamente tramite invio di documenti di riconoscimento.
-  - Valuta FIAT: è una moneta che non ha valore intrinseco ma è considerata di valore legale dal governo che la emette e gestisce.
-  - Cold Wallet: Portafoglio non collegato a Internet, usato per detenere in sicurezza Bitcoin a lungo termine.
-  - Exchange: Piattaforma online dove si possono scambiare criptovalute con altre valute Fiat, puo essere di due tipi CEX o DEX.
-  - CEX: (Centralized EXchange) una piattaforma di scambio di criptovalute gestita da una entità centralizzata.
-  - DEX: (Decentralized EXchange) una piattaforma di scambio di criptovalute gestita da una entità centralizzata.
-  - LN: (Lightning Network) Un sistema di pagamento di seconda mano per Bitcoin che permette transazioni più veloci e meno costose.
-  - Sats: La più piccola unità di Bitcoin, pari a un centomilionesimo di 1 Bitcoin.
-  - Fork: Una modifica delle regole e del codice di Bitcoin.
-  - Mining: Il processo di verifica delle transazioni e aggiunta di nuovi blocchi alla blockchain.
-  - Full Node: Un dispositivo connesso alla rete che ne supporta il funzionamento tramite la verifica, trasmissione di transazioni e mantiene una copia completa della Blockchain
-  - Halving: Evento che riduce di metà la ricompensa dei nuovi bitcoin ai miner, avviene circa ogni 4 anni.
-  - Altcoin o Shitcoin: Qualsiasi criptovaluta diversa da Bitcoin.
-  - Double Spending: Il rischio che una stessa unità di criptovaluta possa essere spesa più di una volta.
+  - **KYC**: (Know Your Customer) è un processo di verificare dell'identità degli utenti, solitamente tramite invio di documenti di riconoscimento.
+  - **Valuta FIAT**: è una moneta che non ha valore intrinseco ma è considerata di valore legale dal governo che la emette e gestisce.
+  - **Cold Wallet**: Portafoglio non collegato a Internet, usato per detenere in sicurezza Bitcoin a lungo termine.
+  - **Exchange**: Piattaforma online dove si possono scambiare criptovalute con altre valute Fiat, puo essere di due tipi CEX o DEX.
+  - **CEX**: (Centralized EXchange) una piattaforma di scambio di criptovalute gestita da una entità centralizzata.
+  - **DEX**: (Decentralized EXchange) una piattaforma di scambio di criptovalute gestita da una entità centralizzata.
+  - **LN**: (Lightning Network) Un sistema di pagamento di seconda mano per Bitcoin che permette transazioni più veloci e meno costose.
+  - **Sats**: La più piccola unità di Bitcoin, pari a un centomilionesimo di 1 Bitcoin.
+  - **Fork**: Una modifica delle regole e del codice di Bitcoin.
+  - **Mining**: Il processo di verifica delle transazioni e aggiunta di nuovi blocchi alla blockchain.
+  - **Full Node**: Un dispositivo connesso alla rete che ne supporta il funzionamento tramite la verifica, trasmissione di transazioni e mantiene una copia completa della Blockchain
+  - **Halving**: Evento che riduce di metà la ricompensa dei nuovi bitcoin ai miner, avviene circa ogni 4 anni.
+  - **Altcoin o Shitcoin**: Qualsiasi criptovaluta diversa da Bitcoin.
+  - **Double Spending**: Il rischio che una stessa unità di criptovaluta possa essere spesa più di una volta.
 
 
 - ## **12 - Come contribuire alla lista**
