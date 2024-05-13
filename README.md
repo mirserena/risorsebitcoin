@@ -355,6 +355,7 @@ Partiamo!
         - BEN ITALIA https://www.blockchainedu.net/
         - PLANB NETWORK https://planb.network/it/
         - VILLAGGIO BITCOIN https://www.villaggiobitcoin.it/
+        - QUIZ SU BITCOIN https://accademiasatoshi.com/
 
 
 - ## **4 - Tutorial**
