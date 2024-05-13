@@ -464,6 +464,7 @@ Partiamo!
   Piccolo glossario per neofiti dei termini tecnici ed acronimi piu utilizzati
 
   - **Satoshi Spritz**:  sono una serie di gruppi a cui piace parlare di Bitcoin (e solo di Bitcoin) bevendo uno spritz a cadenze regolari (es. ogni settimana) in una città precisa al fine di costituire una comunità di Bitcoiner distribuita in Italia.
+  - **OrangePill**: (derivato dalla scena red pill del film Matrix) simboleggia la comprensione e l'adozione di utilizzo di Bitcoin e tutto ciò che ne deriva
   - **KYC**: (Know Your Customer) è un processo di verificare dell'identità degli utenti, solitamente tramite invio di documenti di riconoscimento.
   - **Valuta FIAT**: è una moneta che non ha valore intrinseco ma è considerata di valore legale dal governo che la emette e gestisce.
   - **Cold Wallet**: Portafoglio non collegato a Internet, usato per detenere in sicurezza Bitcoin a lungo termine.
