@@ -355,6 +355,7 @@ Partiamo!
         - BEN ITALIA https://www.blockchainedu.net/
         - PLANB NETWORK https://planb.network/it/
         - VILLAGGIO BITCOIN https://www.villaggiobitcoin.it/
+        - QUIZ SU BITCOIN https://accademiasatoshi.com/
 
 
 - ## **4 - Tutorial**
@@ -462,13 +463,15 @@ Partiamo!
 
   Piccolo glossario per neofiti dei termini tecnici ed acronimi piu utilizzati
 
+  - **Satoshi Spritz**:  sono una serie di gruppi a cui piace parlare di Bitcoin (e solo di Bitcoin) bevendo uno spritz a cadenze regolari (es. ogni settimana) in una città precisa al fine di costituire una comunità di Bitcoiner distribuita in Italia.
+  - **OrangePill**: (derivato dalla scena red pill del film Matrix) simboleggia la comprensione e l'adozione di utilizzo di Bitcoin e tutto ciò che ne deriva
   - **KYC**: (Know Your Customer) è un processo di verificare dell'identità degli utenti, solitamente tramite invio di documenti di riconoscimento.
   - **Valuta FIAT**: è una moneta che non ha valore intrinseco ma è considerata di valore legale dal governo che la emette e gestisce.
   - **Cold Wallet**: Portafoglio non collegato a Internet, usato per detenere in sicurezza Bitcoin a lungo termine.
   - **Exchange**: Piattaforma online dove si possono scambiare criptovalute con altre valute Fiat, puo essere di due tipi CEX o DEX.
   - **CEX**: (Centralized EXchange) una piattaforma di scambio di criptovalute gestita da una entità centralizzata.
   - **DEX**: (Decentralized EXchange) una piattaforma di scambio di criptovalute gestita da una rete o protocollo distribuito senza nessuna entità centralizzata che ne controlla il comportamento.
-  - **LN**: (Lightning Network) Un sistema di pagamento di seconda mano per Bitcoin che permette transazioni più veloci e meno costose.
+  - **LN**: (Lightning Network) Un sistema di pagamento secondario per Bitcoin che permette transazioni più veloci e meno costose.
   - **Sats**: La più piccola unità di Bitcoin, pari a un centomilionesimo di 1 Bitcoin.
   - **Fork**: Una modifica delle regole e del codice di Bitcoin.
   - **Mining**: Il processo di verifica delle transazioni e aggiunta di nuovi blocchi alla blockchain.
@@ -479,7 +482,8 @@ Partiamo!
   - **P2P**: (Peer to Peer) Un sistema di rete in cui due o più computer si collegano e condividono risorse senza passare per un server o una entita' centrale.
   - **PoW**: (Proof of Work) Un meccanismo di consenso di Bitcoin che richiede ai partecipanti di eseguire calcoli dimostrabili per validare le transazioni.
   - **BIP**: (Bitcoin Improvement Proposal) Un documento formale che propone miglioramenti al protocollo Bitcoin, identificato da un numero.
-
+  - **CoinJoin**: Una transazione collaborativa in cui i partecipanti mescolano i loro fondi per migliorare la loro privacy e fungibilità.
+  - **JoinMarket**: Un software che permette di eseguire dei CoinJoin tra utenti in una rete P2P di utenti anonimi senza una entità centrale.
 
 - ## **12 - Come contribuire alla lista**
 
