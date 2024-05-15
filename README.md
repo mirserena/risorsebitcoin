@@ -136,6 +136,8 @@ Partiamo!
           - https://www.youtube.com/watch?v=jhlu5DlJBmk
         - Bitcoin Economia e Società, lezione al politecnico di Torino (iniziativa di BitGeneration)
           - https://www.youtube.com/watch?v=eZmjlNSgB5w
+        - Portal hardware wallet
+        	- https://www.youtube.com/watch?v=jYUt-caBWdA&t=3s
  	 - Canale Youtube di Alessandro Ottaviani: https://www.youtube.com/@alessandroottavianibitcoin4381
 	- Canale Youtube Cultura Bitcoin: https://www.youtube.com/@cryptoconsulting1984
 	- Canale Youtube Final Step Bitcoin: https://www.youtube.com/watch?v=jdNcEERUmps
@@ -228,16 +230,22 @@ Partiamo!
            - https://bitcoinforfreedom.it/
       	 - LNP/BP: una dolce introduzione
            - https://bitcoinforfreedom.it/bitcoin/lnp-bp-una-dolce-introduzione/
+    	- Multisig & Apporcci all'autocustodia
+     		- https://btcita.substack.com/p/singlesig-vs-multisig-approcci-allautocustodia
     	- Bitcoin Mining come carico ultra-flessibile
-    		- https://medium.com/@pireddaj87/bitcoin-mining-come-carico-ultra-flessibile-per-il-bilanciamento-della-rete-elettrica-nazionale-e-0d37cbb69919 
+    		- https://medium.com/@pireddaj87/bitcoin-mining-come-carico-ultra-flessibile-per-il-bilanciamento-della-rete-elettrica-nazionale-e-0d37cbb69919
+      - Shelling Out, l'origine della moneta
+      	- https://bitcoin24ore.com/shelling-out-lorigine-della-moneta/
+       - Capire Bitcoin nel 2023
+       		- https://medium.com/@alessandro.ottaviani84/capire-bitcoin-nel-2023-4b4633ba8696
+
 		- ATLAS21: news, editoriali, formazione
 			- https://atlas21.com/it/
 		- BITCOIN 24ore: news, editoriali, risorse
 			- https://t.co/hprYVEtXiv
 		- EUROPEAN BITCOIN: selezione degli articoli in Italiano
 			- https://europeanbitcoiners.com/tag/it/
-		- Capire Bitcoin nel 2023
-			- https://medium.com/@alessandro.ottaviani84/capire-bitcoin-nel-2023-4b4633ba8696
+		
       	                  
             
     - #### **2d - Libri da acquistare**
@@ -329,6 +337,7 @@ Partiamo!
         - https://t.me/privacyfolder
         - https://t.me/LightningNodes
         - https://t.me/bitaxe_italia
+        - https://t.me/ventunobtc
    
         
     - #### **3c - Social**
@@ -341,6 +350,7 @@ Partiamo!
 	- Plan B Forum a Lugano (25-26 ottobre 2024) : https://planb.lugano.ch/planb-forum/
 	- Lista dei Satoshi Spritz attivi in Italia: http://satoshispritz.it
 	- Satoshi Spritz a Lugano: https://x.com/SatoshiLugano?s=20
+	- Bitcoin Beer https://bitcoinbeer.events/
 	- Meetup
 		- Milano - https://www.meetup.com/bitcoinmilano/ (Canale Youtube: https://www.youtube.com/watch?v=Pws1pnJQlpc)
    		- Pisa https://www.meetup.com/Pisa-Bitcoin-Meetup/
@@ -376,6 +386,7 @@ Partiamo!
 - Phoenix wallet https://m.youtube.com/watch?feature=shared&fbclid=PAAaYfHamM2BbmEW0RC-114CZZR4X1CtvadN8hqhHtwUHs_1AX7qpg7NKhs5Y&v=zlfuiO5Iyc0
 - Installare un full node https://github.com/BitcoBomb/Bitcoin-FullNode-easy/blob/main/Full%20Node
 - Installare Electrum server https://github.com/BitcoBomb/Server-Electrum/blob/main/Electrum%20Server%20%2B%20Electrum%20Wallet
+- Joinmarket https://turtlecute.org/joinmarket
 	
 - ## **5 - Acquisire BTC off-Exchange**
 
@@ -388,6 +399,7 @@ Partiamo!
 - Pocket (Non-Custodial, LIGHT KYC oltre determinate soglie) https://pocketbitcoin.com/it
 - Bitmoon Bitcoin People: Exchange non-custodial https://bitmoon.bitcoinpeople.it/
 - Comproeuro® a Rovereto https://comproeuro.it
+- Azteco https://btcita.substack.com/p/azteco-acquistare-bitcoin-senza-rivelare
 
 
 - ## **6 - Acquisire BTC on Exchange**
@@ -439,8 +451,6 @@ Partiamo!
     - http://www.borducan.com/ (hotel & ristorante)
       
   
-
-
 - ## **9 - Siti aggregatori di risorse in italiano su Bitcoin**
     
     - https://bitcoin-translate.it
@@ -461,7 +471,7 @@ Partiamo!
 
 - ## **11 - Glossario**
 
-  Piccolo glossario per neofiti dei termini tecnici ed acronimi piu utilizzati
+  Piccolo glossario per neofiti dei termini tecnici ed acronimi più utilizzati
 
   - **Satoshi Spritz**:  sono una serie di gruppi a cui piace parlare di Bitcoin (e solo di Bitcoin) bevendo uno spritz a cadenze regolari (es. ogni settimana) in una città precisa al fine di costituire una comunità di Bitcoiner distribuita in Italia.
   - **OrangePill**: (derivato dalla scena red pill del film Matrix) simboleggia la comprensione e l'adozione di utilizzo di Bitcoin e tutto ciò che ne deriva
@@ -484,6 +494,8 @@ Partiamo!
   - **BIP**: (Bitcoin Improvement Proposal) Un documento formale che propone miglioramenti al protocollo Bitcoin, identificato da un numero.
   - **CoinJoin**: Una transazione collaborativa in cui i partecipanti mescolano i loro fondi per migliorare la loro privacy e fungibilità.
   - **JoinMarket**: Un software che permette di eseguire dei CoinJoin tra utenti in una rete P2P di utenti anonimi senza una entità centrale.
+
+Per approfondire altri termini: https://shrill-water-3846.on.fleek.co/
 
 - ## **12 - Come contribuire alla lista**
 
