@@ -138,6 +138,8 @@ Partiamo!
           - https://www.youtube.com/watch?v=eZmjlNSgB5w
         - Portal hardware wallet
         	- https://www.youtube.com/watch?v=jYUt-caBWdA&t=3s
+         - Intervista all'avv. Martina Granatiero su Mica e regolamento Europeo
+         	- https://www.youtube.com/watch?v=Nz6KwJbSNXU 
  	 - Canale Youtube di Alessandro Ottaviani: https://www.youtube.com/@alessandroottavianibitcoin4381
 	- Canale Youtube Cultura Bitcoin: https://www.youtube.com/@cryptoconsulting1984
 	- Canale Youtube Final Step Bitcoin: https://www.youtube.com/watch?v=jdNcEERUmps
