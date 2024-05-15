@@ -442,7 +442,7 @@ Partiamo!
     - https://www.tritema.ch (VPS hosting & VOIP)
     - https://www.denali.eu (web, cloud, VPN, hosting)
     - https://pharmalite.com/ (farmacia online e negozio fisico)
-    - https://linktr.ee/intermediazionepostalebtc (spedizioni)
+    - https://linktr.ee/bitpost (spedizioni)
     - https://www.grisomeats.com/ (carne)
     - https://www.instagram.com/dagiggino/ (cannoli)
     - https://osteriagiapponese.wixsite.com/ajiosteriagiapponese (osteria giapponese)
