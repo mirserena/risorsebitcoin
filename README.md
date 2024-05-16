@@ -161,7 +161,9 @@ Partiamo!
  	   - Trascrizione di documenti della Libreria del Satoshi Nakamoto Institute
             - https://github.com/21MillionClub/Libreria-Satoshi-Nakamoto-Institute-ITA
     	- Un'analisi delle diverse fee rates
-    		- https://btcita.substack.com/p/alla-polvere-ritornerai)	
+    		- https://btcita.substack.com/p/alla-polvere-ritornerai
+      - Presentazioni di Anil in Ita
+      	- https://loop-btc.github.io/anil/	
  
 
             
@@ -240,6 +242,8 @@ Partiamo!
       	- https://bitcoin24ore.com/shelling-out-lorigine-della-moneta/
        - Capire Bitcoin nel 2023
        		- https://medium.com/@alessandro.ottaviani84/capire-bitcoin-nel-2023-4b4633ba8696
+		- Il mondo ha bisogno di LN
+			- https://www.musclesatz.com/it/articles/il-mondo-ha-bisogno-di-lightning-network/
 
 		- ATLAS21: news, editoriali, formazione
 			- https://atlas21.com/it/
