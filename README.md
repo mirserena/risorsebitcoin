@@ -364,6 +364,7 @@ Partiamo!
   		- Torino https://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/
    		- Venezia https://www.meetup.com/it-IT/Bitcoin-Venezia/
   		- Verona - https://www.meetup.com/it-IT/Bitcoin-Verona/
+  		- Arezzo - https://t.me/arezzobitcoinmeetup
       
     - #### **3e - Educazione su Bitcoin**
         - BITPOLITO, Università di Torino https://www.bitpolito.it/
