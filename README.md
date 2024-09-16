@@ -435,6 +435,7 @@ Partiamo!
   - https://www.bitrefill.com/it/it/
   - https://www.coinsbee.com/it/
 - Mappe
+  - https://btcmap.org
   - LUGANO: https://planb.lugano.ch/crypto-pagamenti/?lang=it
   - ROVERETO: https://bitcoinpos.it/map.html
   - BOLOGNA: http://orangeconomy.atwebpages.com/index.html
