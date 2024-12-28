@@ -391,8 +391,8 @@ Partiamo!
 - BTC pay server italia LN tutorial https://www.youtube.com/watch?v=ySZBaBIzLgQ
 - Full node su Android https://medium.blockchainedu.net/come-installare-un-full-node-bitcoin-su-uno-smartphone-android-42e8cf73021d
 - Phoenix wallet https://m.youtube.com/watch?feature=shared&fbclid=PAAaYfHamM2BbmEW0RC-114CZZR4X1CtvadN8hqhHtwUHs_1AX7qpg7NKhs5Y&v=zlfuiO5Iyc0
-- Installare un full node https://github.com/BitcoBomb/Bitcoin-FullNode-easy/blob/main/Full%20Node
-- Installare Electrum server https://github.com/BitcoBomb/Server-Electrum/blob/main/Electrum%20Server%20%2B%20Electrum%20Wallet
+- Installare full node Bitcoin su MiniPc Linux https://github.com/BitcoBomb/Bitcoin-FullNode-easy
+- Installare Electrs su MiniPc Linux https://github.com/BitcoBomb/Server-Electrum
 - Joinmarket https://turtlecute.org/joinmarket
 	
 - ## **5 - Acquisire BTC off-Exchange**
