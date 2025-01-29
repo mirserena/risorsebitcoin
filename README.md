@@ -144,6 +144,7 @@ Partiamo!
 	- Canale Youtube Cultura Bitcoin: https://www.youtube.com/@cryptoconsulting1984
 	- Canale Youtube Final Step Bitcoin: https://www.youtube.com/watch?v=jdNcEERUmps
  	- Canale Youtube Economia Austriaca: https://www.youtube.com/@libertarianclaudio
+  - Canale Youtube alevand: https://www.youtube.com/@alevand
     
        
 
@@ -261,7 +262,6 @@ Partiamo!
             - https://qabitcoin.davidcoen.it/product/domande-e-risposte-su-bitcoin-pay-with-btc/
         - Bitcoin 199 domande
             - https://www.amazon.it/gp/product/B07TXZP8GS/ref=dbs_a_def_rwt_bibl_vppi_i1
-  
         - Mastering Bitcoin
             - https://www.amazon.it/gp/product/B07WHDK5K9/ref=dbs_a_def_rwt_bibl_vppi_i0
         - Il Bitcoin Standard
@@ -298,6 +298,18 @@ Partiamo!
   			- https://amzn.eu/d/aakV3YA
     - Manuale per l'autocustodia e privacy di Bitcoin 
         - https://checkpointbitcoin.it/manuale-autocustodia-privacy-bitcoin/
+    - Uno scenario ottimista per Bitcoin
+        - https://amzn.to/4hbklhp
+    - La Blocksize War: La Battaglia per il Controllo delle Regole del Protocollo Bitcoin
+        - https://amzn.to/4ghRiaz
+    - Missione El Salvador. Avventura, Natura e Bitcoin
+        - https://amzn.to/4jCQ7Wc
+    - Il FIAT Standard
+        - https://shop.usemlab.com/home/158-il-fiat-standard.html
+    - L'individuo sovrano
+        - https://shop.usemlab.com/home/182-l-individuo-sovrano-softcover.html
+    - Avanti Bitcoin, Dopo Bitcoin
+        - https://amzn.to/40W0Tj2
         
 
     - #### **2e - Corsi**
@@ -308,6 +320,8 @@ Partiamo!
             - https://ascuoladibitcoin.com/
     	- L'evoluzione della moneta
      		- https://anilsaidso.gumroad.com/l/money 	 
+      - PlanB Network
+        - https://planb.network/it/courses  
 
 
     - #### **2f - Podcast e Ascolti**
@@ -316,14 +330,16 @@ Partiamo!
             - https://www.bitcoinitaliapodcast.it/
         - Il Priorato Del Bitcoin
             - https://priorato.org
-    	- Arancione Podcast
-     		- https://open.spotify.com/show/5qq9eKOLlpZirubGEoHkUG?si=3401dace57f34570
-		- Bitcoin da Asporto
- 			- https://open.spotify.com/show/3vrqaOakr5TMmHg3oOfw1q?si=8d29df2da0194fe8   	
+    	  - Arancione Podcast
+     		    - https://open.spotify.com/show/5qq9eKOLlpZirubGEoHkUG?si=3401dace57f34570
+		    - Bitcoin da Asporto
+ 			      - https://open.spotify.com/show/3vrqaOakr5TMmHg3oOfw1q?si=8d29df2da0194fe8   	
         - Episodio di Radio24 sugli NFT con Giacomo Zucco da Pagliarini
             - https://www.radio24.ilsole24ore.com/programmi/2024/puntata/nft-data-center-e-backup-rimborso-windows-social-audio-220521-ADACIqPB
-  		- 10 consigli per interagire con Bitcoin in modo privato (articolo e audio)
+  		  - 10 consigli per interagire con Bitcoin in modo privato (articolo e audio)
             - https://btcita.substack.com/p/10-consigli-per-interagire-con-bitcoin	
+        - Bitcoin Cabana
+            - https://bitcoincabana.com/
       
        			
 - ## **3 - Community** 
@@ -441,6 +457,7 @@ Partiamo!
   - https://www.quibitcoin.it/
   - https://bitcoinpeople.it/attivita-accettano-pagamenti-in-bitcoin
   - https://www.villaggiobitcoin.it/chi-accetta-bitcoin
+  - BTCMAP: https://btcmap.org/
 - Singole attività
     - https://hack.bs.it/ (Coworking, hackerspace & Bitcoin shop)
     - https://hodlemoon.com/it/#home (Gioco da Tavola a tema BTC)
