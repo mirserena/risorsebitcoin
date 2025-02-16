@@ -342,7 +342,7 @@ Partiamo!
         - https://t.me/BitcoinSicurezzaPrivacy
         - https://t.me/privacyfolder
         - https://t.me/LightningNodes
-        - https://t.me/bitaxe_italia
+        - https://t.me/HomeMiningItalia
         - https://t.me/ventunobtc
    
         
